@@ -1,0 +1,29 @@
+#+pagetitle: roast pork tenderloin with ginger and soy
+
+** roast pork tenderloin with ginger and soy
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-meat.org][meat]]]
+
+ ingredients:
+
+#+begin_verse
+ pork tenderloin, ~2 lbs.
+ 1 cup soy sauce
+ 1 bulb garlic
+ 3 '' ginger root
+ 3.5 Tbsp sugar
+ 1/2 cup sake
+ 1/2 cup rice wine vinegar
+ bunch of green onions, sliced
+ string to tie pork
+#+end_verse
+
+ Mince half of garlic and ginger. Stuff inside of pork and tie in 1''
+ i intervals. Put in bag and add soy sauce, sake, vinegar, sugar,
+ green onions, and remaining garlic and ginger (ground). Marinate in
+ fridge for 1 day.  Preheat oven to 350. Pour meat and juice into
+ baking pan. Cover with Al foil. Bake for ~ 1 hr per pound, until meat
+ temperature is ~165. (It was 180 this time, and that was good) Remove
+ from pan. Cool on plate. Save marinade for gravy.

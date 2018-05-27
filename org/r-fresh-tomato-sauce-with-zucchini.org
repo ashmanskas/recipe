@@ -1,0 +1,26 @@
+#+pagetitle: fresh tomato sauce with zucchini
+
+** fresh tomato sauce with zucchini
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-italian.org][italian]]]
+
+#+begin_verse
+ 1 Tbsp olive oil
+ 1 c chopped onion
+ 2 Tbsp chopped garlic
+ 3 c. zucchini, cut into half-moon slices (2-3 zucchini)
+ 2 small cans chopped tomatoes
+ 1/4 c balsamic or red wine vinegar
+ Black pepper
+ 1/8 to 1/4 c chopped basil (fresh or dried)
+ 1/4 c grated Parmesan cheese
+#+end_verse
+
+ Heat olive oil.  Add onions and cook until soft and slightly browned.  
+ Add garlic and cook for about 5 minutes.  Add zucchini and cook for a few 
+ minutes, stirring frequently.  Add tomatoes.  Raise heat and add vinegar, 
+ mixing well.  Bring to boil, then reduce heat and simmer until some of 
+ tomato liquid boils away (10 minutes).  Add salt, pepper, basil and 
+ stir.  Serve over pasta and sprinkle with cheese.

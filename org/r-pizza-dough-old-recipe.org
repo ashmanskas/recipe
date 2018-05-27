@@ -1,0 +1,25 @@
+#+pagetitle: pizza dough old recipe
+
+** pizza dough old recipe
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-bread.org][bread]]]
+
+#+begin_verse
+ 1 1/2 cups warm (105-115 F) water
+   1   pkg dry yeast
+   2   tsp salt
+  1/2  tsp garlic powder
+  1/4  cup olive oil, plus oil for bowl
+   4   cups unbleached all-purpose flour
+
+ In a large bowl, whisk together water and yeast.  Let stand 5 min.
+ Whisk in salt, garlic powder, and olive oil.  Stir in 3 1/2 cups of
+ flour, until soft dough forms.  Sprinkle work surface with flour.
+ Turn out the dough.  Knead 5 min, until smooth.  Lightly oil a large
+ bowl.  Put in dough, turn it to coat it with oil, and cover with a
+ clean towel.  Let rise 2 hours, until puffy & light.
+#+end_verse
+
+ source: "Burning Desires" cookbook

@@ -1,0 +1,44 @@
+#+pagetitle: rack of lamb
+
+** rack of lamb
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-meat.org][meat]]]
+
+ 1 rack serves 2, if you make sides
+
+#+begin_verse
+ 1 rack (frenched)
+ olive oil
+ fresh rosemary, thyme, sage, parsley
+ fresh ground black pepper, salt
+
+ olive oil (1 tspsp for sauce)
+ 1/2 c red wine
+ 1/2 c chicken stock
+ 1 tbsp red wine vinegar
+ 12 garlic coves, peeled
+ salt & pepper
+
+ rack:
+ preheat oven 475
+ rub salt pepper herbs over lamb
+ in a heavy skillet, head olive oil
+ brown lamb on both sides for 3 min each
+ save pen juices for sauce
+ transfer lamb to roasting pan & rost (fat side up)
+ uncovered until interal T is 130-135
+#+end_verse
+
+ sauce:
+ use original browning skillet - add all sauce
+ ingredients, bring to a boil scraping browned
+ pieces from bottom of pan.  cover & cook for 10 min
+ at a simmer.  (if there are left over herbs, can
+ use them here too.)
+
+ remove lid & reduce sauce at a boil until it
+ becomes syrupy.  during this process, add more wine or 
+ more of any of the ingredients, to taste.  i used some
+ flour this time - work3d well.

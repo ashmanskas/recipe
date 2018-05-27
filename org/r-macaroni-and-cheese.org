@@ -1,0 +1,24 @@
+#+pagetitle: macaroni and cheese
+
+** macaroni and cheese
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-side.org][side]]]
+
+#+begin_verse
+ 1 c large elbow macaroni
+ 1.5 c (about 1/2 lb) American cheese, diced
+ 1 egg
+ several pats butter
+ 1 c milk
+#+end_verse
+
+ Cook and drain macaroni.  Put a layer of macaroni in baking dish, then
+ a layer of cheese.  Put one pat of butter in each corner of dish and
+ the center.  Repeat layers: macaroni, cheese, then butter.  Beat egg
+ and add milk.  Pour over macaroni and cheese.  (Maybe add a tiny bit
+ more milk here, but not too much or it will be really runny.)  Bake
+ uncovered at 350 for 30 minutes.
+
+ from great-great-grandmother Parkinson, so I am told

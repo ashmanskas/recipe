@@ -1,0 +1,31 @@
+#+pagetitle: grilled lemon salmon
+
+** grilled lemon salmon
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-fish.org][fish]]]
+
+#+begin_verse
+  1.5 lbs salmon filet
+   2  tsp fresh dill
+  1/2 tsp pepper
+  1/2 tsp salt
+  1/2 tsp garlic powder
+  1/4 cup brown sugar
+   3  tbsp oil
+   1  cube bouillion
+   3  tbsp water
+   3  tbsp soy sauce
+   4  tbsp green onions
+   1  lemon, thinly sliced
+   2  slices onions, separated into rings
+#+end_verse
+
+ Sprinkle dill, salt, pepper, garlic powder over salmon and place in
+ shallow pan.  Mix sugar, bouillon, oil, soy sauce, and green onions.
+ Pour over salmon.  Cover and chill one hour, turn once.  Drain and
+ discard marinade.  Grill over medium heat, with lemon and onion on
+ top.  Cover and cook ~ 15 minutes until fish is done.
+
+ source: Wellness Matters from Os-Cal (?)

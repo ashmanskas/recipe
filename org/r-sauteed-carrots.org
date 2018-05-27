@@ -1,0 +1,15 @@
+#+pagetitle: sauteed carrots
+
+** sauteed carrots
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-side.org][side]]]
+
+#+begin_verse
+ carrots
+ onions
+ a bit of brown sugar
+#+end_verse
+
+ sautee 

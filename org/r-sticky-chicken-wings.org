@@ -1,0 +1,20 @@
+#+pagetitle: sticky chicken wings
+
+** sticky chicken wings
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-poultry.org][poultry]]]
+
+#+begin_verse
+ 1/2 c. soy sauce
+ 1/2 c. sugar
+ 1/2 tsp. ground ginger
+ Dash of garlic powder
+ 2 Tbsp. ketchup
+ 1 pkg. mini-drumsticks or wings
+#+end_verse
+
+ Mix top five ingredients and pour over chicken wings.  Marinate overnight.
+ Remove chicken wings from marinade and place in foil-lined baking pan. Bake at
+ 350 degrees for 1 hour, turning chicken and basting it about every 15 minutes.

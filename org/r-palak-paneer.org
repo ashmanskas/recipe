@@ -1,0 +1,28 @@
+#+pagetitle: palak paneer
+
+** palak paneer
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-indian.org][indian]]]
+
+: 
+:  1 (15 oz) pkg ricotta (see variation)  1 clove garlic, chopped
+:  1 pkg chopped spinach, thawed          1 tsp ground cumin
+:  1/4 c chopped onion                    1/2 tsp coriander
+:  1/4 c yogurt (or sour cream)           1/2 tsp turmeric
+:  1" ginger, grated                      2 chiles, chopped
+: 
+
+ - Bake ricotta for 40 min at 350.  Cut into cubes.
+
+ - Varation: Use tofu instead of ricotta.  Dry then bake at 200 for 30
+   min.
+
+ - Heat oil & fry onion, garlic, ginger, chiles until onion is
+   golden.  Add spices, then yogurt (or sour cream), then spinach.  Add
+   cheese (or tofu) & 1/2 cup water.  Simmer for 15 minutes.
+
+ (A favorite Indian restaurant gets this much smoother and creamier
+ than I have ever managed.  They say they achieve this by letting it
+ cook slowly for hours.)

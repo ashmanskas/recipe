@@ -1,0 +1,14 @@
+#+pagetitle: recipe-category-ana
+
+** category: ana
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+  - [[file:r-brisket-ana.org][brisket Ana]] [[[file:c-ana.org][ana]]] [[[file:c-meat.org][meat]]]
+  - [[file:r-caesar-salad-ana.org][Caesar salad Ana]] [[[file:c-ana.org][ana]]] [[[file:c-salad.org][salad]]]
+  - [[file:r-chicken-ana.org][chicken Ana]] [[[file:c-ana.org][ana]]] [[[file:c-poultry.org][poultry]]]
+  - [[file:r-filet-mignon-ana.org][filet mignon Ana]] [[[file:c-ana.org][ana]]] [[[file:c-meat.org][meat]]]
+  - [[file:r-fish-ana.org][fish Ana]] [[[file:c-ana.org][ana]]] [[[file:c-fish.org][fish]]]
+  - [[file:r-tenderloin-ana.org][tenderloin Ana]] [[[file:c-ana.org][ana]]] [[[file:c-meat.org][meat]]]
+
+

@@ -1,0 +1,35 @@
+#+pagetitle: farfalle with tomatoes, onions, and spinach
+
+** farfalle with tomatoes, onions, and spinach
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-italian.org][italian]]]
+
+#+begin_verse
+ 1 tablespoon plus 1/4 teaspoon salt
+ 8 ounces uncooked farfalle pasta
+ 2 tablespoons extra-virgin olive oil, divided
+ 1 cup vertically sliced yellow onion
+ 1 teaspoon dried oregano
+ 5 garlic cloves, sliced
+ 2 cups grape tomatoes, halved
+ 1 tablespoon white wine vinegar
+ 3 cups baby spinach
+ 3 tablespoons shaved fresh Parmigiano-Reggiano cheese
+ 1/4 teaspoon freshly ground black pepper
+ 3/4 cup (3 ounces) crumbled feta cheese
+#+end_verse
+
+ Preparation
+
+ 1. Bring a large pot of water to a boil with 1 tablespoon salt. Add
+    pasta, and cook according to package directions; drain.
+
+ 2. Heat 1 tablespoon oil in a large nonstick skillet over medium-high
+    heat. Add onion and oregano; sautee 12 minutes or until lightly
+    browned. Add garlic; sautee 2 minutes. Add tomatoes and vinegar; sautee
+    3 minutes or until tomatoes begin to soften. Add pasta and spinach;
+    cook 1 minute. Remove from heat, and stir in Parmigiano-Reggiano,
+    remaining 1 tablespoon oil, remaining 1/4 teaspoon salt, and
+    pepper. Sprinkle with feta.

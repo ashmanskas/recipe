@@ -1,0 +1,19 @@
+#+pagetitle: asparagus soup
+
+** asparagus soup
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-soup.org][soup]]]
+
+ source: Simone Donati
+
+#+begin_verse
+ vegetable broth
+ salt
+ red pepper
+ asparagus (boil a bit to soften up)
+ crab meat
+ corn starch
+ egg (beaten, add drop by drop)
+#+end_verse

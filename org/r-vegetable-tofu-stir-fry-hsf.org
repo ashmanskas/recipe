@@ -1,0 +1,15 @@
+#+pagetitle: vegetable tofu stir fry HSF
+
+** vegetable tofu stir fry HSF
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-asian.org][asian]]]
+
+ I roughly followed this stir-fry recipe last night (March 2013),
+ though I used corn starch instead of arrowroot as a thickener for the
+ sauce.
+
+ I think a bit less brown sugar next time would be an improvement.
+
+ http://www.drweil.com/drw/u/RCP00173/vegetable-tofu-stir-fry.html

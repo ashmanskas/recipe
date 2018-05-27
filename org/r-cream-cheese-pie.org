@@ -1,0 +1,23 @@
+#+pagetitle: cream cheese pie
+
+** cream cheese pie
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-dessert.org][dessert]]]
+
+#+begin_verse
+ 8oz pkg cream cheese
+ 1/2 cup sugar
+ 1 tsp vanilla
+ 1 container of cool whip
+ maybe 2 tbsp sour cream
+ graham cracker pie shell
+
+ let cream cheese soften
+ mix cream cheese, sugar, vanilla, cool whip, sour cream
+ put in pie shell
+ let chill overnight
+#+end_verse
+
+ source: pop-pop Magda

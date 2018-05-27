@@ -1,0 +1,48 @@
+#+pagetitle: shepherd's pie
+
+** shepherd's pie
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-meat.org][meat]]]
+
+ source: the real man's cookbook
+
+ Serving Size : 8 Preparation Time :0:30
+
+#+begin_verse
+ Ingredients:
+ 1 pound hamburger
+ 1 onion
+ 1 carrot
+ 1 cup peas
+ 1 dash garlic powder
+ 1 dash pepper
+ 2/3 cup milk
+ 4 tablespoons margarine
+ 2 2/3 cups mashed potato flakes
+ 1 can mushroom soup
+ 2 slices cheddar cheese
+ 3 dashes paprika
+#+end_verse
+
+ Fry hamburger, onion, carrot and peas in skillet, add garlic and
+ pepper. Don't forget to drain the grease unless you have a
+ cardiologist handy - full time.
+
+ Add mushroom soup to mixture and dump into bottom of some sort of
+ baking pan.
+
+ Boil 2 2/3 cup water, milk and margarine in pan. When it comes to a
+ boil - which doesn't take as long as you think - and if you let it
+ boil over it can make a heck of a mess - anyway, when it comes to a
+ boil, remove from heat and add the potato flakes stirring vigorously
+ until it becomes a paste-like gloppy substance...or at least it looks
+ like your idea of mashed potatoes.
+
+ Spread this substance evenly over the hamburger mixture. Place slices
+ of cheese on top and criss-cross the paprika. Cover the entire dish
+ and put in the oven at 375 for 1/2 hour to 1 hour. Serve to shepherds
+ or shepherdesses as the case may be.
+
+ Serving Ideas : This is one of those stand alone dishes.

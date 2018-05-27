@@ -1,0 +1,37 @@
+#+pagetitle: Caesar salad Ana
+
+** Caesar salad Ana
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-ana.org][ana]]] [[[file:c-salad.org][salad]]]
+
+#+begin_verse
+ (serves 4)
+
+ 1 large romaine lettuce
+ 1 can Cento anchovy filets
+ 2 tbsp worcestershire sauce
+ 1 heaping tbsp dijon mustard
+ 1/4 cup wesson vegetable oil
+ 1 raw egg yolk
+
+ wooden salad bowl
+ garlic press
+ press 2-3 cloves of garlic and place throughout wooden bowl
+
+ squeeze fresh lemon on wooden bowl that already has romaine and
+ seasoned croutons
+
+ in a mixing bowl, first
+ anchovy filets
+ dash of fresh ground pepper, then
+ remainder of ingredients
+
+ stir thoroughly, then 
+ add raw egg
+
+ fresh parmesan cheese to taste
+#+end_verse
+
+ source:  Alison's aunt Ana

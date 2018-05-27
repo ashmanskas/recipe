@@ -1,0 +1,33 @@
+#+pagetitle: recipe-category-italian
+
+** category: italian
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+  - [[file:r-bechamel-sauce.org][bechamel sauce]] [[[file:c-french.org][french]]] [[[file:c-italian.org][italian]]]
+  - [[file:r-bruschetta-nyt.org][bruschetta NYT]] [[[file:c-italian.org][italian]]] [[[file:c-nyt.org][nyt]]]
+  - [[file:r-chicken-marsala.org][chicken marsala]] [[[file:c-italian.org][italian]]]
+  - [[file:r-chicken-parmigiana.org][chicken parmigiana]] [[[file:c-italian.org][italian]]]
+  - [[file:r-clam-pasta-sauce-alex.org][clam pasta sauce Alex]] [[[file:c-italian.org][italian]]]
+  - [[file:r-egg-pasta.org][egg pasta]] [[[file:c-italian.org][italian]]]
+  - [[file:r-eggplant-pasta-sauce.org][eggplant pasta sauce]] [[[file:c-italian.org][italian]]]
+  - [[file:r-farfalle-with-tomatoes-onions-and-spinach.org][farfalle with tomatoes, onions, and spinach]] [[[file:c-italian.org][italian]]]
+  - [[file:r-fresh-tomato-sauce-with-zucchini.org][fresh tomato sauce with zucchini]] [[[file:c-italian.org][italian]]]
+  - [[file:r-garlic-bread.org][garlic bread]] [[[file:c-bread.org][bread]]] [[[file:c-italian.org][italian]]]
+  - [[file:r-giant-shells-filled-with-spinach-and-ricotta.org][giant shells filled with spinach and ricotta]] [[[file:c-italian.org][italian]]] [[[file:c-nyt.org][nyt]]]
+  - [[file:r-gnocchi.org][gnocchi]] [[[file:c-italian.org][italian]]]
+  - [[file:r-lasagna.org][lasagna]] [[[file:c-italian.org][italian]]]
+  - [[file:r-pasta-with-zucchini-pine-nuts-lemon-and-herbs.org][pasta with zucchini, pine nuts, lemon, and herbs]] [[[file:c-italian.org][italian]]]
+  - [[file:r-pesto.org][pesto]] [[[file:c-italian.org][italian]]]
+  - [[file:r-puttanesca-sauce.org][puttanesca sauce]] [[[file:c-italian.org][italian]]]
+  - [[file:r-ravioli-filled-with-ricotta-cheese-and-spinach.org][ravioli filled with ricotta cheese and spinach]] [[[file:c-italian.org][italian]]]
+  - [[file:r-risotto-with-mushrooms-and-peas-nyt.org][risotto with mushrooms and peas NYT]] [[[file:c-italian.org][italian]]] [[[file:c-nyt.org][nyt]]]
+  - [[file:r-risotto-with-shrimp-etc-.org][risotto with shrimp, etc.]] [[[file:c-italian.org][italian]]]
+  - [[file:r-risotto-with-tomato-and-basil.org][risotto with tomato and basil]] [[[file:c-italian.org][italian]]] [[[file:c-nyt.org][nyt]]]
+  - [[file:r-seafood-pasta-sauce.org][seafood pasta sauce]] [[[file:c-italian.org][italian]]]
+  - [[file:r-spaghetti-sauce.org][spaghetti sauce]] [[[file:c-italian.org][italian]]]
+  - [[file:r-spinach-lasagna.org][spinach lasagna]] [[[file:c-italian.org][italian]]]
+  - [[file:r-spinach-ravioli.org][spinach ravioli]] [[[file:c-italian.org][italian]]]
+  - [[file:r-vegetable-garden-lasagne.org][vegetable garden lasagne]] [[[file:c-italian.org][italian]]]
+
+

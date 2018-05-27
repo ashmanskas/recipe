@@ -1,0 +1,37 @@
+#+pagetitle: cashew chicken
+
+** cashew chicken
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-asian.org][asian]]]
+
+#+begin_verse
+ 1/3 c roasted cashew nuts, salted or unsalted
+ 4 Tbsp oil
+ 1 green onion, cut into pea size pieces, including green part
+ 2 slices fresh ginger root, about quarter-size
+ 4 Chinese dried mushrooms, soak until soft and cut into small pieces
+ 1/2 c chopped green or red bell pepper (I leave this out, of course)
+ 1/3 c sliced water chestnuts
+ 1/3 c bamboo shoots
+ 2 chicken breasts, cut into cubes
+ 1 tsp cornstarch, mixed with 2 tsp water
+
+ Sauce (may want to double this):
+ 1 Tbsp + 1 tsp soy sauce
+ 1/4 tsp saugar
+ 1 Tbsp sherry
+ 1/4 tsp salt
+
+ 1. Heat wok over high heat.  Swirl in oil for stir-frying. Add green
+ onion and ginger.  Discard ginger when it turns light brown.
+ 2.  Add mushrooms and stir-fry for about 30 seconds.  Add remaining
+ vegetables and stir-fry for about 20 seconds.  Remove vegetables with
+ slotted spoon and set aside.
+ 3.  Add chicken and stir-fry until almost completely cooked.  Stir in
+ sauce mixture, then stir in cornstarch mixture to thicken.  Return
+ vegetables to wok and stir mixture to reheat.  Stir half the cashew
+ nuts into mixture.
+ 4.  Serve on platter and sprinkle with remaining cashew nuts.
+#+end_verse

@@ -1,0 +1,19 @@
+#+pagetitle: seafood pasta sauce
+
+** seafood pasta sauce
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-italian.org][italian]]]
+
+#+begin_verse
+ olive oil
+ garlic
+ flat parsley (or basil)
+ maybe a tiny bit of tomato
+ crushed red pepper
+ white wine
+ conch or clam
+#+end_verse
+
+ source: Stefano Belforte

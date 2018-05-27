@@ -1,0 +1,9 @@
+#+pagetitle: turkey NYT
+
+** turkey NYT
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-nyt.org][nyt]]] [[[file:c-poultry.org][poultry]]]
+
+ http://cooking.nytimes.com/guides/how-to-cook-a-turkey

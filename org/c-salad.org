@@ -1,0 +1,10 @@
+#+pagetitle: recipe-category-salad
+
+** category: salad
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+  - [[file:r-caesar-salad-ana.org][Caesar salad Ana]] [[[file:c-ana.org][ana]]] [[[file:c-salad.org][salad]]]
+  - [[file:r-egg-free-caesar-salad.org][egg-free Caesar salad]] [[[file:c-salad.org][salad]]]
+
+

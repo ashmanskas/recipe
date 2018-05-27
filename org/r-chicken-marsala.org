@@ -1,0 +1,55 @@
+#+pagetitle: chicken marsala
+
+** chicken marsala
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-italian.org][italian]]]
+
+ CHICKEN MARSALA
+
+ Wine, lemons, and mushrooms flavor this chicken recipe the lower salt
+ and lower fat way.
+
+#+begin_verse
+ 1/8 tsp       black pepper
+ 1/4 tsp       salt
+ 1/4 C         flour
+   4           chicken breasts, boned, skinless (5 ounces)
+ 1 Tbsp        olive oil
+ 1/2 C         Marsala wine
+ 1/2 C         chicken stock, skim fat from top
+ 1/2 lemon     fresh lemon juice
+ 1/2 C         sliced mushrooms
+ 1 Tbsp        fresh parsley, chopped
+#+end_verse
+ 
+
+ Mix together pepper, salt, and flour. Coat chicken with seasoned flour.
+
+ In a heavy-bottomed skillet, heat oil. Place chicken breasts in
+ skillet and brown on both sides. Then remove chicken from skillet and
+ set aside.
+
+ To the skillet, add wine and stir until the wine is heated. Add juice,
+ stock, and mushrooms. Stir to toss, reduce heat, and cook for about 10
+ minutes until the sauce is partially reduced.
+
+ Return browned chicken breasts to skillet. Spoon sauce over the
+ chicken.
+
+ Cover and cook for about 5-10 minutes or until chicken is done.
+
+ Serve sauce over chicken. Garnish with chopped parsley.
+
+ Yield: 4 servings--Serving Size: 1 chicken breast with 1/3 cup sauce
+
+ Each serving provides:
+
+ Calories: 277
+ Total fat: 8 g
+ Saturated fat: 2 g
+ Cholesterol: 77 mg
+ Sodium: 304 mg 
+
+ source: http://www.nhlbi.nih.gov/health/public/heart/other/syah/chickmar.htm

@@ -1,0 +1,40 @@
+#+pagetitle: peas with whole cumin and mustard seeds
+
+** peas with whole cumin and mustard seeds
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-indian.org][indian]]]
+
+ note: I used to double the sauce, but it now seems to me that the
+ recipe as stated is just right for one one-pound bag of frozen peas.
+
+ also: don't use a jalopeno, as it is too hot!  and whatever pepper
+ you use, be sure to discard the seeds!
+
+#+begin_verse
+  1/4  tsp sugar
+  1/2  tsp ground cumin
+  1/2  tsp ground garam masala
+  3/4  tsp salt
+  1/2  tsp cayenne pepper
+   1   tbsp tomato paste
+  3/4  cup cream (we use 1/2 and 1/2)
+   1   tbsp lemon juice
+   1   fresh long hot green chili, finely chopped
+   4   cups peas (we usually use frozen peas), cooked if fresh
+   3   tbsp vegetable oil
+  1/2  tsp cumin seeds
+  1/2  tsp brown mustard seeds
+#+end_verse
+
+ Combine sugar, ground cumin, garam masala, salt, cayenne, and tomato
+ paste.  Slowly add 2 tbsp water, mixing.  Add cream slowly, mix.  Add
+ lemon juice and chili, mix, set aside.
+
+ Heat oil in large frying pan over med-high heat.  When hot, add cumin
+ and mustard seeds.  As soon as mustard seeds begin to pop (few
+ seconds), add peas.  Saute, stir 30 seconds.  Add cream sauce.  Cook
+ and stir, about 1 1/2 minutes, until sauce thickens.
+
+ source: Madhur Jaffrey's Spice Kitchen

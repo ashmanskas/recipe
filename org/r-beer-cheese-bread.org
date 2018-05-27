@@ -1,0 +1,65 @@
+#+pagetitle: beer-cheese bread
+
+** beer-cheese bread
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-bread.org][bread]]]
+
+#+begin_verse
+ 12 oz beer
+ 1/2 cup hot water (120-130F)
+ 2 tbsp sugar
+ 1 tbsp salt
+ 2 tbsp butter or margarine
+ 8 oz processed swiss or american cheese
+ 5 cups bread or all-purpose flour
+ 2 pkgs dry yeast
+ 8 oz natural swiss cheese, cut into 1/4" cubes
+
+ 2 medium (8" x 4") loaf pans, greased or teflon
+#+end_verse
+
+ In a large saucepan combine the beer, hot water, sugar, salt, butter,
+ and processed cheese and heat until hot.  The cheese need not melt
+ completely.  Lift off the heat and cool to warm.
+
+ In a large mixing bowl put 2 cups flour and the yeast.  Pour in the
+ warm cheese mixture and beat by hand with a wooden spoon 100 strong
+ strokes.  Stir in rest of flour, 1/2 cup at a time, first with spoon
+ and then by hand.  The dough will be a rough, shaggy mass that will
+ clean the sides of the bowl.  If the dough continues to be slack and
+ moisture breaks through, add small amounts of flour.
+
+ Turn the dough onto a lightly floured work surface and spread the
+ swiss cheese bits over it.  Fold the dough over on the cheese and
+ knead with the rhythmic motion of push-turn-fold.  The dough will
+ become smooth and elastic, and bubbles will form under the surface of
+ the dough.  Break the kneading rhythm occasionally by throwing the
+ dough down hard against the work surface.
+
+ Place the dough in a buttered bowl and turn over to coat the ball
+ completely to prevent crusting.  Cover the bowl tightly with plastic
+ wrap and leave at room temperature until dough has risen to about
+ twice its original size, about 1 hour.
+
+ Punch down and knead the dough for 30 seconds to deflate.  Divide
+ dough in half.  Roll each half into a 12"x6" rectangle.  Cut each
+ rectangle lengthwise into three 2" strips leaving them joined at one
+ end by a 1/2" piece.  Braid the strips.  Tuck under the ends to make
+ the dough about the same length as the bake pan.  Place in the pan.
+
+ Place the pans in a warm place, cover with wax paper, and leave until
+ center of dough has risen 1/2" above edge of pan, 45 minutes.
+
+ Preheat oven to 350F 20 minutes before baking.
+
+ Bake until loaves are golden brown, about 45 minutes.  They are down
+ when tapping the bottom crust yields a hard, hollow sound.  If not,
+ bake an extra 5-10 min.  Shift loaves midway through baking so that
+ they are done evenly.  Cover with foil if they brown too quickly.
+
+ Remove bread from oven.  Turn from pans and place on metal rack to
+ cool before slicing.
+
+ source: Bernard Clayton's New Complete Book of Breads

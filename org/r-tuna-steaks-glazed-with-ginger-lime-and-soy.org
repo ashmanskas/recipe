@@ -1,0 +1,26 @@
+#+pagetitle: tuna steaks glazed with ginger, lime, and soy
+
+** tuna steaks glazed with ginger, lime, and soy
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-fish.org][fish]]]
+
+#+begin_verse
+     tuna steaks, 1" thick
+  2  tbs lime juice
+ 1.5 tbs soy sauce
+  2  garlic cloves, crushed
+  2  tsp ginger, grated
+ 1.5 tsp sesame oil
+  1  tsp chili pepper, minced
+  1  tsp sugar
+#+end_verse
+
+ Whisk marinade.  Pour over fish; turn; coat.  Marinate, covered, 30',
+ turning once or twice.  Broil 4" from heat until glazed and golden,
+ basting twice with marinade, about 3'.  Carefully turn fish.  Broil
+ until glazed and just cooked.  Transfer to plate and spoon juice over
+ top.
+
+ source: Clay Irving (?); found on web

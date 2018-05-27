@@ -1,0 +1,48 @@
+#+pagetitle: turkey chili
+
+** turkey chili
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-soup.org][soup]]]
+
+ special notes: use slightly less liquid.
+
+ Yield
+
+#+begin_verse
+ Makes 6 to 8 servings
+ Ingredients
+
+      1  medium onion, chopped
+      1  tablespoon  vegetable oil
+      2  garlic cloves, chopped
+      1  pound  ground turkey
+      2  tablespoons  chili powder
+      2  teaspoons  ground cumin
+      3  tablespoons  tomato paste
+      1  (28-oz.) can diced tomatoes
+      1  (16-oz.) can red kidney beans, rinsed and drained
+      1  cup  chicken broth
+      1  cup  beer*
+      1  teaspoon  salt
+      1/2  teaspoon  pepper
+      1/4  cup  chopped fresh cilantro
+      Garnish: sour cream
+#+end_verse
+
+ Preparation
+
+ 1. Sauté chopped onion in hot oil in a large Dutch oven over
+    medium-high heat 5 minutes or until tender; add garlic, and sauté 1
+    minute.
+
+ 2. Add turkey, chili powder, and cumin, and cook, stirring often, 8
+    minutes or until meat crumbles and is no longer pink. Stir in tomato
+    paste, and cook 2 minutes. Add tomatoes and next 5 ingredients. Bring
+    mixture to a boil; cover, reduce heat to low, and simmer, stirring
+    occasionally, 30 minutes. Stir in cilantro. Garnish, if desired.
+
+ (*) Chicken broth may be substituted.
+
+ source: Southern Living, OCTOBER 2008

@@ -1,0 +1,9 @@
+#+pagetitle: easy chicken curry NYT
+
+** easy chicken curry NYT
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-indian.org][indian]]] [[[file:c-nyt.org][nyt]]]
+
+ https://cooking.nytimes.com/recipes/6393-easy-chicken-curry

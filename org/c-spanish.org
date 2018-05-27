@@ -1,0 +1,14 @@
+#+pagetitle: recipe-category-spanish
+
+** category: spanish
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+  - [[file:r-chorizos-in-red-wine-nyt.org][chorizos in red wine NYT]] [[[file:c-nyt.org][nyt]]] [[[file:c-spanish.org][spanish]]]
+  - [[file:r-gambas-al-ajillo-nyt.org][gambas al ajillo NYT]] [[[file:c-nyt.org][nyt]]] [[[file:c-spanish.org][spanish]]]
+  - [[file:r-gazpacho.org][gazpacho]] [[[file:c-spanish.org][spanish]]]
+  - [[file:r-patatas-bravas.org][patatas bravas]] [[[file:c-spanish.org][spanish]]]
+  - [[file:r-picadillo.org][Picadillo]] [[[file:c-spanish.org][spanish]]]
+  - [[file:r-picadillo-v2.org][picadillo v2]] [[[file:c-spanish.org][spanish]]]
+
+

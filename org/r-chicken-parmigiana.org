@@ -1,0 +1,29 @@
+#+pagetitle: chicken parmigiana
+
+** chicken parmigiana
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-italian.org][italian]]]
+
+#+begin_verse
+ 4 boneless, skinless chicken breasts
+ 1 egg, beaten
+ 3/4 c. Italian seasoned dry bread crumbs
+ pasta sauce
+ 1 c. shredded mozzarella (approx. 4 oz.)
+ grated Parmesan cheese, as desired
+#+end_verse
+
+ Instructions:
+
+ Preheat oven to 400 degrees F.
+
+ Dip each piece of chicken in egg, and then in bread crumbs.
+ Arrange chicken pieces in Large casserole or baking dish.
+ Bake uncovered for 20 minutes.
+
+ Pour sauce over chicken; top with cheese(s).
+ Bake 10 minutes more, or until chicken is cooked through.
+
+ source: familyeducation.com

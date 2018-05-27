@@ -1,0 +1,18 @@
+#+pagetitle: outback steak seasoning
+
+** outback steak seasoning
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-meat.org][meat]]]
+
+#+begin_verse
+ 2 tsp salt
+ 1 tsp paprika
+ 1/2 tsp ground black pepper
+ 1/4 tsp onion powder
+ 1/4 tsp garlic powder
+ 1/4 tsp cayenne pepper
+ dash coriander
+ dash turmeric
+#+end_verse

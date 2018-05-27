@@ -1,0 +1,36 @@
+#+pagetitle: minestrone soup
+
+** minestrone soup
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-soup.org][soup]]]
+
+#+begin_verse
+     2 tablespoons extra-virgin olive oil
+     4 cloves garlic, finely chopped
+     1 medium yellow onion, chopped
+     6 cups low-sodium vegetable broth
+     1 cup thinly sliced Savoy cabbage
+     1/4 cup tomato paste
+     1/4 cup chopped fresh parsley
+     1 tablespoon chopped fresh basil
+     2 large stalks of celery, sliced
+     2 medium carrots, peeled and chopped
+     1 dried bay leaf
+     1 (28-ounce) can chopped tomatoes, with their liquid
+     1 cup cooked chickpeas, drained
+     1 cup dried fusilli pasta
+     1 (15-ounce) can cannellini or white beans, drained
+     Salt and pepper, to taste
+     3/4 cup grated parmesan cheese
+#+end_verse
+
+ In a large stockpot, heat oil over medium high heat. Add garlic and
+ onion and cook until translucent. Add broth, cabbage, tomato paste,
+ parsley, basil, celery, carrots, bay leaf, and tomatoes with their
+ juice and cook for 30 to 40 minutes, until vegetables are tender. Add
+ chickpeas, pasta and beans and simmer for another 20 minutes. Season
+ with salt and pepper.
+
+ source: http://www.wholefoodsmarket.com/recipe/hearty-minestrone-soup

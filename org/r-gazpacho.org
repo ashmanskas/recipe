@@ -1,0 +1,42 @@
+#+pagetitle: gazpacho
+
+** gazpacho
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-spanish.org][spanish]]]
+
+ new recipe 8/2010   (much better than the earlier one!)
+
+ Ingredients
+
+     * 3 slices day old French bread, crusts removed
+     * 2 pounds vine-ripe medium tomatoes, seeded and coarsely chopped
+     * 2 small kirby cucumbers, coarsely chopped
+     * 1 red or yellow bell pepper, cored, seeded, and coarsely chopped
+     * 1 medium onion, coarsely chopped
+     * 2 garlic cloves, chopped
+     * 2 cups tomato juice or water
+     * 1 tablespoon sugar
+     * 1 tablespoon Spanish paprika
+     * Kosher salt and freshly ground black pepper
+     * 1/4 cup sherry wine vinegar
+     * 1/4 cup extra-virgin olive oil
+     * 1 handful fresh flat-leaf parsley, coarsely chopped
+     * cilantro
+     * 1/2 lemon, juiced 
+
+ Directions
+
+ Soak the bread in 1 cup of water for 5 minutes, and then squeeze out
+ the excess water. Place the bread in a blender or food processor; add
+ the tomatoes, cucumbers, bell pepper, onion, and garlic. Puree the
+ ingredients until almost smooth, leaving a little texture. Pour the
+ vegetable mixture into a large bowl; stir in the tomato juice, sugar,
+ paprika, salt, pepper, vinegar, oil, parsley, cilantro, and lemon juice until
+ well combined. Refrigerate the soup for at least 2 hours until very
+ well chilled; the flavors will develop as it sits. Season the gazpacho
+ again with salt and pepper before serving. Serve in chilled bowls or
+ tureen and top with desired garnishes.
+
+ source: the food network

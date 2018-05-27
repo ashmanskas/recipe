@@ -1,0 +1,29 @@
+#+pagetitle: tuna steaks Moroccan style
+
+** tuna steaks Moroccan style
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-fish.org][fish]]]
+
+#+begin_verse
+ 1 tsp paprika
+ 1 tsp cumin
+ 1 tsp tumeric
+ 1/2 tsp ginger
+ 1/8 tsp cinnamon
+ 1/4 tsp red pepper flakes
+ salt, pepper
+ 4 tuna steaks, 5 oz each
+ 1 tbsp lemon juice
+ 2 tbsp olive oil
+ 2 tbsp melted butter
+#+end_verse
+
+ combine spices and blend.  rub each steak with spice mixture.
+ sprinkle with lemon and oil.  cover with plastic and let stand 15-30
+ minutes.  either broil or pan fry, 4 minutes per side.  brush with
+ melted butter.
+
+ serve on a bed of couscous; accompany with cucumber and tomato salad,
+ fresh pita.

@@ -1,0 +1,27 @@
+#+pagetitle: apple pie
+
+** apple pie
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-dessert.org][dessert]]]
+
+: 
+:    1  recipe pie crust     1 tsp cinnamon
+:   6-7 tart, firm apples    1 dash nutmeg
+:   3/4 cup sugar            1 dash salt
+:    2  tbsp flour           2 tbsp butter
+: 
+
+ Prepare pie crust and place bottom crust in pie pan.  Peel, core, and
+ chop apples.  In a large bowl, toss apples with sugar, flour,
+ cinnamon, nutmeg, and salt.  Pour mixture, including liquid, into
+ bottom crust.  Cut butter into small pieces and sprinkle over
+ filling.  Roll out top crust and place over filling.  Crimp edges and
+ cut a few slits in top crust to allow steam to escape.  Wrap edges in
+ foil.  Bake at 400 F for 40 min.  Remove foil edges.  Bake 10 more
+ min.
+
+ *REMEMBER:  CUT HOLES IN CRUST!  AND USE DRIP TRAY BENEATH PIE PAN.*
+
+ source: Elizabeth Bleicher

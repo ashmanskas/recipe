@@ -1,0 +1,38 @@
+#+pagetitle: hot and sour soup
+
+** hot and sour soup
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-asian.org][asian]]] [[[file:c-soup.org][soup]]]
+
+: 
+:          4 cups chicken broth           2 tbs cornstarch
+:                                       1/4 cup water
+:          3 cloud ear mushrooms
+:          3 Chinese mushrooms            1 egg
+:          20 lily buds
+:                                         2 tsp sesame oil
+:          1 small pkg tofu               1 scallion (optional)
+: 
+:          3 tbs white vinegar            bamboo shoots, etc. (optional)
+:          1 tbs soy sauce
+:          1 tsp sugar
+:          1 tsp white pepper
+: 
+:  (1) Wash cloud ear mushrooms, Chinese mushrooms, and lily buds and
+:      soak in warm water for 30 minutes.  Remove hard stems and shred.
+:  (2) Cut tofu into 1/2" cubes.  
+:  (3) Mix vinegar, soy sauce, sugar, and pepper in a cup.
+:  (4) Mix cornstarch and water in another cup.
+:  (5) Beat egg.
+:  (6) Cut scallions into small pieces.
+: 
+:  (a) Mix chicken broth, mushrooms, and lily buds in a soup pan.  Boil
+:      for 8 minutes over medium heat.
+:  (b) Add tofu.  Add vinegar mixture.  Mix and cook 30 seconds.
+:  (c) Add bamboo shoots, etc.
+:  (d) Add cornstarch mixture.  Cook and stir for 1 minute.
+:  (e) Remove from heat and add egg, drop by drop.
+:  (f) Mix in sesame oil and scallions.
+: 

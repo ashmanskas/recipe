@@ -1,0 +1,51 @@
+#+pagetitle: vegetable garden lasagne
+
+** vegetable garden lasagne
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-italian.org][italian]]]
+
+#+begin_verse
+   1    eggplant
+   1    tsp coarse salt (e.g. sea salt)
+   8    tbsp olive oil
+   1    green bell pepper, cored, seeded, julienne
+   1    red bell pepper, ditto
+   1    large onion, slivered
+  12    oz fresh mushrooms, sliced
+  1/4   cup unbleached flour
+   8    oz lasagne noodles (2 eggs worth of fresh noodles is plenty)
+   3    cups spaghetti sauce
+  1 1/2 cups bechamel sauce
+  1/4   cup freshly grated Parmesan
+   5    oz chevre
+  1/2   cup slivered fresh basil leaves
+   8    oz mozzarella, grated
+#+end_verse
+
+ Slice eggplant into 1/4-inch-thick rounds.  Sprinkle with sea-salt,
+ drain 1 hour in colander.  Wipe off salt, pat dry.
+
+ Heat 2 tbsp olive oil in large skillet.  Saute bell peppers and onion
+ until cooked, not browned.  Remove peppers and onion with slotted
+ spoon.  Saute mushrooms, remove.
+
+ Dredge eggplant with flour, shake excess, saute in oil, both sides,
+ medium heat, until lightly browned, adding oil as needed.  Transfer to
+ paper towels.
+
+ Preheat oven to 350 F.  Cook lasagna in water until just tender.
+ Rinse under cold water.
+
+ Spread thin layer of tomato sauce on 13"x9" baking dish.  Arrange half
+ of noodles over sauce.  Cover with peppers, onion, mushrooms,
+ eggplant, in layers.  Mix bechamel and Parmesan together; spoon half
+ on top of vegetables.  Crumble chevre over bechamel; sprinkle with
+ half of basil.  Top with more tomato sauce, then another layer of
+ noodles.  Spread remaining bechamel, basil, tomato sauce, mozzarella.
+
+ Cover dish with aluminum foil, bake 30 minutes.  Uncover and bake
+ another 15 minutes, until brown and bubbly.
+
+ source: New Basics

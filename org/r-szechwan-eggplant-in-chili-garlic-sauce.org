@@ -1,0 +1,35 @@
+#+pagetitle: Szechwan eggplant in chili garlic sauce
+
+** Szechwan eggplant in chili garlic sauce
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-asian.org][asian]]]
+
+#+begin_verse
+ (4 servings)
+
+ 2 lbs eggplant
+ 3 Tbsp oil for frying
+ 2 whole dried chili peppers
+ 6 cloves garlic, minced
+ 2 scalions, chopped, incl green part
+ 1 tsp sesame oil
+
+ (I sometimes toss in some extra veggies 
+ if it's the only dish I'm cooking)
+
+ sauce:
+ 1 Tbsp Szechwan sweet bean sauce or ground bean sauce
+ 2 Tbsp black soy sauce
+ 2 tsp brown sugar
+ 1 Tbsp pale dry sherry
+ 1 tsp chili oil
+
+ Make 4 slashes around eggplant, about 1" deep.  Steam until soft.
+ Cool.  Tear into thin strips lengthwise.  Discard some seeds.
+
+ Heat oil in wok.  Fry chili peppers until dark brown & discard.  Add
+ garlic & scallions & brown slightly.  Add sauce mix & cook to bubble.
+ Add eggplant.  Add sesame oil.
+#+end_verse

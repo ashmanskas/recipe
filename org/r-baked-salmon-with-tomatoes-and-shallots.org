@@ -1,0 +1,32 @@
+#+pagetitle: baked salmon with tomatoes and shallots
+
+** baked salmon with tomatoes and shallots
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-fish.org][fish]]]
+
+#+begin_verse
+ Ingredients
+
+ 4 (5 oz) salmon filets
+ 2 Teaspoons olive oil plus 2 tablesppons
+ Salt and Freshly Ground Pepper
+ 3 chopped tomatoes or 1 (14 oz) can diced tomatoes drained
+ 2 chopped shallots
+ 2 tablespoons fresh lemon juice
+ 1 teaspoon dried oregano
+ 1 teaspoon dried thyme
+
+ Directions
+
+ Preheat oven to 400 degrees
+ Sprinkle salmon with 2 teaspoons olive oil, salt, and pepper.
+ Combine tomatoes, shallots, 2 tablespoons oil, lemon juice, oregano, thyme, salt, and pepper in a bowl, mixing well.
+ Place a salmon filet, oiled side down on a piece of foil.
+ Spoon 1/4 of the tomato mixture on top of the salmon.
+ Wrap the foil around salmon, forming a square packet.
+ Place the wrapped salmon on a baking sheet.
+ Repeat for the remaining 3 pieces.
+ Bake the salmon for about 25 mins until the salmon is just cooked through.
+#+end_verse

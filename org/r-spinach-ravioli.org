@@ -1,0 +1,68 @@
+#+pagetitle: spinach ravioli
+
+** spinach ravioli
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-italian.org][italian]]]
+
+ Dough:
+
+#+begin_verse
+     3 1/2 cups all purpose flour
+     4 eggs 
+#+end_verse
+
+ Filling:
+
+#+begin_verse
+     1 pound fresh spinach
+     1 tablespoon salt
+     1 pound ricotta
+     1 egg
+     2 tablespoons heavy cream
+     4 tablespoons grated Parmigiano Reggiano, plus 4 tablespoons grated Parmigiano Reggiano, for garnish
+     1/4 teaspoon nutmeg
+     Pinch black pepper 
+#+end_verse
+
+ Directions
+
+ To make the ravioli dough, make a crater with the flour on your
+ tabletop. Add the eggs to the center of the flour crater. Partially
+ incorporate the flour into the eggs with a fork. Then knead the flour
+ and eggs together to form dough. Knead until the dough is thoroughly
+ worked together, approximately 4 to 5 minutes. Reserve until the
+ raviolis are ready to be assembled.
+
+ In a pot of boiling water, cook the spinach with half of the salt
+ until tender. Remove the spinach from the boiling water and let cool
+ for 2 to 3 minutes. Squeeze out the water from the spinach and chop
+ it up roughly. In a mixing bowl, combine chopped spinach, ricotta,
+ egg, heavy cream, and 4 tablespoons Parmigiano Reggiano. Season with
+ the nutmeg, remaining salt, and black pepper.
+
+ To make the sauce, melt the butter in a saucepot. Simmer the nutmeg
+ and sage in the butter for 1 minute. Reserve until the raviolis are
+ cooked.
+
+ To assemble the raviolis, cut the dough into 4 pieces. Roll out each
+ piece to form a thin layer (about 1/8 inch) of dough. Place 1
+ spoonful of filling onto 1 sheet of dough 1/2 inch from the
+ edge. Continue to place spoonfuls of filling along the dough 1-inch
+ from each other.
+
+ Place 1 of the other pieces of rolled out dough on top of the piece
+ with the filling on it. Pinch the dough around the filling to form
+ the ravioli. Use a cookie cutter or a knife to cut out the
+ raviolis. Pinch the edges of each ravioli with the tines of a
+ fork. Set aside each ravioli on a plate lightly dusted with flour. Do
+ not stack the raviolis, because they will stick together.
+
+ When you are ready to cook the raviolis, add them to boiling
+ water. When the raviolis float, about 2 to 3 minutes, they are
+ finished cooking. Serve each portion with the sage butter and
+ sprinkle 1 tablespoon of grated Parmigiano-Reggiano over each
+ serving.
+
+ source: [[http://www.foodnetwork.com/recipes/keith-famies-adventures/spinach-and-ricotta-ravioli-recipe/index.html][food network]]

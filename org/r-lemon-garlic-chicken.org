@@ -1,0 +1,19 @@
+#+pagetitle: lemon-garlic chicken
+
+** lemon-garlic chicken
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-poultry.org][poultry]]]
+
+#+begin_verse
+ 1 lemon
+ 1 tsp garlic
+ 1 Tbsp molasses
+ 1 tsp worcestershire
+ 1 lb chicken
+#+end_verse
+
+ bake 375 degrees, 40 minutes
+
+ source: Alison

@@ -1,0 +1,38 @@
+#+pagetitle: pasta with zucchini, pine nuts, lemon, and herbs
+
+** pasta with zucchini, pine nuts, lemon, and herbs
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-italian.org][italian]]]
+
+ egg pasta (preferably home made)
+
+#+begin_verse
+ 1 or 2 small green zucchini
+ 1/2 cup mixed fresh herbs: Italian parsley, marjoram, basil, lemon thyme, ...
+ 1 lemon
+ 6 tbsp virgin olive oil
+ 5 tbsp pine nuts
+ 4 shallots, thinly sliced, then roughly chopped
+ 4 tsp tiny capers, rinsed in water
+ 2 sun-dried tomatoes, cut into narrow strips
+ salt
+ pepper
+#+end_verse
+
+ Slice zucchini diagonally into strips, then into matchsticks, each one
+ tipped with peel.  Chop herbs, not too finely.  Remove a thin strip of
+ lemon peel and cut into slivers.
+
+ Heat 2 tbsp oil; cook pine nuts until they begin to color; add
+ shallots.  Medium-low heat until shallots soft, pine nuts browned.
+ Transfer to a wide bowl; add oil, capers, lemon peel, sun-dried
+ tomatoes, and herbs.  Salt, pepper, 1/2 tsp lemon juice to taste.
+
+ Cook zucchini 1 minute in boiling water, then scoop out, shake off,
+ and add to bowl with other ingredients.  Toss cooked pasta in bowl to
+ coat with oil and herbs.
+
+
+ see Greens cookbook for original recipe

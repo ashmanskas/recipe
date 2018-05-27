@@ -1,0 +1,17 @@
+#+pagetitle: tiramisu
+
+** tiramisu
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-dessert.org][dessert]]]
+
+#+begin_verse
+ lady fingers: layer and moisten with coffee
+ multiply as needed: 1 egg, 100g moscarpone, 2 tbsp sugar
+
+ whip egg whites until fluffy.  beat yolk, sugar, cheese.  fold in
+ whites.  make layers.  sprinkle with cocoa.  freeze.
+#+end_verse
+
+ source: Carla Pilcher

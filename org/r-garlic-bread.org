@@ -1,0 +1,18 @@
+#+pagetitle: garlic bread
+
+** garlic bread
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-bread.org][bread]]] [[[file:c-italian.org][italian]]]
+
+#+begin_verse
+  4  Tbsp  Margarine or butter
+ 1-2 tsp  Oregano
+ 1-2 tsp  Minced garlic (the jarred, dried kind works fine)
+ 1-2 Tbsp Grated parmesan cheese
+#+end_verse
+
+ Mix all the ingredients together, spread on sliced Italian, French, or
+ sourdough bread, and broil it in the toaster oven until the top just
+ starts to turn brown.  Keep an eye on it so it doesn't burn!

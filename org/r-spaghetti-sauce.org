@@ -1,0 +1,30 @@
+#+pagetitle: spaghetti sauce
+
+** spaghetti sauce
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-italian.org][italian]]]
+
+#+begin_verse
+ 2-3 Tbsp. olive oil
+ 1 1/2 cups chopped onions
+ 5 cloves garlic, minced
+ Canned tomatoes (e.g. 3 x 28oz crushed plus 1 x 14oz cut)
+ 3/4 cup tomato paste
+ 1/2 cup red wine
+ Chopped parsley (optional)
+ 1 Tbsp. oregano
+ 1 1/2 tsp. black pepper
+ Salt
+ Pinch of sugar
+#+end_verse
+
+ (All of these seasoning measurements are approximate.)
+
+ 1. Heat oil and saute onions and garlic until soft.
+ 2. Add all other ingredients.
+ 3. Bring just to a boil, then lower heat to simmer and cover pot. 
+    Simmer for 2 1/2 to 3 hours.  Make sure you stir it once in a 
+    while and taste it occasionally to make sure you don't want to 
+    add more of any seasonings.

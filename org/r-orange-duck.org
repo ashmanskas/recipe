@@ -1,0 +1,9 @@
+#+pagetitle: orange duck
+
+** orange duck
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-asian.org][asian]]]
+
+ http://www.epicurious.com/recipes/food/views/Duck-a-lOrange-233535

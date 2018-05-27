@@ -1,0 +1,11 @@
+#+pagetitle: turkey burgers NYT
+
+** turkey burgers NYT
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-nyt.org][nyt]]] [[[file:c-poultry.org][poultry]]]
+
+ add a couple of tablespoons of breadcrumbs to this recipe:
+
+ http://cooking.nytimes.com/recipes/1016139-turkey-burgers

@@ -1,0 +1,33 @@
+#+pagetitle: black bean soup
+
+** black bean soup
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-soup.org][soup]]]
+
+#+begin_verse
+ Quick Black Bean Soup
+ 2 tablespoons olive oil
+ 1 1/4 cups chopped onion
+ 4 large garlic cloves, chopped
+ 1 tablespoon chopped fresh thyme or 1 1/2 teaspoons dried
+ 3 15-ounce cans black beans, drained, 1 cup liquid reserved
+ 2 14 1/2-ounce cans low-salt chicken broth
+ 1 28-ounce can diced tomatoes in juice
+ 2 teaspoons ground cumin
+ 1 1/2 teaspoons hot pepper sauce
+#+end_verse
+
+ Heat oil in large pot over medium heat. Add onion, garlic and thyme;
+ sautee until onion is golden, about 8 minutes. Add beans, reserved 1
+ cup bean liquid, broth, tomatoes with juices, cumin and hot pepper
+ sauce. Bring soup to boil. Reduce heat to medium-low and simmer until
+ flavors blend and soup thickens slightly, stirring occasionally, about
+ 20 minutes.
+
+ Working in 2 batches, puree 2 1/2 cups soup in blender until
+ smooth. Mix puree back into soup in pot. Season with salt and
+ pepper. Ladle soup into bowls.
+
+ source: Bon Appetit June 1999, via Epicurious

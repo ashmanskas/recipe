@@ -1,0 +1,11 @@
+#+pagetitle: kale soup with potatoes and sausage NYT
+
+** kale soup with potatoes and sausage NYT
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-nyt.org][nyt]]] [[[file:c-soup.org][soup]]]
+
+ note: use a little less chorizo, a bit more kale
+
+ https://cooking.nytimes.com/recipes/7416-kale-soup-with-potatoes-and-sausage

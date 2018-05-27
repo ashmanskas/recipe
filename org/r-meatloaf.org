@@ -1,0 +1,18 @@
+#+pagetitle: meatloaf
+
+** meatloaf
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-meat.org][meat]]]
+
+#+begin_verse
+ ground turkey or beef
+ 1/2 can tomato soup (or less) per pound of meat
+ 1 egg
+ chopped onion
+ bread crumbs (italian flavored)
+ salt & pepper
+#+end_verse
+
+ source: Bill's mom

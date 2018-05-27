@@ -1,0 +1,29 @@
+#+pagetitle: cheese fondue
+
+** cheese fondue
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-french.org][french]]]
+
+ (multiply below by number of people)
+
+#+begin_verse
+ 2.5 oz dry white wine
+  1  clove garlic
+ 5.5 oz emmental & gruyere cheese
+  1  tsp corn starch
+ 0.5 oz kirsch (cherry brandy)
+     pepper
+     nutmeg
+ 1/2 lb white bread, cubed
+#+end_verse
+
+ Peel garlic, cut in half.  Rub inside of saucepan (and fondue pot)
+ with garlic.  Bring wine to a boil.  Add grated cheese, slowly,
+ stirring into boiling wine; stir until cheese dissolves fully before
+ adding more.  Stir kirsch into cornstarch; stir into the wine/cheese.
+ Add dash of pepper and nutmeg, to taste.  Serve in fondue pot; keep it
+ slowly bubbling.  Cut bread into 1-inch cubes.
+
+ source: mastercook web site

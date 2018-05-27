@@ -1,0 +1,21 @@
+#+pagetitle: chicken, mushroom, artichoke casserole
+
+** chicken, mushroom, artichoke casserole
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-poultry.org][poultry]]]
+
+#+begin_verse
+ Mushrooms
+ Artichoke hearts
+ 2 chicken breasts
+ 1/4 c. white wine
+ 1 can creamy chicken mushroom soup
+ Dry Stove Top stuffing
+#+end_verse
+
+ Put mushrooms and artichokes at bottom of oblong baking pan. Combine soup and
+ wine and pour over mushrooms and artichokes. Place chicken in sauce, pushing
+ it down into soup to cover it.  Sprinkle Stove Top on top.  Bake at 350 degrees
+ for 45 minutes.

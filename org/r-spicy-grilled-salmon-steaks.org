@@ -1,0 +1,25 @@
+#+pagetitle: spicy grilled salmon steaks
+
+** spicy grilled salmon steaks
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-fish.org][fish]]]
+
+#+begin_verse
+ 1.5  tsp pepper
+ 0.5  tsp paprika
+ 0.25 tsp cayenne
+ 1.0  tsp minced garlic
+ 1.0  tsp minced onion
+ 0.5  tsp ground thyme
+ 0.25 tsp salt
+ 1.0  Tbsp olive oil
+ 1.0  lbs salmon steak
+#+end_verse
+
+ combine pepper, paprika, cayenne, garlic, onion, thyme, salt, oil, to
+ form stiff paste.  pat paste onto both sides of each salmon steak.
+ grill or saute salmon.
+
+ source: fog horn recipe site

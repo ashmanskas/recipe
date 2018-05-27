@@ -1,0 +1,24 @@
+#+pagetitle: Cornish hens German style
+
+** Cornish hens German style
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-poultry.org][poultry]]]
+
+#+begin_verse
+ cornish hen
+ lemon juice
+ 3 tbsp cracker or bread crumbs
+ 2 tbsp grated parmesan cheese
+ 1/4 tsp ground ginger
+ salt & pepper
+#+end_verse
+
+ sprinkle poultry with juice of half lemon.  combine crumbs, cheese, ginger,
+ salt, and pepper in paper bag.  add poultry, shake until coated.  arrange
+ poultry skin-side up on shallow roasting pan.  place in preheated 350F oven.
+ bake without turning, until golden and tender, 45-50 minutes.  maybe
+ garnish with lemon slices.
+
+ original source: BIGG superstore

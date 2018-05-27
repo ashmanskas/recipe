@@ -1,0 +1,17 @@
+#+pagetitle: roast beef
+
+** roast beef
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-meat.org][meat]]]
+
+#+begin_verse
+ start with bottom round or rump roast
+ cut off fat
+ golden mushroom soup (1 or 2 cans)
+ 1 pkg lipton onion soup
+ cook at 225-275 four 3-4 hours
+#+end_verse
+
+ source: Bill's mom

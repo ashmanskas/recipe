@@ -1,0 +1,42 @@
+#+pagetitle: coq au vin
+
+** coq au vin
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-french.org][french]]] [[[file:c-poultry.org][poultry]]]
+
+#+begin_verse
+ margarine or butter (replaces 2 slices bacon)
+ mushrooms
+ pearl onions
+ carrots (bite-sized pieces)
+ 2 cloves minced garlic
+ 1/2 tsp dried oregano
+ 1/2 tsp dried thyme
+ chicken
+ 1 cup chicken broth
+ 1 cup dry red wine
+ 2 Tbsp tomato paste (or ketchup)
+ 1/2 tsp salt
+ black pepper
+ 2 Tbsp flour (maybe a bit less)
+#+end_verse
+
+ Cook mushrooms, onions, garlic, herbs in the margarine, in a large
+ pot.  Add carrots and chicken.  Stir stock, wine, and tomato paste
+ together, then pour over chicken.  Cover and cook until chicken is
+ tender.
+
+ Remove the chicken and vegetables with a slotted spoon.
+
+ Add salt & pepper to sauce.  Put flour in a small bowl; add some
+ sauce; whisk until smooth.  Whisk mixture into sauce and cook,
+ uncovered.
+
+ Return chicken & vegetables to pot.  Cover and cook a bit longer.
+
+ (original recipe is microwave, but chicken is more tender if
+ cooked slowly on the stove)
+
+ source: The New Basics Cookbook (adapted somewhat)

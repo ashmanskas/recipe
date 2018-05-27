@@ -1,0 +1,9 @@
+#+pagetitle: gambas al ajillo NYT
+
+** gambas al ajillo NYT
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-nyt.org][nyt]]] [[[file:c-spanish.org][spanish]]]
+
+ http://cooking.nytimes.com/recipes/1012534-spanish-style-shrimp-with-garlic

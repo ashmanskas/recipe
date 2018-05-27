@@ -1,0 +1,34 @@
+#+pagetitle: yellow pepper soup
+
+** yellow pepper soup
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-soup.org][soup]]]
+
+ 4 servings
+
+#+begin_verse
+ 2 1/2 cups water
+ 4 asparagus
+ 3 yellow peppers
+ 1 large potato
+ 1 large onion
+ 3 garlic gloves
+ 1 1/2 teaspoons sugar
+ 1 teaspoon salt
+ 1/4 teaspoon pepper
+ 2 tablespoons unsalted butter
+ 2 tablespoons olive oil
+#+end_verse
+
+ 1. Cut the asparagus into 2in pieces. Cook them with a bit of the above
+    water (1/2-1 cup). About 1 min. boiling.
+    Strain the asparagus and use the water for the spoup.
+ 2. Cut vegetables in 1in squares so they cook easily. Combine everything
+    but the oil, butter and asparagus, with all the water. Boil, cover and
+    simmer for 30 minutes. At the end add the oil and butter and then use a
+    blender to blend everything. Reheat if necessary. Serve garnished with
+    the 2in asparagus.
+
+ source: Joao

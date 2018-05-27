@@ -1,0 +1,68 @@
+#+pagetitle: carbonnade a la flamande (belgian beef, beer, and onion stew)
+
+** carbonnade a la flamande (belgian beef, beer, and onion stew)
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-meat.org][meat]]]
+
+ Top blade steaks (a.k.a. blade steaks, flatiron steaks) are first
+ choice, but any boneless chuck roast will work.  If using a chuck
+ roast, look for boneless chuck eye roast, which is easily trimmed and
+ cut into 1-inch pieces.  Buttered egg noodles or mashed potatoes are
+ good accompaniments to carbonnade.  Traditional copper-colored Belgian
+ ale works best, but you can substitute another dark or amber-colored
+ ale. 
+
+ Serves 6
+
+#+begin_verse
+ 3.5 lbs blade steaks, 1 inch thick, trimmed of gristle and fat, cut
+     into 1-inch pieces
+   3 Tbsp vegetable oil
+   2 lbs yellow onions (about 3 medium), halved & sliced 1/4" thick
+   1 Tbsp tomato paste
+   2 medium cloves garlic, minced (about 2 tsp)
+   3 Tbsp flour
+ 3/4 cup low-sodium chicken broth
+ 3/4 cup low-sodium beef broth
+ 1.5 cups beer
+   4 sprigs fresh thyme leaves, tied with kitchen twine
+   2 bay leaves
+   1 Tbsp cider vinegar
+#+end_verse
+
+ Adjust oven rack to lower-middle position.  Heat oven to 300F.  Dry
+ beef thoroughly with paper towels, then season with pepper (maybe a little
+ salt, but it's easy to add more later).  Heat 2 tsp oil in large
+ heavy-bottomed Dutch oven over medium-high heat until beginning to
+ smoke.  Add about 1/3 of beef to pot.  Cook without moving pieces
+ until well browned, 2-3 minutes.  Using tongs, turn each piece and
+ continue cooking until second side is well browned, about 5 minutes
+ longer.  Transfer browned beef to medium bowl.  Repeat with additional
+ 2 tsp of oil and half of remaining beef.  (If drippings in bottom of
+ pot are very dark, add about 1/2 cup of above-listed chicken or beef
+ broth and scrape pan bottom with wooden spoon to loosen browned bits;
+ pour liquid into bowl with browned beef, then proceed.)  Repeat once
+ more wiht 2 tsp oil and remaining beef.
+
+ Add repaining 1 Tbsp oil to now-empty Dutch oven.  Reduce heat to
+ medium-low.  Add onions, 1/2 tsp salt (maybe skip?), and tomato paste.
+ Cook, scraping bottom of pot with wooden spoon to loosen browned bits,
+ until onions have released some moisture, about 5 minutes.  Increase
+ heat to medium and continue to cook, stirring occasionally until
+ onions are lightly browned, 12-14 minutes.  Stir in garlic and cook
+ until fragrant, about 30 seconds.  Add flour and stir until onions are
+ evenly coated and flour is lightly browned, about 2 minutes.  Stir in
+ broths, scraping pan bottom to loosen browned bits.  Stir in beer,
+ thyme, bay, vinegar, browned beef with any accumulated juices, and
+ salt and pepper to taste.  Increase heat to medium high and bring to
+ full simmer, stirring occasionally.  Cover partially, then place pot
+ in oven.  Cook until fork inserted into beef meets little resistance,
+ about 2 hours.
+
+ Discard thyme and bay.  Adjust seasons with salt and pepper to taste
+ and serve.  (Can be cooled and refrigerated in airtight container for
+ up to 4 days.  Reheat over medium-low heat.)
+
+ source: Jeanie Fisk

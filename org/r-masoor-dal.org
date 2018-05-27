@@ -1,0 +1,33 @@
+#+pagetitle: masoor dal
+
+** masoor dal
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-indian.org][indian]]]
+
+#+begin_verse
+ 1/2 lb lentils
+ 1 medium onion, thinly sliced
+ 2 cloves garlic, thinly sliced
+ 1/4 cup ghee or oil
+ 2 tsp ground coriander
+ 2 tsp ground cumin
+ 2 tsp ground turmeric
+ 1 tsp ground chili
+ 4 cardamom pods
+ 4 cloves
+ 2 inch cinnamon stick
+ 1 1/2 tsp salt
+ 4 oz coconut milk
+#+end_verse
+
+ Wash lentils in water.  Simmer in saucepan with enough water to cover,
+ until soft.
+
+ Fry onion and garlic in oil until soft.  Add ground spices, mix, cook
+ 2 minutes.  Add whole spices, stir well.  Add water if needed.
+
+ Add salt and coconut milk.  Cook 5 minutes.
+
+ source: Bites of Asia web site

@@ -1,0 +1,27 @@
+#+pagetitle: pizza dough
+
+** pizza dough
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-bread.org][bread]]]
+
+#+begin_verse
+ 2 tsp granulated yeast
+ 3 cups bread flour
+ 1 tsp salt
+ 2 Tbsp sugar
+ 2 Tbsp olive oil
+ 1 cup + 2 Tbsp water
+#+end_verse
+
+ Put all of the above into bread machine on "dough" cycle.  Place in
+ well greased bowl; roll around to coat dough in oil; cover for about
+ half an hour.  Then knead the risen dough and roll it out.
+
+ SECRETS: (1) pre-heat pizza stone with oven to 440F; bake the untopped
+ dough for 10 min; then top and bake the whole pizza.
+
+ source: http://www.food.com/recipe/easy-peezy-pizza-dough-bread-machine-pizza-dough-35805
+
+ another one to try eventually: http://www.nytimes.com/2014/04/09/dining/a-little-pizza-homework.html

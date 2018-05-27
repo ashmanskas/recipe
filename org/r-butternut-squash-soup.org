@@ -1,0 +1,29 @@
+#+pagetitle: butternut squash soup
+
+** butternut squash soup
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-soup.org][soup]]]
+
+#+begin_verse
+ 1 tablespoon butter
+ 3 1/2 cups cubed peeled butternut squash (about 1 1/2 pounds)
+ 3/4 cup chopped carrot
+ 1/2 cup chopped sweet onion
+ 2 1/2 cups fat-free, less-sodium chicken broth 
+ 1/4 cup half-and-half
+ 1/8 teaspoon salt 
+#+end_verse
+
+ To prepare soup, melt butter in a large saucepan over medium-high
+ heat. Add squash, carrot, and onion; sauté for 12 minutes. Add chicken
+ broth, and bring to a boil. Cover, reduce heat, and simmer for 30
+ minutes. Remove from heat; stir in half-and-half and salt.
+
+ Place squash mixture in a blender. Remove center piece of blender lid
+ (to allow steam to escape), and secure blender lid on blender. Place a
+ clean towel over opening in blender lid (to avoid splatters). Blend
+ until smooth.
+
+ source: http://www.myrecipes.com/recipe/butternut-squash-soup-10000001918519/

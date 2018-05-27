@@ -1,0 +1,14 @@
+#+pagetitle: swordfish
+
+** swordfish
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-fish.org][fish]]]
+
+#+begin_verse
+ lemon juice
+ oregano
+ salt
+ stir in olive oil
+#+end_verse

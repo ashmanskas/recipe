@@ -1,0 +1,56 @@
+#+pagetitle: egg-free Caesar salad
+
+** egg-free Caesar salad
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-salad.org][salad]]]
+
+ Dressing:
+
+#+begin_verse
+ 1/4 c lemon juice
+ 1/2 c *freshly grated* Parmesan or Romano cheese (about 1.5 oz by weight)
+ 1 Tbsp. anchovy paste (available in tubes in tuna section of grocery store)
+ 2 tsp. Worcestershire sauce
+ 1 tsp. red wine vinegar
+ 1 Tbsp.+ 1 tsp. Dijon mustard
+ 2 Tbsp. pureed *fresh* garlic (press or chop fine)
+ Salt, pepper
+ 3/4 c. olive oil
+#+end_verse
+
+ In blender, combine everything EXCEPT the olive oil.  Blend on medium 
+ speed.  Scrape down sides of blender.  Then, blend in olive oil bit by 
+ bit (I usually do about 1/8 c. at a time; if you do it all at once, it 
+ won't blend well).  Blend until you have a smooth dressing.  If it is too 
+ thick, blend in a little water to thin.
+
+ Croutons:
+
+#+begin_verse
+ Bread sliced into cubes (usu. about 4 slices)
+ 3-4 Tbsp. melted butter
+ 2 tsp. garlic powder
+#+end_verse
+
+ Toss bread cubes in butter and garlic powder to coat.  Spread on baking 
+ sheet.  Bake at 400-450 degrees until croutons are golden brown.
+
+ Salad:
+
+#+begin_verse
+ Romaine lettuce
+ 2 Tbsp. grated Romano or Parmesan cheese
+ Dressing
+ Croutons
+#+end_verse
+
+ Toss lettuce, cheese and croutons.  Then add dressing and toss again.  
+ This recipe supposedly feeds 6, so you may not use all the dressing.  It 
+ keeps in the frig for a week or so, though, so you can use it again on 
+ other salads.
+
+ source:  Cafe Figaro Egg-Free Caesar Salad, from LA Times, 1994
+
+ http://articles.latimes.com/1994-10-13/food/fo-49544_1_mahi-mahi

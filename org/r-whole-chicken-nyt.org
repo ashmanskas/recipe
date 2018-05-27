@@ -1,0 +1,23 @@
+#+pagetitle: whole chicken NYT
+
+** whole chicken NYT
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-nyt.org][nyt]]] [[[file:c-poultry.org][poultry]]]
+
+#+begin_verse
+ whole chicken (3.5 lbs or so worked for us)
+ pre-heat iron skillet in oven, at 500 F (!)
+ rub chicken with olive oil; sprinkle with salt & pepper
+ CAREFULLY remove hot skillet from oven
+ put chicken on skillet breast-side up in pan
+ cook 15 minutes at 500 F
+ reduce to 350 F until done (another 30 min or so)
+ use oven thermometer to check if done (thigh about 160 F)
+ let chicken sit for at least 5 minutes before carving
+#+end_verse
+
+ source: Mark Bittman blog @ NY Times
+
+ http://dinersjournal.blogs.nytimes.com/2011/09/08/the-minimalist-simplest-roast-chicken/

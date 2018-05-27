@@ -1,0 +1,52 @@
+#+pagetitle: baked fish and chips NYT
+
+** baked fish and chips NYT
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-fish.org][fish]]] [[[file:c-nyt.org][nyt]]]
+
+Melissa Clark version
+
+#+begin_verse
+6 tablespoons extra-virgin olive oil, more as needed
+1 1/3 cups panko bread crumbs
+1 1/2 teaspoons minced thyme
+1 large garlic clove, grated on a microplane or minced
+1 teaspoon black pepper, more as needed
+1/4 cup Dijon mustard
+2 large eggs
+1 1/4 cups all-purpose flour
+1 1/4 pounds skinless hake, cod or other white fish fillets, cut into 1-inch-thick strips
+1 1/2 teaspoons kosher salt, more as needed
+#+end_verse
+
+
+
+(Chip directions left out --- see original for chips.)
+
+
+  - Place a large rimmed baking sheet on the lower oven rack and heat oven
+    to 500 degrees.
+
+  - In a large skillet over medium heat, warm 2 tablespoons oil. Stir in
+    panko, thyme, garlic and 1/2 teaspoon pepper. Cook, stirring
+    frequently, until crumbs are evenly dark golden brown, about 5
+    minutes. Transfer immediately to a bowl. 
+
+  - In a separate bowl, whisk together mustard and eggs. Place flour in a
+    third bowl.
+
+  - Grease an oven-safe wire rack with oil and place it over another
+    rimmed baking sheet. Season fish with 1 teaspoon salt and 1/2 teaspoon
+    pepper. Dredge each piece of fish in the flour, then mustard mixture,
+    then panko mixture, making sure it is well coated with each one before
+    moving to the next. Transfer fish to the wire rack. (You can bread the
+    fish up to 4 hours ahead; store in the refrigerator, uncovered, either
+    on the rack or just on a plate.)
+
+  - Reduce oven temperature to 425 degrees and transfer the pan, with
+    the fish still on the wire rack, to oven’s top rack. Bake until
+    fish is flaky and golden, about 10 to 15 minutes more.
+
+source: https://cooking.nytimes.com/recipes/1018023-baked-fish-and-chips

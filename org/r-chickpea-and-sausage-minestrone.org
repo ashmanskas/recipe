@@ -1,0 +1,42 @@
+#+pagetitle: chickpea and sausage minestrone
+
+** chickpea and sausage minestrone
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-soup.org][soup]]]
+
+#+begin_verse
+   3/4 cup uncooked small shell pasta
+   1 tbsp olive oil
+   1 link (4 ounce) hot turkey Italian sausage, casing removed
+   1 cup diced onion
+   1 cup diced carrot
+   1/2 cup diced celery
+   2 tbsp chopped fresh flat-leaf parsley
+   2 tsp chopped fresh thyme
+   1/4 tsp crushed red pepper
+   5 garlic cloves, chopped
+   1 can (15 oz) unsalted chickpeas, rinsed & drained
+   1 can (15 oz) fire-roasted diced tomatoes, NOT drained
+   4 cups unsalted chicken stock (e.g. Swanson)
+   1/2 tsp kosher salt
+   1/4 tsp freshly ground black pepper
+#+end_verse
+
+ Cook pasta according to package directions, omitting salt and fat; drain.
+
+ While pasta cooks, heat a large saucepan over medium-high heat.  Add
+ oil to pan; swirl to coat.  Add sausage; cook 3 minutes or until
+ lightly browned, stirring to crumble.  
+
+ Add onion and next 6 ingredients (through garlic); cook 10 minutes.
+
+ Add chickpeaks, tomatoes, and stock; bring to a boil.  Reduce heat,
+ and simmer 5 minutes.
+
+ Stir in pasta, salt, and black pepper; cook 1 minute.
+
+ source: http://www.myrecipes.com/recipe/chickpea-sausage-minestrone/
+
+ original source: Cooking Light, 12/2013

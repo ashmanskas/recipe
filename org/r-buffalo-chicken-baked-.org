@@ -1,0 +1,32 @@
+#+pagetitle: buffalo chicken (baked)
+
+** buffalo chicken (baked)
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-poultry.org][poultry]]]
+
+#+begin_verse
+ 4 (4 ounce) chicken breast halves
+ 1/4 cup hot sauce
+ 1 tablespoon vinegar
+ 1 tablespoon stick margarine, melted
+ 1 teaspoon celery seed
+ 1/8 teaspoon pepper
+ 1/2 cup fat free blue cheese dressing 
+#+end_verse
+
+ (we left out the celery seed, added paprika, and used olive oil for
+ margarine)
+
+ Preheat oven to 400 degrees.
+
+ Spray skillet with cooking spray. Add chicken and cook 4 minutes each
+ side until browned.
+
+ Place chicken in an 11 x 7 baking dish coated with cooking spray.
+
+ Combine hot sauce and next 4 ingredients. Pour over chicken and bake
+ uncovered for 25 minutes. Serve with dressing.
+
+ source: http://www.food.com/recipe/baked-buffalo-chicken-135585

@@ -1,0 +1,21 @@
+#+pagetitle: grilled red snapper
+
+** grilled red snapper
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-fish.org][fish]]]
+
+#+begin_verse
+ red snapper fillets
+ butter
+ finely chopped garlic
+ lime juice
+ seafood seasoning
+#+end_verse
+
+ saute garlic in melted butter, add lime juice.  coat fish with mixture.
+ sprinkle on fish seasoning.  grill on foil-covered grill, turning after
+ about 10 minutes.
+
+ source: active angler

@@ -1,0 +1,47 @@
+#+pagetitle: sun-dried tomato and pesto torta
+
+** sun-dried tomato and pesto torta
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-side.org][side]]]
+
+#+begin_verse
+    4   garlic cloves
+  1 1/2 cups (packed) fresh basil leaves
+   1/4  cup pine nuts
+    2   tbsp extra-virgin olive oil
+    1   tsp fresh lemon juice
+  2 2/3 cups cream cheese, room temp (about 21 oz)
+   1/4  cup freshly grated Parmesan cheese
+  1 1/3 cups drained oil-packed sun-dried tomatoes
+   1/3  cup tomato paste
+   3/4  cup butter, room temp
+        nonstick vegetable oil spray
+        fresh basil sprigs
+        toasted pine nuts
+        baguette slices, toasted
+#+end_verse
+
+ Freshly chop garlic in processor.  Add basil, 1/4 cup pine nuts, oil,
+ and lemon juice.  Process until well blended.  Add 1/3 cup cream
+ cheese and 1/4 cup Parmesan cheese.  Process until just blended.
+ Transfer pesto to medium bowl.
+
+ Coarsely chop tomatoes in processor.  Add tomato paste and process
+ until almost smooth.  Add 1/3 cup cream cheese and blend well.
+
+ Using mixer, beat 2 cups cream cheese and butter in large bowl until
+ fluffy.  Season with salt & pepper.
+
+ Spray 6-cup souffle dish with non-stick spray.  Line with plastic
+ wrap, extending plastic over sides.  Spread 3/4 cup cc/b mix evenly
+ over bottom of prepared dish.  Top with half of tomato mix, then 1/2
+ cup cc/b mix, then half of pesto mix.  Repeat layering with 1/2 cup
+ cc/b mix, remaining tomato mix, 1/2 cup cc/b mix, and remaining pesto.
+ Top with remaining cc/b mix.  Cover and chill overnight.
+
+ Invert torta onto platter.  Peel off plastic.  Garnish with basil
+ sprigs and toasted pine nuts.  Serve with baguette slices.
+
+ source: Bon Appetit, 12/99

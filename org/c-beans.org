@@ -1,0 +1,10 @@
+#+pagetitle: recipe-category-beans
+
+** category: beans
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+  - [[file:r-black-bean-burgers.org][black bean burgers]] [[[file:c-beans.org][beans]]]
+  - [[file:r-red-beans-and-rice.org][red beans and rice]] [[[file:c-beans.org][beans]]]
+
+

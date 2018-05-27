@@ -1,0 +1,17 @@
+#+pagetitle: recipe-category-bread
+
+** category: bread
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+  - [[file:r-banana-nut-bread.org][banana nut bread]] [[[file:c-bread.org][bread]]] [[[file:c-dessert.org][dessert]]]
+  - [[file:r-beer-cheese-bread.org][beer-cheese bread]] [[[file:c-bread.org][bread]]]
+  - [[file:r-focaccia-bread.org][focaccia bread]] [[[file:c-bread.org][bread]]]
+  - [[file:r-focaccia-from-genoa.org][focaccia from Genoa]] [[[file:c-bread.org][bread]]]
+  - [[file:r-garlic-bread.org][garlic bread]] [[[file:c-bread.org][bread]]] [[[file:c-italian.org][italian]]]
+  - [[file:r-no-knead-bread-nyt.org][no-knead bread NYT]] [[[file:c-bread.org][bread]]] [[[file:c-nyt.org][nyt]]]
+  - [[file:r-pizza-dough.org][pizza dough]] [[[file:c-bread.org][bread]]]
+  - [[file:r-pizza-dough-old-recipe.org][pizza dough old recipe]] [[[file:c-bread.org][bread]]]
+  - [[file:r-whole-wheat-focaccia.org][whole wheat focaccia]] [[[file:c-bread.org][bread]]]
+
+

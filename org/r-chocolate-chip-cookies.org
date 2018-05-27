@@ -1,0 +1,9 @@
+#+pagetitle: chocolate chip cookies
+
+** chocolate chip cookies
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-dessert.org][dessert]]]
+
+ http://allrecipes.com/recipe/best-chocolate-chip-cookies/

@@ -1,0 +1,28 @@
+#+pagetitle: risotto with shrimp, etc.
+
+** risotto with shrimp, etc.
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-italian.org][italian]]]
+
+#+begin_verse
+ 1/2 lb medium shrimp (cooked)
+ 1/2 onion chopped
+ 2.5 cups broth
+ 1 Tbsp olive oil
+ 1 clove garlic
+ 1/2 Tbsp butter
+ 1/2 cup arborio rice
+ 1/2 small tomato, chopped
+ 1/4 cup dry white wine
+ 1/8 cup grated parmesan
+#+end_verse
+
+ Combine oil & butter in pot.  Cook onion & garlic (not brown).  Add
+ rice & stir.  Add 1/2 cup broth.  Cook, medium heat, stirring, until
+ liquid absorbed.  Add tomato & wine.  Continue to stir & add broth
+ until al dente (about 18 minutes).  Add shrimp; 5 minutes.  Stir in
+ cheese.  Serve.
+
+ original source: Kansas City Star

@@ -1,0 +1,36 @@
+#+pagetitle: chocolate fondue
+
+** chocolate fondue
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-dessert.org][dessert]]] [[[file:c-french.org][french]]]
+
+     12 ounces of dark chocolate (chips or roughly chopped if from a block)
+
+     8 ounces of heavy cream
+
+     A pinch of salt
+
+     Dippables such as strawberries, banana pieces cut into 1-inch
+     chunks, dried appricots, candied ginger, apple pieces
+
+
+- Warm the cream over moderate heat until tiny bubbles show and begins
+  to lightly and slowly boil. Add the chocolate and whisk until smooth
+  and full incorporated.
+
+- Immediately transfer to a fondue pot heated at low or with a low
+  flame, or serve straight from the pot.
+
+- Arrange the dippables on a platter or plates around the chocolate
+  pot. Use a fondue fork, bamboo skewer, seafood fork, or salad fork to
+  dip the fruit pieces and other dippables into the hot melted cream
+  chocolate mixture. Eat immediately.
+
+- If the fondue begins to feel a little stiff, add a tablespoon of heavy
+  cream and stir. It will help it go a little longer. Eventually, it
+  will cook down though and you may need to start a new pot.
+
+
+source: http://simplyrecipes.com/recipes/chocolate_fondue/

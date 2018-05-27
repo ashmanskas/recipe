@@ -1,0 +1,40 @@
+#+pagetitle: Chinese curried chicken
+
+** Chinese curried chicken
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-asian.org][asian]]] [[[file:c-indian.org][indian]]]
+
+#+begin_verse
+ (This is the one I made with Thai curry paste instead of Indian and it 
+ was TOO HOT!)
+
+ Chinese Curried Chicken
+ (6-8 servings)
+
+ 3 Tbsp. oil
+ 3 chicken breasts, cut in pieces
+ 1 Tbsp. minced garlic
+ 2 tsp. finely minced ginger root
+ 2 onions, cut lengthwise into narrow strips
+ 2 medium size potatoes, peeled and cut into pieces
+ 1/2 c. water
+
+ Sauce mixture (mix in bowl):
+ 2 Tbsp. INDIAN curry paste (the Instant India stuff should work)
+ 1 tsp. curry powder
+ 1/4 tsp. cayenne pepper
+ 2 Tbsp. soy sauce
+ 1 tsp. sugar
+ 2 Tbsp. pale dry sherry
+ 1/4 tsp. salt
+
+ 1. Heat oil in wok over high heat.  Add chicken and saute until golden.  
+ Remove to bowl.
+
+ 2. Reheat remaining oil.  Add garlic, ginger and onion.  Stir fry until 
+ garlic just turns golden.  Stir in sauce mixture and cook until it begins 
+ to bubble.  Add chicken, potatoes, and water.  Stir well.  Turn heat to 
+ low.  Cover and cook for 20 minutes, stirring occasionally.
+#+end_verse

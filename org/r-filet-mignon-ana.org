@@ -1,0 +1,16 @@
+#+pagetitle: filet mignon Ana
+
+** filet mignon Ana
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-ana.org][ana]]] [[[file:c-meat.org][meat]]]
+
+#+begin_verse
+ Filet mignon 5 lb
+ spread olive oil on meat
+ heat 4 Tbsp butter in cast-iron skillet
+ sear 3 minutes each side
+ bake 450F for 30 minutes uncovered
+ take out & cover
+#+end_verse

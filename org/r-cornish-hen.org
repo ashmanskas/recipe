@@ -1,0 +1,56 @@
+#+pagetitle: Cornish hen
+
+** Cornish hen
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-poultry.org][poultry]]]
+
+#+begin_verse
+ ingredients:
+
+ 2 cornish hens
+ 2 strips turkey bacon
+ extra virgin olive oil
+ fresh sage, rosemary
+ 6 cloves garlic
+ salt, pepper
+ 1 lemon
+ white wine
+
+ gravy:
+
+ ~ 1/2 cup skim milk
+ 1 Tbsp flour
+ juice from cornish hen
+ white whine
+ lemon juice
+ pepper, salt
+
+ potatoes:
+
+ potato:
+ salt, pepper
+ poultry seasonings
+ olive oil
+#+end_verse
+
+ Preheat oven to 450.
+
+ Stuff into the cavity of each bird: 2 cloves garlic, sage leaves,
+ rosemary, 1/4 lemon and 1 strip of bacon. Also add salt and
+ pepper. Stuff underneath the skin of the birds: rosemary, sage. minced
+ garlic. Cover the birds with olive oil. Rub salt, rosemary into skin.
+ Sprinklewith salt and pepper. Squeeze remaining 1/2 lemon over
+ birds. Bake in oven uncovered until brown. Continue to baste. After ~
+ 15 min, pour white wine over birds.
+
+ Potatoes: Cut into ~1'' cubes. Coat in olive oil. Add sage, rosemary,
+ salt and pepper. Bake with birds. Tuning oven to 'broil' helps
+ browning.
+
+ Gravy: Do this when birds are almost done. Shake ~1/2 cup skim milk
+ with 1 heaping Tbsp flour.  Pour into small pot. Add salt and pepper
+ and bring to a boil. With baster, remove juices from hens' roasting
+ pan. Add to gravy mixture. Add sage, rosemary, white wine, and lemon
+ juice. Bring to a boil again while stirring.

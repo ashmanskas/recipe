@@ -1,0 +1,9 @@
+#+pagetitle: beef roast with melted tomatoes and onions
+
+** beef roast with melted tomatoes and onions
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-meat.org][meat]]] [[[file:c-nyt.org][nyt]]]
+
+ https://cooking.nytimes.com/recipes/1015826-beef-roast-with-melted-tomatoes-and-onions

@@ -1,0 +1,14 @@
+#+pagetitle: egg pasta
+
+** egg pasta
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-italian.org][italian]]]
+
+#+begin_verse
+     2   eggs
+   1 1/2 cups flour
+#+end_verse
+
+  is about the right amount for 3-4 people

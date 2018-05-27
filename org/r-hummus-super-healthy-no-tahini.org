@@ -1,0 +1,29 @@
+#+pagetitle: hummus, super healthy, no tahini
+
+** hummus, super healthy, no tahini
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-mediterranean.org][mediterranean]]]
+
+#+begin_verse
+     3 garlic cloves, minced, more if you like
+     1/4 cup plain low-fat yogurt
+     1 tablespoon lemon juice
+     1 teaspoon olive oil
+     1/4 teaspoon salt
+     1/4 teaspoon paprika
+     1/8 teaspoon pepper
+     1 (19 ounce) can chickpeas, drained and rinsed
+     1 tablespoon fresh parsley, chopped
+#+end_verse
+
+ 1.  Combine everything in blender or food processor and process until smooth.
+
+ 2.  The blender gives the best result.
+
+ 3.  If you need more liquid to make a nice consistency, add a bit more yogurt.
+
+ 4.  Chill.
+
+ source:  http://www.food.com/recipe/super-healthy-hummus-90086

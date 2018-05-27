@@ -1,0 +1,17 @@
+#+pagetitle: frozen strawberry margarita
+
+** frozen strawberry margarita
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-dessert.org][dessert]]]
+
+#+begin_verse
+ 6 oz tequila
+ 2 oz triple sec
+ 8 oz frozen strawberries
+ 4 oz frozen limeade concentrate
+ 6 cups ice
+#+end_verse
+
+ place ice in blender, crush 15-20 sec.  add ingredients.  blend.

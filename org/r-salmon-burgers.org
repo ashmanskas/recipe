@@ -1,0 +1,42 @@
+#+pagetitle: salmon burgers
+
+** salmon burgers
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-fish.org][fish]]]
+
+ (actually Tuna or Salmon Burgers)
+
+: 
+:  1 pound  center-cut tuna or salmon fillet, preferably wild, 
+:           skin and small bones removed
+: 
+:  1/4 cup  finely minced shallot or green onion
+:  2 Tbsp   capers, drained, rinsed, coarsely chopped
+:  2 tsp    grated fresh ginger
+:  1 Tbsp   low-sodium soy sauce
+: 
+:           salt
+:           freshly ground pepper to taste
+: 
+:  1 Tbsp   sesame oil
+:  1 tsp    worcestershire sauce
+:  2 Tbsp   chopped cilantro
+: 
+:           olive oil for griddle or pan
+:           lime wedges for garnish
+:           whole grain hamburger buns
+:           condiments (e.g. soy + wasabi)
+: 
+
+ Step 1:  Mince fish using sharp knife (not food processor).  Add
+ remaining ingredients (up through cilantro).  Blend with spatula or
+ spoon.  Shape into half-inch-thick patties.  Refrigerate an hour or
+ more; up to several hours.  Keep covered in refrigerator.
+
+ Step 2:  Heat a heavy nonstick skillet or griddle over medium-high
+ heat.  Brush with olive oil and turn heat to medium.  Sear patties 2-3
+ minutes per side.  Serve on buns.
+
+ source: http://cooking.nytimes.com/recipes/1014051-tuna-or-salmon-burgers

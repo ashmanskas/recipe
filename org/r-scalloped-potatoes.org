@@ -1,0 +1,24 @@
+#+pagetitle: scalloped potatoes
+
+** scalloped potatoes
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-side.org][side]]]
+
+#+begin_verse
+ peel 4 or 5 potatoes
+ slice medium thin
+ put in casserole dish with cover
+ sprinkle with salt & pepper
+
+ peel & slice a whole onion
+ put round slices on top of potatoes
+
+ add a can of cheddar cheese soup
+ add 1/2 can milk and 1/2 can water (maybe a little less)
+
+ bake 375 for 1 hour
+#+end_verse
+
+ source: Bill's mom

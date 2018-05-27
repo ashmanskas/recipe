@@ -1,0 +1,24 @@
+#+pagetitle: sushi rice
+
+** sushi rice
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-asian.org][asian]]]
+
+#+begin_verse
+2     cups sushi rice (short grain)
+2     cups water
+
+3 1/2  tbsps sushi vinegar
+1     tbsp sugar
+1 1/2  tsps salt
+
+wash rice in water, drain; repeat until clear
+let rice sit in water for 30+ minutes
+cook rice in water
+mix together vinegar, sugar, salt
+put rice in mixing bowl; sprinkle with vinegar mixture
+
+source: Quick & Easy sushi cookbook
+#+end_verse

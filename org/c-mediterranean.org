@@ -1,0 +1,14 @@
+#+pagetitle: recipe-category-mediterranean
+
+** category: mediterranean
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+  - [[file:r-couscous-with-chicken-and-olives.org][couscous with chicken and olives]] [[[file:c-mediterranean.org][mediterranean]]]
+  - [[file:r-dolmas.org][dolmas]] [[[file:c-mediterranean.org][mediterranean]]] [[[file:c-side.org][side]]]
+  - [[file:r-hummus.org][hummus]] [[[file:c-mediterranean.org][mediterranean]]]
+  - [[file:r-hummus-super-healthy-no-tahini.org][hummus, super healthy, no tahini]] [[[file:c-mediterranean.org][mediterranean]]]
+  - [[file:r-hummus-with-greek-yogurt-no-tahini.org][hummus with Greek yogurt, no tahini]] [[[file:c-mediterranean.org][mediterranean]]]
+  - [[file:r-hummus-with-yogurt.org][hummus with yogurt]] [[[file:c-mediterranean.org][mediterranean]]]
+
+

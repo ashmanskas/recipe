@@ -1,0 +1,18 @@
+#+pagetitle: recipe-category-dessert
+
+** category: dessert
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+  - [[file:r-apple-pie.org][apple pie]] [[[file:c-dessert.org][dessert]]]
+  - [[file:r-banana-nut-bread.org][banana nut bread]] [[[file:c-bread.org][bread]]] [[[file:c-dessert.org][dessert]]]
+  - [[file:r-chocolate-chip-cookies.org][chocolate chip cookies]] [[[file:c-dessert.org][dessert]]]
+  - [[file:r-chocolate-fondue.org][chocolate fondue]] [[[file:c-dessert.org][dessert]]] [[[file:c-french.org][french]]]
+  - [[file:r-cream-cheese-pie.org][cream cheese pie]] [[[file:c-dessert.org][dessert]]]
+  - [[file:r-crepes.org][crepes]] [[[file:c-dessert.org][dessert]]] [[[file:c-french.org][french]]]
+  - [[file:r-frozen-strawberry-margarita.org][frozen strawberry margarita]] [[[file:c-dessert.org][dessert]]]
+  - [[file:r-pie-crust.org][pie crust]] [[[file:c-dessert.org][dessert]]]
+  - [[file:r-soda-cracker-pie.org][soda cracker pie]] [[[file:c-dessert.org][dessert]]]
+  - [[file:r-tiramisu.org][tiramisu]] [[[file:c-dessert.org][dessert]]]
+
+

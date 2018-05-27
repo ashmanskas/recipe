@@ -1,0 +1,56 @@
+#+pagetitle: chicken vindaloo
+
+** chicken vindaloo
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-indian.org][indian]]]
+
+#+begin_verse
+ 2 tsp whole cumin seeds
+ 2-3 hot, dried red chiles
+ 1 tsp black peppercorns
+ 1 tsp cardamom seeds (these come in pods usually at the store, you'll
+         have to break open the pods and take out the seeds)
+ 3 inch stick cinnamon
+ 1 1/2 tsp whole black mustard seeds
+ 1 tsp whole fenugreek seeds
+ 5 Tbsp white wine vinegar
+ 1 1/2 tsp salt
+ 1 tsp brown sugar
+ 10 Tbsp vegetable oil
+ 2 medium onions, sliced
+ 1 1/3 c water
+ 2 lb chicken breasts, cut into cubes
+ 1 inch cube fresh ginger, peeled and chopped
+ 1 small BULB garlic, with the cloves separated and peeled
+ 1 Tbsp ground coriander
+ 1/2 tsp turmeric
+#+end_verse
+
+ 1. Grind cumin seeds, red chiles, peppercorns, cardamom seeds,
+    cinnamon, black mustard seeds and fenugreek seeds in
+    coffee-grinder or other spice grinder.  (NOTE: You can probably
+    find some of these spices already ground, especially cumin,
+    cinnamon, peppercorns=ground black pepper, red chiles=cayenne
+    pepper, and save yourself some time.)  Put in bowl and add
+    vinegar, salt, sugar.  Set aside.
+
+ 2. Heat oil in wide, heavy pot over medium heat.  Add onions and fry
+    until brown and crisp.  Drain and put them in blender with 2-3
+    Tbsp of water.  Puree to a paste.  Mix with spice-vinegar mixture.
+    This is the vindaloo paste.
+
+ 3. Put ginger and garlic in blender with 2-3 Tbsp of water and blend
+    into a paste.
+
+ 4. Heat the oil remaining in the pot.  Add chicken and brown lightly
+    on all sides.  Remove chicken to a bowl.
+
+ 5.  Put ginger-garlic paste in same pot over medium heat.  Cook for a
+     few seconds, then add coriander and turmeric.  Stir for another
+     few seconds.
+
+ 6. Add chicken and its juices, vindaloo paste, and 1 c water.  Bring
+    to boil.  Turn down heat, cover and simmer for an hour, stirring
+    occasionally.

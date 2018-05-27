@@ -1,0 +1,47 @@
+#+pagetitle: quiche, crustless, with spinach
+
+** quiche, crustless, with spinach
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-french.org][french]]]
+
+#+begin_verse
+ Cooking spray 
+ 3/4 cup (4 ounces) cubed smoked turkey ham (such as Jennie-0) 
+ 1/2 cup chopped onion 
+ 1/8 teaspoon freshly ground black pepper
+ 3/4 cup (3 ounces) shredded Swiss cheese, divided 
+ 1 cup fresh baby spinach leaves 
+ 1 cup fat-free cottage cheese 
+ 1/2 cup evaporated fat-free milk
+ 1/4 cup (1 ounce) shredded reduced-fat cheddar cheese 
+ 2 large eggs 
+ 2 large egg whites 
+ 1/2 cup all-purpose flour (about 2 1/4 ounces) 
+ 1 teaspoon baking powder
+#+end_verse
+
+     1. Preheat oven to 350°.
+
+     2. Heat a large nonstick skillet over medium-high heat. Coat pan
+        with cooking spray. Add ham, onion, and pepper to pan; sauté 4
+        minutes or until ham is lightly browned.
+
+     3. Sprinkle 1/4 cup shredded Swiss cheese in a 9-inch pie plate
+        coated with cooking spray. Top with ham mixture.
+
+     4. Combine remaining 1/2 cup Swiss cheese, spinach, and next 5
+        ingredients (through egg whites) in a large bowl; stir with a
+        whisk.
+
+     5. Lightly spoon flour into a dry measuring cup; level with a
+        knife. Combine flour and baking powder in a small bowl, stirring
+        with a whisk. Add flour mixture to egg mixture, stirring with a
+        whisk until blended. Pour egg mixture over ham mixture. Bake at
+        350F for 45 minutes or until a knife inserted in center of quiche
+        comes out clean.
+
+ source: Wendy McMillan, Longmont, Colorado, Cooking Light, JUNE 2008
+
+ http://www.myrecipes.com/recipe/crustless-smoked-turkey-spinach-quiche-10000001809150/

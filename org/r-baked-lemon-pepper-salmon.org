@@ -1,0 +1,31 @@
+#+pagetitle: baked lemon-pepper salmon
+
+** baked lemon-pepper salmon
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-fish.org][fish]]] [[[file:c-nyt.org][nyt]]]
+
+#+begin_verse
+ nonstick vegetable oil spray
+ 1/2 c chopped shallots
+ 1/4 c drained capers
+ 1 tbsp chopped fresh dill or 1 tsp dried dill
+ 1.25 lb skinless center-cut salmon fillet
+ 1 tbsp lemon-pepper seasoning
+ 2 tbsp butter
+ lemon wedges
+
+ Preheat oven to 425 degF. 
+ Place large sheet of foil on baking sheet.  Spray foil with vegetable oil spray.
+ Mix shallots, capers, and dill in small bowl. 
+ Place salmon on foil; sprinkle with lemon-pepper seasoning.
+ Spread shallot mixture over salmon.  Dot with butter.
+ Fold up edges to enclose salmon; seal.
+
+ Bake salmon just until opaque in center, about 28 minutes.
+ Open foil; transfer salmon to platter.  Spoon any juices over.
+ Garnish with lemon wedges and serve.
+#+end_verse
+
+ source:  epicurious.com, originally from Bon Appetit

@@ -1,0 +1,24 @@
+#+pagetitle: instant india curry
+
+** instant india curry
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-indian.org][indian]]]
+
+#+begin_verse
+ 2-3 chicken breasts, cut in bite-size pieces
+ (and/or a can of garbanzo beans)
+ 2 Tbsp. Instant India curry paste
+ 1 can chopped tomatoes
+ 5-6 Tbsp. lemon juice or yogurt (I prefer lemon juice)
+ Vegetable oil
+ Other possible additions: chopped spinach, raisins, boiled potatoes,
+ onions (saute first), carrots
+#+end_verse
+
+ Heat oil in pan.  Saute chicken pieces until done.  Turn down heat and 
+ add curry paste, tomatoes, and half of lemon juice/yogurt.  Bring to a 
+ boil then lower heat and simmer 10 minutes, covered.  Remove lid and 
+ simmer 5 more minutes.  Stir in remaining lemon juice/yogurt.  Serve over 
+ rice.

@@ -1,0 +1,24 @@
+#+pagetitle: sesame noodles
+
+** sesame noodles
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-asian.org][asian]]]
+
+#+begin_verse
+ 1 clove garlic sliced
+ 2 Tbs Chinese sesame paste
+ 1 Tbs toasted sesame oil
+ 3 Tbs soy sauce
+ 2 Tbs rice vinegar
+ 1 Tbs honey || sugar || maple syrup
+ 1/2 tsp or more chili paste
+ pinch of 5 spice powder
+ 1 chopped scallion for garnish
+ 1/2 lb. Chinese Noodles
+
+ Puree ingredients in blender or food processor. Cook noodles and toss 
+ immediately in sauce. Serve warm or cold. Garnish with
+ scallions. Usually I double everything in this recipe.
+#+end_verse

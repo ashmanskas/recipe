@@ -1,0 +1,38 @@
+#+pagetitle: lasagna
+
+** lasagna
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-italian.org][italian]]]
+
+#+begin_verse
+ 1 box lasagna noodles (barilla makes no-boil ones)
+ 1.5 lbs ground beef
+ 16 oz ricotta
+ 8 oz mozzarella, grated
+ 1/4 c parmesan, grated
+ marinara sauce (see recipe list)
+ 1 onion, diced
+ 4 cloves garlic, finely chopped
+ 4 sliced mushrooms
+ 2 eggs
+ 1 tbsp parsley
+ dash pepper
+ dash basil
+#+end_verse
+
+ brown meat, onion, mushrooms, and garic.  add marinara.  set aside
+
+ mix cheese and eggs in a bowl.  add parsley and spices.  save some of
+ the mozzarella for the top.
+
+ boil noodles, if necessary.
+
+ layer the goods in a 9x13 pan: meat, then cheese, then noodles, then
+ repeat.  top with the rest of the mozzarella.
+
+ cover with foil, bake 375 for 1 hour, with foil removed for last 15
+ minutes.
+
+ original source: web pages of The Real Man's Cookbook

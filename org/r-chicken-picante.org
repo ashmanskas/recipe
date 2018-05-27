@@ -1,0 +1,30 @@
+#+pagetitle: chicken picante
+
+** chicken picante
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-poultry.org][poultry]]]
+
+ I found this on the web.  It is similar, but not identical, to my old
+ recipe, which I must have buried in my email somewhere
+
+#+begin_verse
+ 3 skinless, boneless chicken breasts
+ 1 onion, chopped
+ 1 tbsp garlic powder
+ 1 tbsp vegetable oil
+ 2 zucchini, cut into round slices
+ 1 can (14.5 oz) diced tomatoes
+ 1 jar (24 oz) picante sauce
+ 12 oz shredded cheddar cheese
+#+end_verse
+
+ cube chicken breasts.  heat oil in medium skillet.  saute chicken,
+ onion, and garlic powder, until chicken is cooked through.
+
+ add zucchini, let it soften a bit.
+
+ add tomatoes and picante sauce.  simmer 30 minutes, until thickened.
+
+ sprinkle cheese on top.

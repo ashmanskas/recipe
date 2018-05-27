@@ -1,0 +1,9 @@
+#+pagetitle: chorizos in red wine NYT
+
+** chorizos in red wine NYT
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-nyt.org][nyt]]] [[[file:c-spanish.org][spanish]]]
+
+ http://cooking.nytimes.com/recipes/9487-chorizos-in-red-wine

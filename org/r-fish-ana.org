@@ -1,0 +1,34 @@
+#+pagetitle: fish Ana
+
+** fish Ana
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-ana.org][ana]]] [[[file:c-fish.org][fish]]]
+
+#+begin_verse
+ When making fish, squeeze lemon (to remove smell), then pan sear in
+ olive oil.
+
+ 2 frying pans
+
+ 1st pan:
+ extra virgin olive oil
+ onion - 3 minutes, then lower heat
+ clove of garlic
+ fresh tomato
+ stewed tomatoes (muir glen - organic)
+ simmer
+
+ your choice: halibut, trout, yellowtail snapper
+ 1 lb of fish for 2 people
+ frying pan
+ extra virgin olive oil
+ no salt
+ lemon first
+ fresh ground pepper
+ herb de provence
+ pan sear, on #3 heat, 7 minutes on each side
+
+ source:  Alison's aunt Ana
+#+end_verse

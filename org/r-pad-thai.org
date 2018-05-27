@@ -1,0 +1,79 @@
+#+pagetitle: pad Thai
+
+** pad Thai
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-asian.org][asian]]]
+
+#+begin_verse
+ Serves 6 to 8
+
+ 1/2 pound dried rice noodles, 1/8 inch wide
+ warm water
+ cooked shrimp, peeled & deveined (optional)
+ 1 pkg firm tofu
+ 1/4 cup fish sauce (soy sauce OK instead)
+ 1/4 cup + 2 Tbsp granulated sugar
+ 1/4 cup + 2 Tbsp white vinegar
+ 1 Tbsp catsup
+ 4 green onions
+ 1/2 cup vegetable oil (more if needed in Step 6)
+ 1 tsp (2 cloves) finely chopped garlic
+ 2 eggs, beaten
+ 3/4 pound bean sprouts
+ 2 Tbsp ground roasted chilies
+ 3/4 cup ground roasted unsalted peanuts
+ lime wedges
+
+ 1.  Soak the noodles for 20-25 minutes in enough warm water to cover
+ them.  They should be flexible and soft, but not so soft that they can
+ be mashed easily with the fingers.  Drain them thoroughly in a
+ colander while preparing the other ingredients.  Cut them into shorter
+ lenghts for easier stir-frying.
+
+ 2.  Mix the fish sauce, sugar, vinegar, and catsup in a bowl, and stir
+ until the sugar is dissolved.  Set the mixture aside.  Slice the green
+ onions, both white and green parts, diagonally into pieces 1 1/2
+ inches long and 1/4 inch thick.  Set aside.
+
+ 3.  Put the tofu on a triple layer of paper towels, cover it with
+ another triple layer, put a plate or cutting board on top of that, and
+ put a weight on top of the plate (e.g. a can of soup or tomatoes).
+ Let stand for 20-30 minutes to press excess water out of tofu.  After
+ the tofu has been pressed, slice it into 1/4-inch cubes.
+
+ 4.  Heat a wok, add the oil, and swirl it over the surface of the pan.
+ Add the garlic and stir-fry until light golden.  Add the noodles and
+ toss lightly to coat them with oil and to distribute the garlic.
+
+ 5.  Add the sauce mixture from Step 2 and bring it to a boil rapidly,
+ gently folding the noodles without breaking them.  Reduce the heat to
+ medium and boil the mixture, folding frequently, until the noodles
+ have absorbed the liquid.
+
+ 6.  Using a spatula, lift the noodles gently from one side of the wok.
+ Pour a little oil along the side of the wok, then pour in half of
+ beaten eggs.  Cover the egg with the noodles immediately.  Repeat this
+ on the opposite side of the wok with the remaining egg.  Allow the
+ eggs to cook undisturbed, over moderate heat, until they are set and
+ almost dry.  Additional oil may be added if the eggs or the noodles
+ begin to stick to the wok.
+
+ 7.  When the eggs are set and almost dry, fold them gently but rapidly into
+ the noodles.  Try not to break the noodles, which will be soft and fragile
+ at this point.  An effective way is to insert the scoop under the eggs, lift
+ it through, and fold the mixture over.  Continue the lifting and folding
+ motion until the eggs are broken up and well distributed.
+
+ 8.  Add the bean sprouts and sliced green onions (and cooked shrimp,
+ if desired) and toss the entire mixture quickly and gently, still
+ avoiding breaking the noodles.  Cook for about two minutes, or until
+ the bean sprouts and green onions are crisp-tender.
+
+ 9. Place the mixture on a large warm platter.  Sprinkle the ground chilies
+ and peanuts over the top and squeeze lime juice over that, or serve these
+ garnishes separately, for each diner to add according to taste.
+
+ source: one of Geoff Pike's cookbooks
+#+end_verse

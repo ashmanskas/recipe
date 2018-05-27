@@ -1,0 +1,40 @@
+#+pagetitle: eggplant pasta sauce
+
+** eggplant pasta sauce
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-italian.org][italian]]]
+
+ When I make this, I NEVER measure anything precisely, but here's the
+ recipe as it originally appeared.  I also leave out the bell pepper,
+ of course, and leave out the mushrooms if I don't have any on hand.
+
+#+begin_verse
+ 2 Tbsp canola oil (or veg oil)
+ 1 lg. onion, finely chopped
+ 1 med. red bell pepper, seeded and finely chopped
+ 3 lg. garlic cloves, minced
+ 3 Tbsp. olive oil
+ 1/2 lb. eggplant, cut into 1/2-inch cubes
+ 2 c. sliced mushrooms
+ 1 tsp oregano
+ 1 tsp basil
+ 1/2 tsp thyme
+ Salt
+ 1 can (28 oz) chopped tomatoes
+ 3 Tbsp tomato paste
+ 3-4 Tbsp red wine
+#+end_verse
+
+ 1. Heat canola oil in pot.  Add onion, bell pepper and garlic and
+    saute until onion is softened.
+ 2. Add olive oil and eggplant. Saute for 5 minutes.
+ 3. Add mushrooms, oregano, basil, thyme and salt to taste; saute until
+    the eggplant is soft (between 5-10 minutes).  Add water if mixture
+    sticks to pan (I've never had a problem with this).
+ 4. Add tomatoes.
+ 5. Stir in tomato paste and wine.  Cover and simmer for 15-20 minutes.
+
+ Per serving: 380 calories, 10 g protein, 59 g carbohydrates, 13 g fat,
+ 0 mg cholesterol, 226 mg sodium, 4 g fiber

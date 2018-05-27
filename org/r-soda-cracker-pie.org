@@ -1,0 +1,29 @@
+#+pagetitle: soda cracker pie
+
+** soda cracker pie
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-dessert.org][dessert]]]
+
+#+begin_verse
+ 3 egg whites
+ 1/2 tsp. cream of tartar
+ 1 c. sugar
+ 12 soda crackers (Saltines), finely crushed
+ 1 c. nuts, chopped (e.g. pecans or walnuts)
+ 1 tsp. vanilla
+ 1/2 pt. whipping cream
+
+ 1.  Separate egg whites from egg yolks.
+ 2.  Beat egg whites and cream of tartar until foamy.
+ 3.  Add sugar gradually, beating after each addition.
+ 4.  Fold in crackers, nuts, and vanilla (with a spatula)
+ 5.  Pour batter into buttered 9" pie pan and bake at 375 degrees for 
+     20-30 minutes until lightly browned.
+ 6.  Cool pie.
+ 7.  Spread whipped cream over top of pie 1/2" thick or more.
+ 8.  Refrigerate for 1 hour before serving.
+#+end_verse
+
+ source: Peg Adams (of KC)

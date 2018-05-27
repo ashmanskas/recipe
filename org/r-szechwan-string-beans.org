@@ -1,0 +1,31 @@
+#+pagetitle: Szechwan string beans
+
+** Szechwan string beans
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-asian.org][asian]]]
+
+#+begin_verse
+ This is good, but still needs tweaking.
+
+ string beans
+ minced ginger
+ finely chopped garlic
+ green onion
+ tsp sugar
+ pinch white pepper
+ 2 tsp soy sauce
+ few tbs chicken stock
+ bit of sesame oil
+
+ cut ends off beans.  fry in very hot oil, until wrinkled but still
+ crisp.  remove.
+
+ fry ginger, garlic.  add green onion, sugar, pepper, soy sauce.
+
+ return beans.  add stock, sesame oil.  cook few minutes to absorb
+ liquids.
+
+ source: started from a recipe land recipe
+#+end_verse

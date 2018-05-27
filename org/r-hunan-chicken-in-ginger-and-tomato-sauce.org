@@ -1,0 +1,34 @@
+#+pagetitle: Hunan chicken in ginger and tomato sauce
+
+** Hunan chicken in ginger and tomato sauce
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-asian.org][asian]]]
+
+#+begin_verse
+ 2 Tbsp. vegetable oil
+ 2-3 boneless, skinless chicken breasts, cut in bite-size pieces
+ 1 can baby corn, cut each piece in half
+ 1 pkg. frozen snow pea pods (fresh are OK too if you can find them)
+ 2 green onions, chopped in pea-sized pieces, including green part (optional)
+ 2 tsp minced ginger root
+ 2 tsp cornstarch mixed with 2 tsp water
+
+ Sauce:
+ 2 tsp soy sauce
+ 8 tsp sugar
+ 4 tsp white vinegar
+ 2 Tbsp ketchup
+ 4 tsp pale dry sherry
+ 1/2 tsp salt
+
+ 1. Heat oil in wok. Stir fry chicken pieces until cooked.  Remove
+ chicken from wok.
+ 2. Re-heat oil if necessary.  Add green onions and ginger.  Stirfry
+ until they are slightly brown.
+ 3. Add sauce mixture and stir until hot.  Add cornstarch mixture and
+ cook until sauce is thickened.
+ 4. Add chicken, corn and peas to sauce.  Stir until pieces are well
+ coated with sauce and everything is hot.
+#+end_verse

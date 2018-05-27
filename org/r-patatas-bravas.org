@@ -1,0 +1,38 @@
+#+pagetitle: patatas bravas
+
+** patatas bravas
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-spanish.org][spanish]]]
+
+ Patatas bravas
+
+#+begin_verse
+ potatoes cut into cubes
+ small onion, chopped
+ 1/2 tsp dried chili flakes
+ 1/4 cup dry white wine
+ dash tabasco
+ 1/4 cup olive oil
+ clove garlic, crushed
+ 2 ripe tomatoes, finely chopped
+ 1 tbsp chopped flat leaf parsley
+
+ sauce:
+ 1 tbsp olive oil
+ 1/2 tsp ground cumin
+ 1 tsp paprika
+ 1 tbsp tomato paste
+#+end_verse
+
+ preheat oven 425.  potatos on baking dish, coat oil, sprinkle salt, 40 min.
+
+ sauce: heat oil, add onion; add garlic, cumin, chili, paprika, tomatoes, paste.
+ cook 10 min.
+
+ process sauce in blender, reheat, add tabasco, parsley, salt.
+
+ pour sauce over potatoes.
+
+ source: www

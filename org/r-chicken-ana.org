@@ -1,0 +1,28 @@
+#+pagetitle: chicken Ana
+
+** chicken Ana
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-ana.org][ana]]] [[[file:c-poultry.org][poultry]]]
+
+#+begin_verse
+ mixing bowl
+ cumin
+ oregano
+ olive oil
+ herb de provence
+ parsley
+ place that paste on top of chicken
+
+ frying pan
+ hot olive oil
+ cook onion on #7
+
+ large pot
+ add potatoes
+ add ...
+ covered for 1 hour
+#+end_verse
+
+ source:  Alison's aunt Ana

@@ -1,0 +1,46 @@
+#+pagetitle: chicken mole
+
+** chicken mole
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-mexican.org][mexican]]]
+
+#+begin_verse
+ 6 boneless skinless chicken breast halves
+ 1/2 tsp salt, divided
+ cooking spray
+ 1/4 cup chopped onion
+ 1 tbs minced jalopeno pepper
+ 2 garlic cloves, minced
+ 1 tsp ground cinnamon
+ 3/4 tsp chili powder
+ 1/4 tsp ground cumin
+ 1/8 tsp ground allspice
+ 1/8 tsp ground cloves
+ 3 tbsp blanched almonds, toasted
+ 1 day-old corn tortilla, broken into pieces
+ 1 8.5oz can whole tomatoes, not drained
+ dash BBQ smoked seasoning (e.g. liquid smoke)
+ 3/4 oz sweet baking chocolate
+ 1/4 cup water
+ 1 tbsp sesame seeds, toasted
+ cilantro sprigs (optional)
+#+end_verse
+
+ sprinkle chicken with 1/4 tsp salt.  coat skillet with cooking spray,
+ heat medium-high.  cook chicken, remove from pan.  (*variation: cook
+ chicken on grill instead.*)
+
+ cook onion, jalapeno, garlic until tender.  add seasonings (cinnamon
+ through cloves). cook 1 minute, set aside.
+
+ grind almonds, tortilla pieces in food processor.  process onion
+ mixture, remaining 1/4 tsp salt, tomatoes, and liquid smoke, until
+ smooth.  return mixture to skillet.  add chocolate, cook over low heat
+ until melts.  add water, cook/stir until heated.
+
+ spoon sauce over chicken.  sprinkle with sesame seeds.  garnish with
+ cilantro sprigs, if desired.
+
+ source: cooking light, october 1996, page 62

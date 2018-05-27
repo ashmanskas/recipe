@@ -1,0 +1,14 @@
+#+pagetitle: recipe-category-french
+
+** category: french
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+  - [[file:r-bechamel-sauce.org][bechamel sauce]] [[[file:c-french.org][french]]] [[[file:c-italian.org][italian]]]
+  - [[file:r-cheese-fondue.org][cheese fondue]] [[[file:c-french.org][french]]]
+  - [[file:r-chocolate-fondue.org][chocolate fondue]] [[[file:c-dessert.org][dessert]]] [[[file:c-french.org][french]]]
+  - [[file:r-coq-au-vin.org][coq au vin]] [[[file:c-french.org][french]]] [[[file:c-poultry.org][poultry]]]
+  - [[file:r-crepes.org][crepes]] [[[file:c-dessert.org][dessert]]] [[[file:c-french.org][french]]]
+  - [[file:r-quiche-crustless-with-spinach.org][quiche, crustless, with spinach]] [[[file:c-french.org][french]]]
+
+

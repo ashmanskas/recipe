@@ -1,0 +1,26 @@
+#+pagetitle: focaccia bread
+
+** focaccia bread
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-bread.org][bread]]]
+
+#+begin_verse
+ 1.5 cups water
+ 1.5 tsp salt
+ 3 tbsp olive oil
+ 1 large egg, lightly beaten (optional)
+ 4 cups white flour
+ 3 tbsp sugar
+ 2 tbsp instant skim milk powder
+ 2 tsp yeast
+#+end_verse
+
+ put ingredients in bread maker in order.  set to "dough."  when ready,
+ cut in half, spread into circles on baking sheets or pizza pans.  brush
+ lightly with olive oil.  sprinkle on: garlic powder, onion powder, parsley
+ flakes, basil, rosemary, feta or parmesan cheese, coarse salt.  (some or
+ all of these things.)  preheat oven to 450, bake 10-12 minutes.  
+
+ source: bill hingley's web site

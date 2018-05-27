@@ -1,0 +1,27 @@
+#+pagetitle: magic beef
+
+** magic beef
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-asian.org][asian]]] [[[file:c-meat.org][meat]]]
+
+#+begin_verse
+ 2 tbsp soy sauce
+ 2 tbsp hoisin sauce
+ 1 tbsp honey
+ 1 tsp cornstarch
+ 1/2 tsp crushed red pepper
+
+ sirloin
+ onion
+ zucchini
+ bell pepper
+ garlic
+ baby corn
+ etc.
+
+ serve over vermicelli  (or rice)
+
+ source: Janine and Jim
+#+end_verse

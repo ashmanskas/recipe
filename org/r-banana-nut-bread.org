@@ -1,0 +1,22 @@
+#+pagetitle: banana nut bread
+
+** banana nut bread
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-bread.org][bread]]] [[[file:c-dessert.org][dessert]]]
+
+: 
+:  3 ripe bananas, well mashed             1 tsp salt
+:  2 eggs, well beaten                     1 tsp baking soda
+:  2 cups flour                            1/2 cup coarsely
+:  3/4 cup sugar                               chopped walnuts (optional)
+: 
+
+ Preheat oven to 350.  Grease loaf pan.  Mix bananas and eggs in a
+ large bowl.  Stir in half the flour, sugar, salt, and baking soda.
+ Stir in rest of flour.  Stir in walnuts.  Put batter in pan and bake
+ for 1 hour.  (Check that it's cooked by sticking a toothpick in; it's
+ done when toothpick comes out clean.)
+
+ source: The Fannie Farmer Cookbook (adapted slightly)

@@ -1,0 +1,9 @@
+#+pagetitle: chicken enchiladas with salsa verde NYT
+
+** chicken enchiladas with salsa verde NYT
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-mexican.org][mexican]]] [[[file:c-nyt.org][nyt]]]
+
+ https://cooking.nytimes.com/recipes/1018153-chicken-enchiladas-with-salsa-verde

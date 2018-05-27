@@ -1,0 +1,29 @@
+#+pagetitle: pie crust
+
+** pie crust
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-dessert.org][dessert]]]
+
+#+begin_verse
+   2  cups flour
+   1  tsp salt
+  5-7 tbsp ice water
+  2/3 cup butter-flavor shortening
+#+end_verse
+
+ Remember to check that you have a pie pan!
+
+ Combine flour and salt and sift well with fork.  Add shortening and
+ work into flour mixture with fork or pastry blender until you have
+ pea-sized chunks of flour/shortening mixture.  Add water 1 tbsp at a
+ time, gently mixing after each addition until most of dough has
+ clumped in larger chunks (usually about 6 tbsp of water).  Gather
+ dough into a ball and refrigerage for 30 min.  Cut ball in half and
+ roll each half out separately for top and bottom crusts.  If dough
+ sticks to rolling pin or rolling surface, gather it up, sprinkle
+ surface and dough with flour, and roll out again.  Line pie pan with
+ crust, crimp edges, and use with recipe of your choice.
+
+ source: Elizabeth Bleicher

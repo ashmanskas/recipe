@@ -1,0 +1,32 @@
+#+pagetitle: pierogies
+
+** pierogies
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-side.org][side]]]
+
+#+begin_verse
+ 1 c flour
+ 1 egg
+ 1/2 cup mashed potatoes
+ mix this, make dough
+
+ filling:
+ mashed potatoes
+ butter
+ velveeta
+ other cheese
+
+ to make ~80 pierogies, use
+ 5 lb potatoes
+ 3/4 lb butter
+ 2 lb cheese
+ 3 x dough recipe
+#+end_verse
+
+ filling should be cool when you make the pierogies.  put 10 in
+ boiling water, drain on a board, freeze on a board, then put in ziploc
+ bags
+
+ source: Poppop Magda

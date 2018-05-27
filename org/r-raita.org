@@ -1,0 +1,21 @@
+#+pagetitle: raita
+
+** raita
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-indian.org][indian]]]
+
+#+begin_verse
+ 2 c plain yogurt
+ 1/2 tsp salt
+ black pepper
+ 1/8 tsp cayenne pepper
+ 1/2 tsp cumin seeds
+ 1 tomato, diced
+ 4 inches cucumber, diced (optional)
+#+end_verse
+
+ Roast cumin seeds in a pan.  Grind with mortar & pestil, if available.
+
+ Whisk yogurt until smooth.  Add other ingredients.  Mix well.

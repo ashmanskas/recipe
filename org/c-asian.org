@@ -1,0 +1,27 @@
+#+pagetitle: recipe-category-asian
+
+** category: asian
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+  - [[file:r-cashew-chicken.org][cashew chicken]] [[[file:c-asian.org][asian]]]
+  - [[file:r-chinese-curried-chicken.org][Chinese curried chicken]] [[[file:c-asian.org][asian]]] [[[file:c-indian.org][indian]]]
+  - [[file:r-cold-sesame-noodles-with-summer-vegetables.org][cold sesame noodles with summer vegetables]] [[[file:c-asian.org][asian]]]
+  - [[file:r-egg-drop-soup.org][egg drop soup]] [[[file:c-asian.org][asian]]] [[[file:c-soup.org][soup]]]
+  - [[file:r-hot-and-sour-soup.org][hot and sour soup]] [[[file:c-asian.org][asian]]] [[[file:c-soup.org][soup]]]
+  - [[file:r-hunan-chicken-in-ginger-and-tomato-sauce.org][Hunan chicken in ginger and tomato sauce]] [[[file:c-asian.org][asian]]]
+  - [[file:r-lemon-chicken.org][lemon chicken]] [[[file:c-asian.org][asian]]]
+  - [[file:r-magic-beef.org][magic beef]] [[[file:c-asian.org][asian]]] [[[file:c-meat.org][meat]]]
+  - [[file:r-orange-duck.org][orange duck]] [[[file:c-asian.org][asian]]]
+  - [[file:r-pad-thai.org][pad Thai]] [[[file:c-asian.org][asian]]]
+  - [[file:r-sesame-noodles.org][sesame noodles]] [[[file:c-asian.org][asian]]]
+  - [[file:r-steamed-dumplings.org][steamed dumplings]] [[[file:c-asian.org][asian]]]
+  - [[file:r-steamed-vegetable-dumplings.org][steamed vegetable dumplings]] [[[file:c-asian.org][asian]]]
+  - [[file:r-sushi-rice.org][sushi rice]] [[[file:c-asian.org][asian]]]
+  - [[file:r-szechwan-eggplant-in-chili-garlic-sauce.org][Szechwan eggplant in chili garlic sauce]] [[[file:c-asian.org][asian]]]
+  - [[file:r-szechwan-string-beans.org][Szechwan string beans]] [[[file:c-asian.org][asian]]]
+  - [[file:r-tangy-spicy-green-beans.org][tangy spicy green beans]] [[[file:c-asian.org][asian]]]
+  - [[file:r-tofu-broccoli-stir-fry.org][tofu broccoli stir fry]] [[[file:c-asian.org][asian]]]
+  - [[file:r-vegetable-tofu-stir-fry-hsf.org][vegetable tofu stir fry HSF]] [[[file:c-asian.org][asian]]]
+
+

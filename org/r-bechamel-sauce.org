@@ -1,0 +1,24 @@
+#+pagetitle: bechamel sauce
+
+** bechamel sauce
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-french.org][french]]] [[[file:c-italian.org][italian]]]
+
+#+begin_verse
+    4   tbsp unsalted butter
+    3   tbsp unbleached flour
+  1 1/2 cups milk
+        pinch paprika
+        pinch ground nutmeg
+        salt and ground white pepper, to taste
+#+end_verse
+
+ melt butter in heavy sauce pan; add flour; stir 3 minutes over low
+ heat; raise heat to medium; add milk; stir constantly
+
+ whisk 5 minutes until sauce thickens; add paprika, nutmeg, salt,
+ pepper; stir
+
+ source: New Basics (needed for their lasagna)

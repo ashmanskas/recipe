@@ -1,0 +1,13 @@
+#+pagetitle: puttanesca sauce
+
+** puttanesca sauce
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-italian.org][italian]]]
+
+ (For pizza or pasta)
+
+ Sautee minced garlic, maybe some chopped onion too.  When soft, add a
+ small can of chopped tomatoes.  Add pitted, chopped kalamata olives,
+ 1-2 tbsp capers.  Simmer 15 min.

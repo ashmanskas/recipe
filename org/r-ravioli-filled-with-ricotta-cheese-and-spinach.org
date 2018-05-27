@@ -1,0 +1,9 @@
+#+pagetitle: ravioli filled with ricotta cheese and spinach
+
+** ravioli filled with ricotta cheese and spinach
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-italian.org][italian]]]
+
+ http://www.annamariavolpi.com/ravioli.html#.VoKmtew8LCR

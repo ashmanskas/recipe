@@ -1,0 +1,11 @@
+#+pagetitle: recipe-category-mexican
+
+** category: mexican
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+  - [[file:r-chicken-enchiladas-with-salsa-verde-nyt.org][chicken enchiladas with salsa verde NYT]] [[[file:c-mexican.org][mexican]]] [[[file:c-nyt.org][nyt]]]
+  - [[file:r-chicken-mole.org][chicken mole]] [[[file:c-mexican.org][mexican]]]
+  - [[file:r-crispy-black-bean-tacos-with-feta-and-cabbage-slaw.org][crispy black bean tacos with feta and cabbage slaw]] [[[file:c-mexican.org][mexican]]]
+
+

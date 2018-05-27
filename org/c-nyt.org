@@ -1,0 +1,27 @@
+#+pagetitle: recipe-category-nyt
+
+** category: nyt
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+  - [[file:r-baked-fish-and-chips-nyt.org][baked fish and chips NYT]] [[[file:c-fish.org][fish]]] [[[file:c-nyt.org][nyt]]]
+  - [[file:r-baked-lemon-pepper-salmon.org][baked lemon-pepper salmon]] [[[file:c-fish.org][fish]]] [[[file:c-nyt.org][nyt]]]
+  - [[file:r-beef-roast-with-melted-tomatoes-and-onions.org][beef roast with melted tomatoes and onions]] [[[file:c-meat.org][meat]]] [[[file:c-nyt.org][nyt]]]
+  - [[file:r-brisket-nyt.org][brisket NYT]] [[[file:c-meat.org][meat]]] [[[file:c-nyt.org][nyt]]]
+  - [[file:r-bruschetta-nyt.org][bruschetta NYT]] [[[file:c-italian.org][italian]]] [[[file:c-nyt.org][nyt]]]
+  - [[file:r-chicken-enchiladas-with-salsa-verde-nyt.org][chicken enchiladas with salsa verde NYT]] [[[file:c-mexican.org][mexican]]] [[[file:c-nyt.org][nyt]]]
+  - [[file:r-chorizos-in-red-wine-nyt.org][chorizos in red wine NYT]] [[[file:c-nyt.org][nyt]]] [[[file:c-spanish.org][spanish]]]
+  - [[file:r-easy-chicken-curry-nyt.org][easy chicken curry NYT]] [[[file:c-indian.org][indian]]] [[[file:c-nyt.org][nyt]]]
+  - [[file:r-fish-stew-easy-with-mediterranean-flavors-nyt.org][fish stew, easy, with Mediterranean flavors NYT]] [[[file:c-fish.org][fish]]] [[[file:c-nyt.org][nyt]]] [[[file:c-soup.org][soup]]]
+  - [[file:r-gambas-al-ajillo-nyt.org][gambas al ajillo NYT]] [[[file:c-nyt.org][nyt]]] [[[file:c-spanish.org][spanish]]]
+  - [[file:r-giant-shells-filled-with-spinach-and-ricotta.org][giant shells filled with spinach and ricotta]] [[[file:c-italian.org][italian]]] [[[file:c-nyt.org][nyt]]]
+  - [[file:r-kale-soup-with-potatoes-and-sausage-nyt.org][kale soup with potatoes and sausage NYT]] [[[file:c-nyt.org][nyt]]] [[[file:c-soup.org][soup]]]
+  - [[file:r-no-knead-bread-nyt.org][no-knead bread NYT]] [[[file:c-bread.org][bread]]] [[[file:c-nyt.org][nyt]]]
+  - [[file:r-red-lentil-soup-nyt.org][red lentil soup NYT]] [[[file:c-nyt.org][nyt]]] [[[file:c-soup.org][soup]]]
+  - [[file:r-risotto-with-mushrooms-and-peas-nyt.org][risotto with mushrooms and peas NYT]] [[[file:c-italian.org][italian]]] [[[file:c-nyt.org][nyt]]]
+  - [[file:r-risotto-with-tomato-and-basil.org][risotto with tomato and basil]] [[[file:c-italian.org][italian]]] [[[file:c-nyt.org][nyt]]]
+  - [[file:r-turkey-burgers-nyt.org][turkey burgers NYT]] [[[file:c-nyt.org][nyt]]] [[[file:c-poultry.org][poultry]]]
+  - [[file:r-turkey-nyt.org][turkey NYT]] [[[file:c-nyt.org][nyt]]] [[[file:c-poultry.org][poultry]]]
+  - [[file:r-whole-chicken-nyt.org][whole chicken NYT]] [[[file:c-nyt.org][nyt]]] [[[file:c-poultry.org][poultry]]]
+
+

@@ -1,0 +1,11 @@
+#+pagetitle: risotto with mushrooms and peas NYT
+
+** risotto with mushrooms and peas NYT
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-italian.org][italian]]] [[[file:c-nyt.org][nyt]]]
+
+This was good.  We cooked it on vacation May 2018.
+
+https://cooking.nytimes.com/recipes/1017022-mushroom-risotto-with-peas

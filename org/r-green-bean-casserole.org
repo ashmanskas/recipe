@@ -1,0 +1,13 @@
+#+pagetitle: green bean casserole
+
+** green bean casserole
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-side.org][side]]]
+
+ green beans
+ cream of mushroom soup (campbell's)
+ french onion topping (crunchy, crumbs, like french fries)
+
+ source: pop-pop Magda (xmas)

@@ -1,0 +1,68 @@
+#+pagetitle: lemon chicken
+
+** lemon chicken
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-asian.org][asian]]]
+
+ (as it appears in my cookbook; adapt as desired)
+
+ Serves 2-4
+
+ 2 boneless chicken breasts with skin, pound meat side with back of cleaver
+
+: 
+:  Marinade (mix and marinate chicken for 1 hour or more)
+:  --------
+:  1 egg, well beaten
+:  1/4 tsp salt
+:  1 tsp pale dry sherry
+:  1/4 tsp sugar
+:  juice from 1/2 lemon (approx 1 1/2 Tbsp)
+: 
+: 
+:  1/2 c cornstarch for dredging
+:  2 Tbsp oil for stirfrying
+:  1 tsp minced ginger root
+:  2 tsp minced garlic
+:  1/4 c shredded green onions, 1 1/2 inches long including green parts
+:  8 very thin slices lemon without skin
+:  1/4 c thinly shredded red or green bell pepper
+: 
+:  Sauce mixture
+:  -------------
+:  1/4 tsp salt
+:  4 tsp white vinegar
+:  4 tsp sugar
+:  2 Tbsp soy sauce
+:  4 tsp pale dry sherry
+:  1/2 c chicken broth
+: 
+:  2 tsp cornstarch mixed with 2 tsp water
+:  1 tsp lemon extract
+:  4 c oil for deepfrying
+:  Lemon slices for garnish
+: 
+
+#+begin_verse
+ 1. Put cornstarch for dredging on a plate.  Generously and evenly dredge 
+ marinated chicken. Put chicken flat on a plate and set aside.
+
+ 2. Heat small pan over medium heat.  Swirl in 2 Tbsp oil for stirfrying.  
+ When oil is hot, add ginger, garlic, and half the green onions.  Stir to 
+ cook until garlic turns golden.  Add lemon slices and shredded pepper.  
+ Immediately pur in sauce mixture.  When sauce just starts to bubble, add 
+ cornstarch water, stirring constantly until sauce is thickened.  Add 
+ lemon extract.  Mix well. Cover to keep warm.
+
+ 3. Heat 4 c oil in wok over high heat to deepfry temperature.  Slide 
+ breasts into hot oil and deepfry until golden brown.  Remove and drain.
+
+ 4. Put chicken breasts on a chopping board and chop crosswise into 
+ half-inch pieces.  Arrnage pieces on serving platter.  Sprinkle with 
+ remaining green onions.
+
+ 5. Discard lemon slices from sauce. Pour sauce over chicken.  Garnish if 
+ desired.
+#+end_verse

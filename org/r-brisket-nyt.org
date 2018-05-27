@@ -1,0 +1,9 @@
+#+pagetitle: brisket NYT
+
+** brisket NYT
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-meat.org][meat]]] [[[file:c-nyt.org][nyt]]]
+
+ https://cooking.nytimes.com/recipes/1017312-brisket-with-horseradish-gremolata

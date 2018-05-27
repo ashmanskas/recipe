@@ -1,0 +1,43 @@
+#+pagetitle: chicken tikka masala
+
+** chicken tikka masala
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-indian.org][indian]]]
+
+#+begin_verse
+ chicken marinade:
+  1 lb boneless skinless, cubed
+  1/2 onion, chopped
+  3 tbs tomato paste
+  1 tsp cumin seeds
+  1 inch ginger, chopped
+  3 tbs lemon juice
+  2 cloves garlic, crushed
+  2 tsp chili powder, optional
+  salt & pepper
+
+ masala sauce:
+  2 tbs ghee or oil
+  1 onion, sliced
+  1 tbs onion seeds, optional
+  3 cloves garlic, crushed
+  1-2 fresh green chiles, chopped
+  14 oz can crushed tomatoes
+  1/2 cup yogurt
+  1/2 cup coconut milk
+  1 tbs fresh coriander, chopped
+  2 tbs lemon juice
+  3/2 tsp garam masala
+  pinch salt
+#+end_verse
+
+ do chicken marinade in food processor, then marinate chicken a few
+ hours. heat oil/ghee, fry onion, add onion seeds, garlic, chiles,
+ until fragrant. add tomatoes, yogurt, coconut milk, to boil, then
+ simmer 20 min. fry chicken in cooking oil until browned; or grill them
+ on skewers. add cooked chicken to sauce; simmer few minutes; add
+ coriander, lemon juice, garam masala. serve with basmati.
+
+ source: Raja's recipes web page

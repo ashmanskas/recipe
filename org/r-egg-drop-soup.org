@@ -1,0 +1,24 @@
+#+pagetitle: egg drop soup
+
+** egg drop soup
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-asian.org][asian]]] [[[file:c-soup.org][soup]]]
+
+#+begin_verse
+ 1/4 tsp sugar
+ 5 c chicken broth
+ 1 Tsp cornstarch mixed with 1/4 c cold water
+ 2 eggs, beaten until slightly foamy
+ 2 green onions, cut into pea size pieces, including green part
+ 2 tsp sesame oil
+
+ 1.  Add sugar to broth.  Bring to a rapid boil.
+ 2.  Add cornstarch mixture.  Stir and cook until soup is no longer
+ cloudy.
+ 3.  Slowly swirl in beaten eggs (I drop it in in fairly large drops
+ because otherwise it becomes little stringy bits of eggs instead of
+ the nice bigger chunks).  Do not stir!  Turn off heat at once.
+ 4.  Drop in scallions and sesame oil.  Stir gently.  Serve.
+#+end_verse

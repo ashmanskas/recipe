@@ -1,0 +1,44 @@
+#+pagetitle: creamy carrot & sweet potato soup
+
+** creamy carrot & sweet potato soup
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-soup.org][soup]]]
+
+#+begin_verse
+ 3 tablespoons butter, divided 
+ 1 cup chopped onion 
+ 1/4 teaspoon ground cinnamon 
+ 1/4 teaspoon ground nutmeg 
+ 4 3/4 cups cubed peeled sweet potatoes (about 1 1/2 pounds) 
+ 3 1/2 cups water
+ 3 cups fat-free, less-sodium chicken broth 
+ 3 cups chopped carrot (about 1 pound) 
+ 1/4 cup half-and-half 
+ 1/2 teaspoon salt 
+ 1/4 teaspoon freshly ground black pepper 
+ 1/3 cup reduced-fat sour cream 
+ 2 tablespoons chopped fresh flat-leaf parsley
+#+end_verse
+
+ 1. Melt 1 tablespoon butter in a large Dutch oven over medium
+    heat. Add onion to pan; cook 4 minutes or until tender, stirring
+    occasionally. Stir in cinnamon and nutmeg; cook 1 minute, stirring
+    constantly. Move onion mixture to side of pan; add remaining 2
+    tablespoons butter to open space in pan. Increase heat to medium-high;
+    cook 1 minute or until butter begins to brown. Add sweet potatoes, 3
+    1/2 cups water, broth, and carrot; bring to a boil. Cover, reduce
+    heat, and simmer 35 minutes or until vegetables are tender.
+
+ 2. Place half of soup mixture in a blender. Remove center piece of
+    blender lid (to allow steam to escape); secure blender lid on
+    blender. Place a clean towel over opening in blender lid (to avoid
+    splatters). Blend until smooth. Pour into a large bowl. Repeat
+    procedure with remaining soup mixture. Stir in half-and-half, salt,
+    and pepper. Ladle about 1 cup soup into each of 8 bowls; top each
+    serving with about 2 teaspoons sour cream and 3/4 teaspoon parsley.
+
+ source: cooking light
+
+ http://www.myrecipes.com/recipe/creamy-carrot-sweet-potato-soup-10000001932660/

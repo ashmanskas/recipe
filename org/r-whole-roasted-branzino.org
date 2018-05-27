@@ -1,0 +1,31 @@
+#+pagetitle: whole roasted branzino
+
+** whole roasted branzino
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-fish.org][fish]]]
+
+#+begin_verse
+ 2 whole branzino (Mediterranean sea bass)
+ several sprigs of fresh flat-leaf parsley and thyme
+ 1 lemon, sliced thinly
+ 2 cloves of garlic, thinly sliced
+ sea salt and freshly ground black pepper, to taste
+ extra virgin olive oil
+
+- Preheat the oven to 450 degrees F.
+
+- Use a sharp knife to cut several diagonal slits on both sides of
+  each fish. Rub the outside of each fish with salt and pepper and
+  generously season its cavity. Brush the fish, inside and out, with
+  olive oil.
+
+- Stuff the cavities with a few sprigs of herbs, the lemon slices and
+  garlic.
+
+- Place the fish on a well-oiled baking sheet and roast for about 20
+  minutes (until the fish flakes easily).
+#+end_verse
+
+ source:  http://www.turntablekitchen.com/2011/06/whole-roasted-branzino-same-song-over-and-over/

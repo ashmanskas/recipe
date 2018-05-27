@@ -1,0 +1,24 @@
+#+pagetitle: no-knead bread NYT
+
+** no-knead bread NYT
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-bread.org][bread]]] [[[file:c-nyt.org][nyt]]]
+
+ Here is one of the most popular recipes The Times has ever published,
+ courtesy of Jim Lahey, owner of Sullivan Street Bakery. It requires no
+ kneading. It uses no special ingredients, equipment or techniques. And
+ it takes very little effort --- only time. You will need 24 hours to
+ create the bread, but much of this is unattended waiting, a slow
+ fermentation of the dough that results in a perfect loaf.
+
+ 3 cups all-purpose or bread flour
+
+ 1/4 tsp instant yeast
+
+ 1.25 tsp salt
+
+ cornmeal for dusting
+
+ http://cooking.nytimes.com/recipes/11376-no-knead-bread

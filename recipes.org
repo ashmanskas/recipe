@@ -1,0 +1,4251 @@
+
+ [[file:recipes.el][recipes.el]]     
+ [[file:~/u/proj/recipe/][proj/recipe/]]   [[file:org/0-recipe-index.org][0-recipe-index.org]]
+ [[file:recipes.sh][recipes.sh]]     rebuild: [[shell:~/u/proj/recipe/recipes.sh][run recipes.sh]] 
+
+
+* recipes
+** asian                                                              :asian:
+*** cashew chicken
+
+#+begin_verse
+ 1/3 c roasted cashew nuts, salted or unsalted
+ 4 Tbsp oil
+ 1 green onion, cut into pea size pieces, including green part
+ 2 slices fresh ginger root, about quarter-size
+ 4 Chinese dried mushrooms, soak until soft and cut into small pieces
+ 1/2 c chopped green or red bell pepper (I leave this out, of course)
+ 1/3 c sliced water chestnuts
+ 1/3 c bamboo shoots
+ 2 chicken breasts, cut into cubes
+ 1 tsp cornstarch, mixed with 2 tsp water
+
+ Sauce (may want to double this):
+ 1 Tbsp + 1 tsp soy sauce
+ 1/4 tsp saugar
+ 1 Tbsp sherry
+ 1/4 tsp salt
+
+ 1. Heat wok over high heat.  Swirl in oil for stir-frying. Add green
+ onion and ginger.  Discard ginger when it turns light brown.
+ 2.  Add mushrooms and stir-fry for about 30 seconds.  Add remaining
+ vegetables and stir-fry for about 20 seconds.  Remove vegetables with
+ slotted spoon and set aside.
+ 3.  Add chicken and stir-fry until almost completely cooked.  Stir in
+ sauce mixture, then stir in cornstarch mixture to thicken.  Return
+ vegetables to wok and stir mixture to reheat.  Stir half the cashew
+ nuts into mixture.
+ 4.  Serve on platter and sprinkle with remaining cashew nuts.
+#+end_verse
+
+*** Chinese curried chicken                                          :indian:
+
+#+begin_verse
+ (This is the one I made with Thai curry paste instead of Indian and it 
+ was TOO HOT!)
+
+ Chinese Curried Chicken
+ (6-8 servings)
+
+ 3 Tbsp. oil
+ 3 chicken breasts, cut in pieces
+ 1 Tbsp. minced garlic
+ 2 tsp. finely minced ginger root
+ 2 onions, cut lengthwise into narrow strips
+ 2 medium size potatoes, peeled and cut into pieces
+ 1/2 c. water
+
+ Sauce mixture (mix in bowl):
+ 2 Tbsp. INDIAN curry paste (the Instant India stuff should work)
+ 1 tsp. curry powder
+ 1/4 tsp. cayenne pepper
+ 2 Tbsp. soy sauce
+ 1 tsp. sugar
+ 2 Tbsp. pale dry sherry
+ 1/4 tsp. salt
+
+ 1. Heat oil in wok over high heat.  Add chicken and saute until golden.  
+ Remove to bowl.
+
+ 2. Reheat remaining oil.  Add garlic, ginger and onion.  Stir fry until 
+ garlic just turns golden.  Stir in sauce mixture and cook until it begins 
+ to bubble.  Add chicken, potatoes, and water.  Stir well.  Turn heat to 
+ low.  Cover and cook for 20 minutes, stirring occasionally.
+#+end_verse
+
+*** cold sesame noodles with summer vegetables
+
+#+begin_verse
+ 1/3 cup unseasoned rice vinegar
+ 1/3 cup vegetable oil
+ 1 tablespoon Sriracha (hot chili sauce)
+ 1 tablespoon toasted sesame oil
+ 8 cups matchstick-size pieces mixed summer vegetables 
+ (such as carrots, radishes, cucumbers, and bell peppers; about 1 1/4 pounds)
+ Kosher salt, freshly ground pepper
+ 8 ounces buckwheat soba (Japanese-style noodles) or vermicelli noodles
+ 1 cup (loosely packed) cilantro leaves with tender stems
+ 3 scallions, thinly sliced
+ 1 tablespoon black or white sesame seeds
+
+ Whisk first four ingredients in a large bowl. Add vegetables; toss to
+ coat. Season with salt and pepper.
+
+ Cook noodles in a large pot of boiling salted water, stirring
+ occasionally, until al dente; drain. Run noodles under cold water to
+ cool them; drain well and add to bowl with vegetables. Add cilantro
+ and scallions; season to taste with salt and pepper. Sprinkle sesame
+ seeds over and serve.
+#+end_verse
+
+ source:  http://www.epicurious.com/recipes/food/views/51104410
+
+*** Hunan chicken in ginger and tomato sauce
+
+#+begin_verse
+ 2 Tbsp. vegetable oil
+ 2-3 boneless, skinless chicken breasts, cut in bite-size pieces
+ 1 can baby corn, cut each piece in half
+ 1 pkg. frozen snow pea pods (fresh are OK too if you can find them)
+ 2 green onions, chopped in pea-sized pieces, including green part (optional)
+ 2 tsp minced ginger root
+ 2 tsp cornstarch mixed with 2 tsp water
+
+ Sauce:
+ 2 tsp soy sauce
+ 8 tsp sugar
+ 4 tsp white vinegar
+ 2 Tbsp ketchup
+ 4 tsp pale dry sherry
+ 1/2 tsp salt
+
+ 1. Heat oil in wok. Stir fry chicken pieces until cooked.  Remove
+ chicken from wok.
+ 2. Re-heat oil if necessary.  Add green onions and ginger.  Stirfry
+ until they are slightly brown.
+ 3. Add sauce mixture and stir until hot.  Add cornstarch mixture and
+ cook until sauce is thickened.
+ 4. Add chicken, corn and peas to sauce.  Stir until pieces are well
+ coated with sauce and everything is hot.
+#+end_verse
+
+*** lemon chicken
+
+ (as it appears in my cookbook; adapt as desired)
+
+ Serves 2-4
+
+ 2 boneless chicken breasts with skin, pound meat side with back of cleaver
+
+: 
+:  Marinade (mix and marinate chicken for 1 hour or more)
+:  --------
+:  1 egg, well beaten
+:  1/4 tsp salt
+:  1 tsp pale dry sherry
+:  1/4 tsp sugar
+:  juice from 1/2 lemon (approx 1 1/2 Tbsp)
+: 
+: 
+:  1/2 c cornstarch for dredging
+:  2 Tbsp oil for stirfrying
+:  1 tsp minced ginger root
+:  2 tsp minced garlic
+:  1/4 c shredded green onions, 1 1/2 inches long including green parts
+:  8 very thin slices lemon without skin
+:  1/4 c thinly shredded red or green bell pepper
+: 
+:  Sauce mixture
+:  -------------
+:  1/4 tsp salt
+:  4 tsp white vinegar
+:  4 tsp sugar
+:  2 Tbsp soy sauce
+:  4 tsp pale dry sherry
+:  1/2 c chicken broth
+: 
+:  2 tsp cornstarch mixed with 2 tsp water
+:  1 tsp lemon extract
+:  4 c oil for deepfrying
+:  Lemon slices for garnish
+: 
+
+#+begin_verse
+ 1. Put cornstarch for dredging on a plate.  Generously and evenly dredge 
+ marinated chicken. Put chicken flat on a plate and set aside.
+
+ 2. Heat small pan over medium heat.  Swirl in 2 Tbsp oil for stirfrying.  
+ When oil is hot, add ginger, garlic, and half the green onions.  Stir to 
+ cook until garlic turns golden.  Add lemon slices and shredded pepper.  
+ Immediately pur in sauce mixture.  When sauce just starts to bubble, add 
+ cornstarch water, stirring constantly until sauce is thickened.  Add 
+ lemon extract.  Mix well. Cover to keep warm.
+
+ 3. Heat 4 c oil in wok over high heat to deepfry temperature.  Slide 
+ breasts into hot oil and deepfry until golden brown.  Remove and drain.
+
+ 4. Put chicken breasts on a chopping board and chop crosswise into 
+ half-inch pieces.  Arrnage pieces on serving platter.  Sprinkle with 
+ remaining green onions.
+
+ 5. Discard lemon slices from sauce. Pour sauce over chicken.  Garnish if 
+ desired.
+#+end_verse
+
+*** magic beef                                                         :meat:
+
+#+begin_verse
+ 2 tbsp soy sauce
+ 2 tbsp hoisin sauce
+ 1 tbsp honey
+ 1 tsp cornstarch
+ 1/2 tsp crushed red pepper
+
+ sirloin
+ onion
+ zucchini
+ bell pepper
+ garlic
+ baby corn
+ etc.
+
+ serve over vermicelli  (or rice)
+
+ source: Janine and Jim
+#+end_verse
+
+*** pad Thai
+
+#+begin_verse
+ Serves 6 to 8
+
+ 1/2 pound dried rice noodles, 1/8 inch wide
+ warm water
+ cooked shrimp, peeled & deveined (optional)
+ 1 pkg firm tofu
+ 1/4 cup fish sauce (soy sauce OK instead)
+ 1/4 cup + 2 Tbsp granulated sugar
+ 1/4 cup + 2 Tbsp white vinegar
+ 1 Tbsp catsup
+ 4 green onions
+ 1/2 cup vegetable oil (more if needed in Step 6)
+ 1 tsp (2 cloves) finely chopped garlic
+ 2 eggs, beaten
+ 3/4 pound bean sprouts
+ 2 Tbsp ground roasted chilies
+ 3/4 cup ground roasted unsalted peanuts
+ lime wedges
+
+ 1.  Soak the noodles for 20-25 minutes in enough warm water to cover
+ them.  They should be flexible and soft, but not so soft that they can
+ be mashed easily with the fingers.  Drain them thoroughly in a
+ colander while preparing the other ingredients.  Cut them into shorter
+ lenghts for easier stir-frying.
+
+ 2.  Mix the fish sauce, sugar, vinegar, and catsup in a bowl, and stir
+ until the sugar is dissolved.  Set the mixture aside.  Slice the green
+ onions, both white and green parts, diagonally into pieces 1 1/2
+ inches long and 1/4 inch thick.  Set aside.
+
+ 3.  Put the tofu on a triple layer of paper towels, cover it with
+ another triple layer, put a plate or cutting board on top of that, and
+ put a weight on top of the plate (e.g. a can of soup or tomatoes).
+ Let stand for 20-30 minutes to press excess water out of tofu.  After
+ the tofu has been pressed, slice it into 1/4-inch cubes.
+
+ 4.  Heat a wok, add the oil, and swirl it over the surface of the pan.
+ Add the garlic and stir-fry until light golden.  Add the noodles and
+ toss lightly to coat them with oil and to distribute the garlic.
+
+ 5.  Add the sauce mixture from Step 2 and bring it to a boil rapidly,
+ gently folding the noodles without breaking them.  Reduce the heat to
+ medium and boil the mixture, folding frequently, until the noodles
+ have absorbed the liquid.
+
+ 6.  Using a spatula, lift the noodles gently from one side of the wok.
+ Pour a little oil along the side of the wok, then pour in half of
+ beaten eggs.  Cover the egg with the noodles immediately.  Repeat this
+ on the opposite side of the wok with the remaining egg.  Allow the
+ eggs to cook undisturbed, over moderate heat, until they are set and
+ almost dry.  Additional oil may be added if the eggs or the noodles
+ begin to stick to the wok.
+
+ 7.  When the eggs are set and almost dry, fold them gently but rapidly into
+ the noodles.  Try not to break the noodles, which will be soft and fragile
+ at this point.  An effective way is to insert the scoop under the eggs, lift
+ it through, and fold the mixture over.  Continue the lifting and folding
+ motion until the eggs are broken up and well distributed.
+
+ 8.  Add the bean sprouts and sliced green onions (and cooked shrimp,
+ if desired) and toss the entire mixture quickly and gently, still
+ avoiding breaking the noodles.  Cook for about two minutes, or until
+ the bean sprouts and green onions are crisp-tender.
+
+ 9. Place the mixture on a large warm platter.  Sprinkle the ground chilies
+ and peanuts over the top and squeeze lime juice over that, or serve these
+ garnishes separately, for each diner to add according to taste.
+
+ source: one of Geoff Pike's cookbooks
+#+end_verse
+
+*** sesame noodles
+
+#+begin_verse
+ 1 clove garlic sliced
+ 2 Tbs Chinese sesame paste
+ 1 Tbs toasted sesame oil
+ 3 Tbs soy sauce
+ 2 Tbs rice vinegar
+ 1 Tbs honey || sugar || maple syrup
+ 1/2 tsp or more chili paste
+ pinch of 5 spice powder
+ 1 chopped scallion for garnish
+ 1/2 lb. Chinese Noodles
+
+ Puree ingredients in blender or food processor. Cook noodles and toss 
+ immediately in sauce. Serve warm or cold. Garnish with
+ scallions. Usually I double everything in this recipe.
+#+end_verse
+
+*** steamed dumplings
+
+- dough ( [[http://www.chow.com/recipes/28052-basic-dumpling-dough][source]] )
+
+  - 10 ounces (2 cups) unbleached all-purpose flour
+  - About 3/4 cup just-boiled water (see Note)
+
+- cooking ( [[http://www.foodnetwork.com/recipes/alton-brown/vegetarian-steamed-dumplings-recipe/index.html][source]] )
+
+  Using a steaming apparatus of your choice, bring 1/4 to 1/2-inch of
+  water to a simmer over medium heat. Spray the steamer's surface
+  lightly with the non-stick vegetable spray to prevent
+  sticking. Place as many dumplings as will fit into a steamer,
+  without touching each other. Cover and steam for 10 to 12 minutes
+  over medium heat. Remove the dumplings from the steamer to a
+  heatproof platter and place in oven to keep warm. Repeat until all
+  dumplings are cooked.
+
+*** steamed vegetable dumplings
+
+#+begin_verse
+     1/2 pound firm tofu
+     1/2 cup coarsely grated carrots
+     1/2 cup shredded Napa cabbage
+     2 tablespoons finely chopped red pepper
+     2 tablespoons finely chopped scallions
+     2 teaspoons finely minced fresh ginger
+     1 tablespoon chopped cilantro leaves
+     1 tablespoon soy sauce
+     1 tablespoon hoisin sauce
+     2 teaspoons sesame oil
+     1 egg, lightly beaten
+     1 teaspoon kosher salt
+     1/4 teaspoon freshly ground black pepper
+     Bowl of water, plus additional water for steamer
+     35 to 40 small wonton wrappers
+     Non-stick vegetable spray, for the steamer
+#+end_verse
+
+ Cut the tofu in half horizontally and lay between layers of paper
+ towels. Place on a plate, top with another plate, and place a weight
+ on top (a 14-ounce can of vegetables works well). Let stand 20
+ minutes. After 20 minutes, cut the tofu into 1/4-inch cubes and place
+ in a large mixing bowl. Add the carrots, cabbage, red pepper,
+ scallions, ginger, cilantro, soy sauce, hoisin, sesame oil, egg, salt,
+ and pepper. Lightly stir to combine.
+
+ To form the dumplings, remove 1 wonton wrapper from the package,
+ covering the others with a damp cloth. Brush the edges of the wrapper
+ lightly with water. Place 1/2 rounded teaspoon of the tofu mixture in
+ the center of the wrapper. Shape as desired. Set on a sheet pan and
+ cover with a damp cloth. Repeat procedure until all of the filling is
+ gone.
+
+ Using a steaming apparatus of your choice, bring 1/4 to 1/2-inch of
+ water to a simmer over medium heat. Spray the steamer's surface
+ lightly with the non-stick vegetable spray to prevent sticking. Place
+ as many dumplings as will fit into a steamer, without touching each
+ other. Cover and steam for 10 to 12 minutes over medium heat. Remove
+ the dumplings from the steamer to a heatproof platter and place in
+ oven to keep warm. Repeat until all dumplings are cooked.
+
+ source: http://www.foodnetwork.com/recipes/alton-brown/vegetarian-steamed-dumplings-recipe/index.html
+
+*** sushi rice
+
+#+begin_verse
+2     cups sushi rice (short grain)
+2     cups water
+
+3 1/2  tbsps sushi vinegar
+1     tbsp sugar
+1 1/2  tsps salt
+
+wash rice in water, drain; repeat until clear
+let rice sit in water for 30+ minutes
+cook rice in water
+mix together vinegar, sugar, salt
+put rice in mixing bowl; sprinkle with vinegar mixture
+
+source: Quick & Easy sushi cookbook
+#+end_verse
+
+*** Szechwan eggplant in chili garlic sauce
+
+#+begin_verse
+ (4 servings)
+
+ 2 lbs eggplant
+ 3 Tbsp oil for frying
+ 2 whole dried chili peppers
+ 6 cloves garlic, minced
+ 2 scalions, chopped, incl green part
+ 1 tsp sesame oil
+
+ (I sometimes toss in some extra veggies 
+ if it's the only dish I'm cooking)
+
+ sauce:
+ 1 Tbsp Szechwan sweet bean sauce or ground bean sauce
+ 2 Tbsp black soy sauce
+ 2 tsp brown sugar
+ 1 Tbsp pale dry sherry
+ 1 tsp chili oil
+
+ Make 4 slashes around eggplant, about 1" deep.  Steam until soft.
+ Cool.  Tear into thin strips lengthwise.  Discard some seeds.
+
+ Heat oil in wok.  Fry chili peppers until dark brown & discard.  Add
+ garlic & scallions & brown slightly.  Add sauce mix & cook to bubble.
+ Add eggplant.  Add sesame oil.
+#+end_verse
+
+*** Szechwan string beans
+
+#+begin_verse
+ This is good, but still needs tweaking.
+
+ string beans
+ minced ginger
+ finely chopped garlic
+ green onion
+ tsp sugar
+ pinch white pepper
+ 2 tsp soy sauce
+ few tbs chicken stock
+ bit of sesame oil
+
+ cut ends off beans.  fry in very hot oil, until wrinkled but still
+ crisp.  remove.
+
+ fry ginger, garlic.  add green onion, sugar, pepper, soy sauce.
+
+ return beans.  add stock, sesame oil.  cook few minutes to absorb
+ liquids.
+
+ source: started from a recipe land recipe
+#+end_verse
+
+*** tangy spicy green beans
+
+#+begin_verse
+ 1 lb fresh green beans
+ 2 tbsp canola oil
+ 1/3 cup water
+ 1 small onion, finely chopped
+ 2 cloves minced fresh garlic
+ 2 tbsp fresh chopped ginger
+ 1 tsp dried shredded lemon grass
+ 1 tbsp corn starch
+ 2 tbsp seasoned rice vinegar
+ 1 tbsp soy sauce
+ 1 cup chicken stock
+ pepper (black, cayenne, szechwan, etc.)
+
+ trim and rinse beans.  in wok, heat oil over high heat until it begins
+ to smoke.  quickly add beans to oil, don't spatter.  add water and
+ cover quickly, before water spatters all over kitchen.
+
+ steam-fry beans 5 minutes, shaking covered pan now and then.  lift
+ lid, add onion, garlic, ginger, lemon grass.  stir, toss, cover,
+ steam-fry another 2-3 minutes.
+
+ blend corn starch and vinegar.  blend in remaining ingredients.
+ remove lid, stir-fry 1 minute, add liquid, stir-fry until sauce
+ thickens and beans are tender but firm.
+#+end_verse
+
+*** tofu broccoli stir fry
+
+- Ingredients (Serves 4)
+
+  * 1 package (14 1/2 ounces) firm tofu, drained, cut crosswise into
+    6 slabs (about 3/4 inch wide), each slab halved horizontally and cut
+    into triangles
+  * 1 1/2 pounds broccoli, stalks trimmed, peeled, and cut into
+    1/4-inch rounds, florets separated into bite-size pieces
+  * Coarse salt
+  * 2 tablespoons vegetable oil
+  * 3 tablespoons soy sauce
+  * 2 tablespoons rice vinegar
+  * 1/4 teaspoon red-pepper flakes
+  * 4 garlic cloves, minced
+  * 1 tablespoon cornstarch
+  * 1/2 cup cashews, toasted
+
+- Directions
+
+  - Arrange tofu in a single layer on a baking sheet lined with
+    several layers of paper towels. Top with more paper towels and
+    another baking sheet; weight with canned goods. Let tofu drain,
+    about 20 minutes.
+
+  - Meanwhile, cook broccoli (stalks and florets) in a large pot of
+    boiling salted water until bright green, 2 minutes. Drain; set aside.
+
+  - Heat oil in a large nonstick skillet over medium heat. Add tofu;
+    cook until golden brown, turning gently halfway through, 10 to 15
+    minutes. Transfer to paper towels.
+
+  - Meanwhile, make sauce: In a small bowl, whisk together soy
+    sauce, vinegar, red-pepper flakes, garlic, cornstarch, and 3/4 cup
+    water; set aside.
+
+  - Add broccoli to skillet; cook over high heat, stirring often,
+    until crisp-tender, 2 to 3 minutes. Whisk reserved sauce to combine;
+    pour into pan. Return tofu to pan; stir to coat, about 1 minute
+    more. Serve topped with cashews.
+
+ source:  marthastewart.com
+
+*** vegetable tofu stir fry HSF
+
+ I roughly followed this stir-fry recipe last night (March 2013),
+ though I used corn starch instead of arrowroot as a thickener for the
+ sauce.
+
+ I think a bit less brown sugar next time would be an improvement.
+
+ http://www.drweil.com/drw/u/RCP00173/vegetable-tofu-stir-fry.html
+
+*** orange duck
+
+ http://www.epicurious.com/recipes/food/views/Duck-a-lOrange-233535
+
+*** egg drop soup                                                      :soup:
+
+#+begin_verse
+ 1/4 tsp sugar
+ 5 c chicken broth
+ 1 Tsp cornstarch mixed with 1/4 c cold water
+ 2 eggs, beaten until slightly foamy
+ 2 green onions, cut into pea size pieces, including green part
+ 2 tsp sesame oil
+
+ 1.  Add sugar to broth.  Bring to a rapid boil.
+ 2.  Add cornstarch mixture.  Stir and cook until soup is no longer
+ cloudy.
+ 3.  Slowly swirl in beaten eggs (I drop it in in fairly large drops
+ because otherwise it becomes little stringy bits of eggs instead of
+ the nice bigger chunks).  Do not stir!  Turn off heat at once.
+ 4.  Drop in scallions and sesame oil.  Stir gently.  Serve.
+#+end_verse
+
+*** hot and sour soup                                                  :soup:
+
+: 
+:          4 cups chicken broth           2 tbs cornstarch
+:                                       1/4 cup water
+:          3 cloud ear mushrooms
+:          3 Chinese mushrooms            1 egg
+:          20 lily buds
+:                                         2 tsp sesame oil
+:          1 small pkg tofu               1 scallion (optional)
+: 
+:          3 tbs white vinegar            bamboo shoots, etc. (optional)
+:          1 tbs soy sauce
+:          1 tsp sugar
+:          1 tsp white pepper
+: 
+:  (1) Wash cloud ear mushrooms, Chinese mushrooms, and lily buds and
+:      soak in warm water for 30 minutes.  Remove hard stems and shred.
+:  (2) Cut tofu into 1/2" cubes.  
+:  (3) Mix vinegar, soy sauce, sugar, and pepper in a cup.
+:  (4) Mix cornstarch and water in another cup.
+:  (5) Beat egg.
+:  (6) Cut scallions into small pieces.
+: 
+:  (a) Mix chicken broth, mushrooms, and lily buds in a soup pan.  Boil
+:      for 8 minutes over medium heat.
+:  (b) Add tofu.  Add vinegar mixture.  Mix and cook 30 seconds.
+:  (c) Add bamboo shoots, etc.
+:  (d) Add cornstarch mixture.  Cook and stir for 1 minute.
+:  (e) Remove from heat and add egg, drop by drop.
+:  (f) Mix in sesame oil and scallions.
+: 
+
+** beans                                                              :beans:
+*** black bean burgers
+
+ Ingredients
+
+     * 1/2 medium yellow onion, roughly chopped
+     * 1 tablespoon chopped garlic
+     * 2 (15-ounce) cans black beans, rinsed and drained, divided
+     * 2 tablespoons freshly chopped cilantro leaves
+     * 2 teaspoons freshly chopped parsley leaves
+     * 1 egg
+     * 1/2 teaspoon red pepper flakes
+     * 1/2 cup bread crumbs
+     * Salt and fresh ground black pepper
+     * 4 hamburger rolls
+
+ Optional Toppings:
+
+     * 1 tomato, sliced
+     * 4 small Romaine lettuce leaves, or any other type you have on hand
+     * 1/4 cup ketchup
+
+ Directions
+
+ Heat a grill or grill pan over medium-low heat.
+
+ In a food processor, pulse onion and garlic until finely chopped. Add
+ 1 can black beans, cilantro, parsley, egg, and red pepper flakes and
+ pulse to combine.
+
+ Transfer mixture to a large mixing bowl, add the remaining can of
+ black beans and the bread crumbs. Season with salt and pepper, to
+ taste, and mix until well combined.
+
+ Reserve 1/3 of the black bean mixture for Round 2 Recipe. Divide
+ remaining mixture into 4 portions and form into patties. Place on hot
+ oiled grill over medium-low heat and cook about 6 minutes a side or
+ until heated through. Toast hamburger buns on a grill. Place a burger
+ on the bottom of each bun. Top with lettuce, tomato and ketchup. Cover
+ the burgers with the top of the bun and serve.
+
+ source:  food network
+
+*** red beans and rice
+
+#+begin_verse
+ 1 can red kidney beans, rinsed and drained
+ 1 3/4 c chicken broth
+ 1 can chopped tomatoes, drained
+ 3/4 c water
+ 1 Tbsp Worcestershire sauce
+ 2 bay leaves
+ 1/2 tsp salt
+ 1/4 tsp Tabasco or other hot sauce
+ 1 small onion, minced
+ 2 cloves garlic, minced
+ White rice, cooked
+
+ 1. Preheat oven to 350 degrees.
+ 2. Combine chicken broth, tomatoes, water, Worcestershire sauce, bay
+ leaves, salt and Tabasco in pot and bring to a boil.
+ 3. Stir in beans, onion and garlic.
+ 4. Transfer to a casserole dish with lid and bake in oven for about 45
+ minutes.
+ 5. Serve over rice.
+#+end_verse
+
+** bread                                                              :bread:
+*** beer-cheese bread
+
+#+begin_verse
+ 12 oz beer
+ 1/2 cup hot water (120-130F)
+ 2 tbsp sugar
+ 1 tbsp salt
+ 2 tbsp butter or margarine
+ 8 oz processed swiss or american cheese
+ 5 cups bread or all-purpose flour
+ 2 pkgs dry yeast
+ 8 oz natural swiss cheese, cut into 1/4" cubes
+
+ 2 medium (8" x 4") loaf pans, greased or teflon
+#+end_verse
+
+ In a large saucepan combine the beer, hot water, sugar, salt, butter,
+ and processed cheese and heat until hot.  The cheese need not melt
+ completely.  Lift off the heat and cool to warm.
+
+ In a large mixing bowl put 2 cups flour and the yeast.  Pour in the
+ warm cheese mixture and beat by hand with a wooden spoon 100 strong
+ strokes.  Stir in rest of flour, 1/2 cup at a time, first with spoon
+ and then by hand.  The dough will be a rough, shaggy mass that will
+ clean the sides of the bowl.  If the dough continues to be slack and
+ moisture breaks through, add small amounts of flour.
+
+ Turn the dough onto a lightly floured work surface and spread the
+ swiss cheese bits over it.  Fold the dough over on the cheese and
+ knead with the rhythmic motion of push-turn-fold.  The dough will
+ become smooth and elastic, and bubbles will form under the surface of
+ the dough.  Break the kneading rhythm occasionally by throwing the
+ dough down hard against the work surface.
+
+ Place the dough in a buttered bowl and turn over to coat the ball
+ completely to prevent crusting.  Cover the bowl tightly with plastic
+ wrap and leave at room temperature until dough has risen to about
+ twice its original size, about 1 hour.
+
+ Punch down and knead the dough for 30 seconds to deflate.  Divide
+ dough in half.  Roll each half into a 12"x6" rectangle.  Cut each
+ rectangle lengthwise into three 2" strips leaving them joined at one
+ end by a 1/2" piece.  Braid the strips.  Tuck under the ends to make
+ the dough about the same length as the bake pan.  Place in the pan.
+
+ Place the pans in a warm place, cover with wax paper, and leave until
+ center of dough has risen 1/2" above edge of pan, 45 minutes.
+
+ Preheat oven to 350F 20 minutes before baking.
+
+ Bake until loaves are golden brown, about 45 minutes.  They are down
+ when tapping the bottom crust yields a hard, hollow sound.  If not,
+ bake an extra 5-10 min.  Shift loaves midway through baking so that
+ they are done evenly.  Cover with foil if they brown too quickly.
+
+ Remove bread from oven.  Turn from pans and place on metal rack to
+ cool before slicing.
+
+ source: Bernard Clayton's New Complete Book of Breads
+
+*** focaccia bread
+
+#+begin_verse
+ 1.5 cups water
+ 1.5 tsp salt
+ 3 tbsp olive oil
+ 1 large egg, lightly beaten (optional)
+ 4 cups white flour
+ 3 tbsp sugar
+ 2 tbsp instant skim milk powder
+ 2 tsp yeast
+#+end_verse
+
+ put ingredients in bread maker in order.  set to "dough."  when ready,
+ cut in half, spread into circles on baking sheets or pizza pans.  brush
+ lightly with olive oil.  sprinkle on: garlic powder, onion powder, parsley
+ flakes, basil, rosemary, feta or parmesan cheese, coarse salt.  (some or
+ all of these things.)  preheat oven to 450, bake 10-12 minutes.  
+
+ source: bill hingley's web site
+
+*** focaccia from Genoa
+
+#+begin_verse
+ sponge:
+ 2.5 tsp (1 pkg) active dry yeast
+ 2/3 c warm water (105-115 degrees)
+ 1 c unbleached all-purpose flour
+
+ dough:
+ 1/2 c water, room temperature
+ 1/3 c white wine (room temp)
+ 1/3 c olive oil
+ 2.5 c + 2 tsp flour
+ 2 tsp salt
+
+ topping:
+ 2 Tbsp olive oil
+ 3/4 tsp salt
+
+ sponge:
+ Sprinkle yeast over warm water in large bowl, whisk it in, and let
+ stand until creamy, about 10 min.  (I usually add a little sugar too,
+ to make the yeast foam and check that the water temp was right.)  Stir
+ in 1 c flour and beat until smooth.  Cover with plastic wrap and let
+ rise about 30 minutes.
+
+ dough:
+ Add water, wine, and olive oil to sponge.  Whisk in 1 c flour and
+ salt, then beat in rest of flour until dough is soft and sticky.
+ Knead on lightly floured board for 6-8 min, until dough is smooth and
+ shiny but not wet.  (I often add a couple more Tbsp of flour as needed
+ during this process.)
+
+ 1st rise:
+ Place dough in lightly oiled bowl, cover tightly with plastic wrap,
+ and let rise for about 1 hour.
+
+ 2nd rise:
+ Press dough into lightly oiled 9x13 pan (or 2 cake pans), dimple with
+ fingers, cover with towel, and let rise about 45 minutes.
+
+ baking:
+ Preheat oven to 425.  Dimple the dough again with fingers, drizzle
+ olive oil over top, and sprinkle with salt.  Place focaccia in oven
+ and immediately reduce temperature to 400.  Spray sides and floor of
+ oven with water 3 times during 1st 10 minutes of baking.  (Just do it
+ with your fingertips if you don't have a spray bottle.)  Bake for a
+ total of 25-30 minutes until golden.  Immediately remove from pan.
+ Serve warm or at room temperature.
+#+end_verse
+
+ source: Focaccia cookbook
+
+*** no-knead bread NYT                                                  :nyt:
+
+ Here is one of the most popular recipes The Times has ever published,
+ courtesy of Jim Lahey, owner of Sullivan Street Bakery. It requires no
+ kneading. It uses no special ingredients, equipment or techniques. And
+ it takes very little effort --- only time. You will need 24 hours to
+ create the bread, but much of this is unattended waiting, a slow
+ fermentation of the dough that results in a perfect loaf.
+
+ 3 cups all-purpose or bread flour
+
+ 1/4 tsp instant yeast
+
+ 1.25 tsp salt
+
+ cornmeal for dusting
+
+ http://cooking.nytimes.com/recipes/11376-no-knead-bread
+
+*** pizza dough
+
+#+begin_verse
+ 2 tsp granulated yeast
+ 3 cups bread flour
+ 1 tsp salt
+ 2 Tbsp sugar
+ 2 Tbsp olive oil
+ 1 cup + 2 Tbsp water
+#+end_verse
+
+ Put all of the above into bread machine on "dough" cycle.  Place in
+ well greased bowl; roll around to coat dough in oil; cover for about
+ half an hour.  Then knead the risen dough and roll it out.
+
+ SECRETS: (1) pre-heat pizza stone with oven to 440F; bake the untopped
+ dough for 10 min; then top and bake the whole pizza.
+
+ source: http://www.food.com/recipe/easy-peezy-pizza-dough-bread-machine-pizza-dough-35805
+
+ another one to try eventually: http://www.nytimes.com/2014/04/09/dining/a-little-pizza-homework.html
+
+*** pizza dough old recipe
+
+#+begin_verse
+ 1 1/2 cups warm (105-115 F) water
+   1   pkg dry yeast
+   2   tsp salt
+  1/2  tsp garlic powder
+  1/4  cup olive oil, plus oil for bowl
+   4   cups unbleached all-purpose flour
+
+ In a large bowl, whisk together water and yeast.  Let stand 5 min.
+ Whisk in salt, garlic powder, and olive oil.  Stir in 3 1/2 cups of
+ flour, until soft dough forms.  Sprinkle work surface with flour.
+ Turn out the dough.  Knead 5 min, until smooth.  Lightly oil a large
+ bowl.  Put in dough, turn it to coat it with oil, and cover with a
+ clean towel.  Let rise 2 hours, until puffy & light.
+#+end_verse
+
+ source: "Burning Desires" cookbook
+
+*** whole wheat focaccia
+
+: 
+:  sponge:                               dough:                         
+:     1  tsp active dry yeast               1   tsp active dry yeast   
+:    1/2 cup warm water (105-115 F)         1   cup warm water         
+:    3/4 cup flour                        2 1/2 cup flour              
+:                                          3/4  cup whole-wheat flour  
+:                                           3   tbsp olive oil         
+:                                           2   tsp salt               
+:                                           1   sponge                 
+: 
+
+ To make sponge:  Mix yeast and water and let stand until creamy (10
+ min).  Stir in flour, cover tightly with plastic wrap, and let rise 45
+ min until doubled.
+
+ To make dough:  Mix yeast and water and let stand until creamy.  Add
+ yeast mixture and olive oil to sponge and mix well.  Stir in salt and
+ add flours one cup at a time until soft dough is formed.  Knead on
+ floured surface 8-10 min.  Put dough in lightly oiled bowl, cover with
+ plastic wrap, and let rise 1 1/4 hours.
+
+ To shape dough:  Oil an 11x17 baking sheet or 2 pie pans.  Flatten
+ dough and spread it in pan(s), allowing it to relax for 10 min if it
+ will not reach edges.  Cover with towel or plastic wrap and let rise
+ for 45 min.
+
+ To bake:  Preheat oven to 425 F 30 min before baking.  Dimple dough
+ with finger tips, drizzle it with 1-2 tbsp oil, and sprinkle with sea
+ salt.  Bake 20-25 min.
+
+ For crispier crust:  Spray oven walls with cold water 3 times during
+ first 10 min of baking.
+
+ Source: Focaccia cookbook
+
+*** banana nut bread                                      :dessert:
+
+: 
+:  3 ripe bananas, well mashed             1 tsp salt
+:  2 eggs, well beaten                     1 tsp baking soda
+:  2 cups flour                            1/2 cup coarsely
+:  3/4 cup sugar                               chopped walnuts (optional)
+: 
+
+ Preheat oven to 350.  Grease loaf pan.  Mix bananas and eggs in a
+ large bowl.  Stir in half the flour, sugar, salt, and baking soda.
+ Stir in rest of flour.  Stir in walnuts.  Put batter in pan and bake
+ for 1 hour.  (Check that it's cooked by sticking a toothpick in; it's
+ done when toothpick comes out clean.)
+
+ source: The Fannie Farmer Cookbook (adapted slightly)
+
+** dessert                                                          :dessert:
+*** apple pie
+
+: 
+:    1  recipe pie crust     1 tsp cinnamon
+:   6-7 tart, firm apples    1 dash nutmeg
+:   3/4 cup sugar            1 dash salt
+:    2  tbsp flour           2 tbsp butter
+: 
+
+ Prepare pie crust and place bottom crust in pie pan.  Peel, core, and
+ chop apples.  In a large bowl, toss apples with sugar, flour,
+ cinnamon, nutmeg, and salt.  Pour mixture, including liquid, into
+ bottom crust.  Cut butter into small pieces and sprinkle over
+ filling.  Roll out top crust and place over filling.  Crimp edges and
+ cut a few slits in top crust to allow steam to escape.  Wrap edges in
+ foil.  Bake at 400 F for 40 min.  Remove foil edges.  Bake 10 more
+ min.
+
+ *REMEMBER:  CUT HOLES IN CRUST!  AND USE DRIP TRAY BENEATH PIE PAN.*
+
+ source: Elizabeth Bleicher
+
+*** chocolate chip cookies
+
+ http://allrecipes.com/recipe/best-chocolate-chip-cookies/
+
+*** cream cheese pie
+
+#+begin_verse
+ 8oz pkg cream cheese
+ 1/2 cup sugar
+ 1 tsp vanilla
+ 1 container of cool whip
+ maybe 2 tbsp sour cream
+ graham cracker pie shell
+
+ let cream cheese soften
+ mix cream cheese, sugar, vanilla, cool whip, sour cream
+ put in pie shell
+ let chill overnight
+#+end_verse
+
+ source: pop-pop Magda
+
+*** pie crust
+
+#+begin_verse
+   2  cups flour
+   1  tsp salt
+  5-7 tbsp ice water
+  2/3 cup butter-flavor shortening
+#+end_verse
+
+ Remember to check that you have a pie pan!
+
+ Combine flour and salt and sift well with fork.  Add shortening and
+ work into flour mixture with fork or pastry blender until you have
+ pea-sized chunks of flour/shortening mixture.  Add water 1 tbsp at a
+ time, gently mixing after each addition until most of dough has
+ clumped in larger chunks (usually about 6 tbsp of water).  Gather
+ dough into a ball and refrigerage for 30 min.  Cut ball in half and
+ roll each half out separately for top and bottom crusts.  If dough
+ sticks to rolling pin or rolling surface, gather it up, sprinkle
+ surface and dough with flour, and roll out again.  Line pie pan with
+ crust, crimp edges, and use with recipe of your choice.
+
+ source: Elizabeth Bleicher
+
+*** soda cracker pie
+
+#+begin_verse
+ 3 egg whites
+ 1/2 tsp. cream of tartar
+ 1 c. sugar
+ 12 soda crackers (Saltines), finely crushed
+ 1 c. nuts, chopped (e.g. pecans or walnuts)
+ 1 tsp. vanilla
+ 1/2 pt. whipping cream
+
+ 1.  Separate egg whites from egg yolks.
+ 2.  Beat egg whites and cream of tartar until foamy.
+ 3.  Add sugar gradually, beating after each addition.
+ 4.  Fold in crackers, nuts, and vanilla (with a spatula)
+ 5.  Pour batter into buttered 9" pie pan and bake at 375 degrees for 
+     20-30 minutes until lightly browned.
+ 6.  Cool pie.
+ 7.  Spread whipped cream over top of pie 1/2" thick or more.
+ 8.  Refrigerate for 1 hour before serving.
+#+end_verse
+
+ source: Peg Adams (of KC)
+
+*** tiramisu
+
+#+begin_verse
+ lady fingers: layer and moisten with coffee
+ multiply as needed: 1 egg, 100g moscarpone, 2 tbsp sugar
+
+ whip egg whites until fluffy.  beat yolk, sugar, cheese.  fold in
+ whites.  make layers.  sprinkle with cocoa.  freeze.
+#+end_verse
+
+ source: Carla Pilcher
+
+*** chocolate fondue                                                 :french:
+
+     12 ounces of dark chocolate (chips or roughly chopped if from a block)
+
+     8 ounces of heavy cream
+
+     A pinch of salt
+
+     Dippables such as strawberries, banana pieces cut into 1-inch
+     chunks, dried appricots, candied ginger, apple pieces
+
+
+- Warm the cream over moderate heat until tiny bubbles show and begins
+  to lightly and slowly boil. Add the chocolate and whisk until smooth
+  and full incorporated.
+
+- Immediately transfer to a fondue pot heated at low or with a low
+  flame, or serve straight from the pot.
+
+- Arrange the dippables on a platter or plates around the chocolate
+  pot. Use a fondue fork, bamboo skewer, seafood fork, or salad fork to
+  dip the fruit pieces and other dippables into the hot melted cream
+  chocolate mixture. Eat immediately.
+
+- If the fondue begins to feel a little stiff, add a tablespoon of heavy
+  cream and stir. It will help it go a little longer. Eventually, it
+  will cook down though and you may need to start a new pot.
+
+
+source: http://simplyrecipes.com/recipes/chocolate_fondue/
+
+*** crepes                                                           :french:
+
+: 
+:   1  cup flour            2   tbsp melted butter
+:  1/2 tsp salt           1 1/2 cups milk
+:   2  eggs
+: 
+
+ 1 minute in blender
+
+ chill for a while before cooking
+
+ source: Barbara Paul (elementary school French teacher)
+
+*** frozen strawberry margarita
+
+#+begin_verse
+ 6 oz tequila
+ 2 oz triple sec
+ 8 oz frozen strawberries
+ 4 oz frozen limeade concentrate
+ 6 cups ice
+#+end_verse
+
+ place ice in blender, crush 15-20 sec.  add ingredients.  blend.
+
+** fish                                                                :fish:
+*** fish pie Jamie Oliver
+
+Serves 4.  
+ 
+Start with very fresh fish, bones removed.  Could work with nearly any
+sort of fish, but we liked it better with white fish than with salmon.
+
+Note: we replaced potatoes with sweet potatoes --- yum!
+
+ *ingredients*
+
+    - 14 oz sweet potatoes, finely sliced
+    - 4 Tbsp olive oil
+    - 1 clove garlic, peeled and chopped
+    - 1 onion, peeled and sliced
+    - 1 bulb fennel (a.k.a. anise), trimmed and sliced
+    - 1 tsp fennel seeds
+    - 4 medium or 8 small fillets of trout, pinboned
+    - 1 1/4 cups light cream
+    - 2 handfuls freshly grated parmesan cheese
+    - 2 anchovy fillets (basically one can of anchovies)
+    - sea salt and freshly ground black pepper
+    - 2 handfuls of fresh breadcrumbs (panko works well)
+    - 2 lemons, halved
+
+ *directions*
+
+Preheat oven to 400F.  
+
+Boil sliced potatoes in salted boiling water
+for a few minutes until softened; then drain in colander.  
+
+Place 8-inch oven-safe pan on low heat and add oil, garlic, onion,
+fennel, and fennel seeds.  Cook slowly for 10 minutes with the lid on,
+stirring every so often.
+
+Take pan off heat.  Lay fish skin-side-up over onion and fennel.
+
+Mix together cream, parmesan, anchovies; season with salt and pepper;
+pour over fish.
+
+Toss potato slices in a little olive oil, salt, and pepper, and layer
+these over the top.
+
+Place in oven for 20 minutes.  5 minutes before end, sprinkle with
+breadcrumbs and a bit more grated parmesan.
+
+Serve with lemon halves, a green salad, and cold beers!
+
+source: Jamie Oliver cookbook, via Michelle Komie
+
+*** baked fish and chips NYT                                            :nyt:
+
+Melissa Clark version
+
+#+begin_verse
+6 tablespoons extra-virgin olive oil, more as needed
+1 1/3 cups panko bread crumbs
+1 1/2 teaspoons minced thyme
+1 large garlic clove, grated on a microplane or minced
+1 teaspoon black pepper, more as needed
+1/4 cup Dijon mustard
+2 large eggs
+1 1/4 cups all-purpose flour
+1 1/4 pounds skinless hake, cod or other white fish fillets, cut into 1-inch-thick strips
+1 1/2 teaspoons kosher salt, more as needed
+#+end_verse
+
+
+
+(Chip directions left out --- see original for chips.)
+
+
+  - Place a large rimmed baking sheet on the lower oven rack and heat oven
+    to 500 degrees.
+
+  - In a large skillet over medium heat, warm 2 tablespoons oil. Stir in
+    panko, thyme, garlic and 1/2 teaspoon pepper. Cook, stirring
+    frequently, until crumbs are evenly dark golden brown, about 5
+    minutes. Transfer immediately to a bowl. 
+
+  - In a separate bowl, whisk together mustard and eggs. Place flour in a
+    third bowl.
+
+  - Grease an oven-safe wire rack with oil and place it over another
+    rimmed baking sheet. Season fish with 1 teaspoon salt and 1/2 teaspoon
+    pepper. Dredge each piece of fish in the flour, then mustard mixture,
+    then panko mixture, making sure it is well coated with each one before
+    moving to the next. Transfer fish to the wire rack. (You can bread the
+    fish up to 4 hours ahead; store in the refrigerator, uncovered, either
+    on the rack or just on a plate.)
+
+  - Reduce oven temperature to 425 degrees and transfer the pan, with
+    the fish still on the wire rack, to oven’s top rack. Bake until
+    fish is flaky and golden, about 10 to 15 minutes more.
+
+source: https://cooking.nytimes.com/recipes/1018023-baked-fish-and-chips
+
+*** baked lemon-pepper salmon                                           :nyt:
+
+#+begin_verse
+ nonstick vegetable oil spray
+ 1/2 c chopped shallots
+ 1/4 c drained capers
+ 1 tbsp chopped fresh dill or 1 tsp dried dill
+ 1.25 lb skinless center-cut salmon fillet
+ 1 tbsp lemon-pepper seasoning
+ 2 tbsp butter
+ lemon wedges
+
+ Preheat oven to 425 degF. 
+ Place large sheet of foil on baking sheet.  Spray foil with vegetable oil spray.
+ Mix shallots, capers, and dill in small bowl. 
+ Place salmon on foil; sprinkle with lemon-pepper seasoning.
+ Spread shallot mixture over salmon.  Dot with butter.
+ Fold up edges to enclose salmon; seal.
+
+ Bake salmon just until opaque in center, about 28 minutes.
+ Open foil; transfer salmon to platter.  Spoon any juices over.
+ Garnish with lemon wedges and serve.
+#+end_verse
+
+ source:  epicurious.com, originally from Bon Appetit
+*** baked salmon with tomatoes and shallots
+
+#+begin_verse
+ Ingredients
+
+ 4 (5 oz) salmon filets
+ 2 Teaspoons olive oil plus 2 tablesppons
+ Salt and Freshly Ground Pepper
+ 3 chopped tomatoes or 1 (14 oz) can diced tomatoes drained
+ 2 chopped shallots
+ 2 tablespoons fresh lemon juice
+ 1 teaspoon dried oregano
+ 1 teaspoon dried thyme
+
+ Directions
+
+ Preheat oven to 400 degrees
+ Sprinkle salmon with 2 teaspoons olive oil, salt, and pepper.
+ Combine tomatoes, shallots, 2 tablespoons oil, lemon juice, oregano, thyme, salt, and pepper in a bowl, mixing well.
+ Place a salmon filet, oiled side down on a piece of foil.
+ Spoon 1/4 of the tomato mixture on top of the salmon.
+ Wrap the foil around salmon, forming a square packet.
+ Place the wrapped salmon on a baking sheet.
+ Repeat for the remaining 3 pieces.
+ Bake the salmon for about 25 mins until the salmon is just cooked through.
+#+end_verse
+
+*** fillet of sole with piquant tomato sauce
+
+#+begin_verse
+ 1/3 c. thinly sliced yellow onion
+ 2 1/2 Tbsp olive oil
+ 3/4 tsp finely chopped garlic
+ 1/2 tsp oregano
+ 1 Tbsp capers (this are available in a jar, generally in the same
+    section of the store as olives and pickles, a small jar will last
+    you a long time)
+ 1/2 c. canned chopped tomatoes and their juice
+ Salt to taste
+ Black pepper
+ 1 lb. fresh sole fillets
+#+end_verse
+
+- Saute onion in olive oil until soft and pale gold in color.  Add
+  garlic and saute until it just starts to turn yellow/light brown.
+  Stir in the oregano and capers.  Add tomatoes with juice, salt and
+  pepper.  Stir and simmer for 15-20 minutes.
+
+- Rise and dry fish fillets.  Smear bottom of baking dish with a
+  little of the tomato sauce (approx. 1 Tbsp).  Dip each fish fillet
+  in the sauce, then arrange in baking dish so that fillets are just
+  slightly overlapping.  Pour remaining sauce over fish.  Bake in 450
+  degree oven for no more than 5-8 minutes (depending on thickness of
+  fish).
+
+- If sauce thins during baking (because fish gives off liquid in
+  cooking process), pour sauce back into pan and boil rapidly until
+  thickened before pouring over fish and serving.
+
+*** fish Ana                                                            :ana:
+
+#+begin_verse
+ When making fish, squeeze lemon (to remove smell), then pan sear in
+ olive oil.
+
+ 2 frying pans
+
+ 1st pan:
+ extra virgin olive oil
+ onion - 3 minutes, then lower heat
+ clove of garlic
+ fresh tomato
+ stewed tomatoes (muir glen - organic)
+ simmer
+
+ your choice: halibut, trout, yellowtail snapper
+ 1 lb of fish for 2 people
+ frying pan
+ extra virgin olive oil
+ no salt
+ lemon first
+ fresh ground pepper
+ herb de provence
+ pan sear, on #3 heat, 7 minutes on each side
+
+ source:  Alison's aunt Ana
+#+end_verse
+
+*** grilled lemon salmon
+
+#+begin_verse
+  1.5 lbs salmon filet
+   2  tsp fresh dill
+  1/2 tsp pepper
+  1/2 tsp salt
+  1/2 tsp garlic powder
+  1/4 cup brown sugar
+   3  tbsp oil
+   1  cube bouillion
+   3  tbsp water
+   3  tbsp soy sauce
+   4  tbsp green onions
+   1  lemon, thinly sliced
+   2  slices onions, separated into rings
+#+end_verse
+
+ Sprinkle dill, salt, pepper, garlic powder over salmon and place in
+ shallow pan.  Mix sugar, bouillon, oil, soy sauce, and green onions.
+ Pour over salmon.  Cover and chill one hour, turn once.  Drain and
+ discard marinade.  Grill over medium heat, with lemon and onion on
+ top.  Cover and cook ~ 15 minutes until fish is done.
+
+ source: Wellness Matters from Os-Cal (?)
+
+*** grilled red snapper
+
+#+begin_verse
+ red snapper fillets
+ butter
+ finely chopped garlic
+ lime juice
+ seafood seasoning
+#+end_verse
+
+ saute garlic in melted butter, add lime juice.  coat fish with mixture.
+ sprinkle on fish seasoning.  grill on foil-covered grill, turning after
+ about 10 minutes.
+
+ source: active angler
+
+*** new bay seasoning
+
+#+begin_verse
+ 1 tbs bay leaf powder
+ 2.5 tsp celery salt
+ 1.5 tsp dry mustard
+ 1.5 tsp black pepper
+ 3/4 tsp nutmeg
+ 1/2 tsp ground cloves
+ 1/2 tsp ginger
+ 1/2 tsp paprika
+ 1/2 tsp red peppers
+ 1/4 tsp ground coriander
+#+end_verse
+
+*** salmon burgers
+
+ (actually Tuna or Salmon Burgers)
+
+: 
+:  1 pound  center-cut tuna or salmon fillet, preferably wild, 
+:           skin and small bones removed
+: 
+:  1/4 cup  finely minced shallot or green onion
+:  2 Tbsp   capers, drained, rinsed, coarsely chopped
+:  2 tsp    grated fresh ginger
+:  1 Tbsp   low-sodium soy sauce
+: 
+:           salt
+:           freshly ground pepper to taste
+: 
+:  1 Tbsp   sesame oil
+:  1 tsp    worcestershire sauce
+:  2 Tbsp   chopped cilantro
+: 
+:           olive oil for griddle or pan
+:           lime wedges for garnish
+:           whole grain hamburger buns
+:           condiments (e.g. soy + wasabi)
+: 
+
+ Step 1:  Mince fish using sharp knife (not food processor).  Add
+ remaining ingredients (up through cilantro).  Blend with spatula or
+ spoon.  Shape into half-inch-thick patties.  Refrigerate an hour or
+ more; up to several hours.  Keep covered in refrigerator.
+
+ Step 2:  Heat a heavy nonstick skillet or griddle over medium-high
+ heat.  Brush with olive oil and turn heat to medium.  Sear patties 2-3
+ minutes per side.  Serve on buns.
+
+ source: http://cooking.nytimes.com/recipes/1014051-tuna-or-salmon-burgers
+
+*** spicy grilled salmon steaks
+
+#+begin_verse
+ 1.5  tsp pepper
+ 0.5  tsp paprika
+ 0.25 tsp cayenne
+ 1.0  tsp minced garlic
+ 1.0  tsp minced onion
+ 0.5  tsp ground thyme
+ 0.25 tsp salt
+ 1.0  Tbsp olive oil
+ 1.0  lbs salmon steak
+#+end_verse
+
+ combine pepper, paprika, cayenne, garlic, onion, thyme, salt, oil, to
+ form stiff paste.  pat paste onto both sides of each salmon steak.
+ grill or saute salmon.
+
+ source: fog horn recipe site
+
+*** swordfish
+
+#+begin_verse
+ lemon juice
+ oregano
+ salt
+ stir in olive oil
+#+end_verse
+
+*** tequila-lime mahimahi tacos
+
+#+begin_verse
+ 4 tablespoons fresh lime juice, divided
+ 3 tablespoons tequila
+ 3 tablespoons roughly chopped fresh cilantro, divided
+ 1 teaspoon finely chopped garlic
+ 1 teaspoon ground cumin
+ 1 lb mahimahi
+ 3 tablespoons rice wine vinegar
+ 1 teaspoon canola oil
+ 2 3/4 teaspoons honey, divided
+ 1 1/2 teaspoons kosher salt, divided
+ 1/2 teaspoon freshly ground black pepper, divided
+ 3 cups thinly sliced red cabbage
+ 3/4 cup reduced-fat sour cream
+ 3 tablespoons 2 percent milk
+ 1 1/2 teaspoons finely grated lime zest
+ 8 corn tortillas (6 inches each)
+ 1/2 firm-ripe avocado, thinly sliced
+ 2 limes, quartered
+#+end_verse
+
+ In a resealable plastic bag, combine 3 tablespoons lime juice,
+ tequila, 1 tablespoons cilantro, garlic and cumin. Add fish, seal bag
+ and turn to coat; refrigerate, turning once, 1 hour. In a bowl,
+ combine vinegar, oil, 2 teaspoons honey, 1/4 teaspoon salt and 1/4
+ teaspoon pepper. Add cabbage; toss well. In another bowl, combine sour
+ cream, milk, zest, remaining 1 tbsp juice, remaining 3/4 teaspoon
+ honey and 1/2 teaspoon salt. Heat grill. Remove fish from marinade;
+ season with remaining 1/2 teaspoon salt and remaining 1/4 teaspoon
+ pepper. Grill, turning once, until just cooked through and lightly
+ charred, 4 minutes per side. Transfer to a cutting board; coarsely
+ chop. Stir remaining 2 tablespoons cilantro into slaw. Grill
+ tortillas, turning once, 30 seconds per side. To assemble, spoon 1
+ tablespoon sour cream mixture in center of each tortilla. Divide fish,
+ slaw and avocado among tortillas. Garnish with lime wedges.
+
+
+ source: http://www.epicurious.com/recipes/food/views/Tequila-Lime-Mahimahi-Tacos-51101200
+
+*** tuna steaks glazed with ginger, lime, and soy
+
+#+begin_verse
+     tuna steaks, 1" thick
+  2  tbs lime juice
+ 1.5 tbs soy sauce
+  2  garlic cloves, crushed
+  2  tsp ginger, grated
+ 1.5 tsp sesame oil
+  1  tsp chili pepper, minced
+  1  tsp sugar
+#+end_verse
+
+ Whisk marinade.  Pour over fish; turn; coat.  Marinate, covered, 30',
+ turning once or twice.  Broil 4" from heat until glazed and golden,
+ basting twice with marinade, about 3'.  Carefully turn fish.  Broil
+ until glazed and just cooked.  Transfer to plate and spoon juice over
+ top.
+
+ source: Clay Irving (?); found on web
+
+*** tuna steaks Moroccan style
+
+#+begin_verse
+ 1 tsp paprika
+ 1 tsp cumin
+ 1 tsp tumeric
+ 1/2 tsp ginger
+ 1/8 tsp cinnamon
+ 1/4 tsp red pepper flakes
+ salt, pepper
+ 4 tuna steaks, 5 oz each
+ 1 tbsp lemon juice
+ 2 tbsp olive oil
+ 2 tbsp melted butter
+#+end_verse
+
+ combine spices and blend.  rub each steak with spice mixture.
+ sprinkle with lemon and oil.  cover with plastic and let stand 15-30
+ minutes.  either broil or pan fry, 4 minutes per side.  brush with
+ melted butter.
+
+ serve on a bed of couscous; accompany with cucumber and tomato salad,
+ fresh pita.
+
+*** whole roasted branzino
+
+#+begin_verse
+ 2 whole branzino (Mediterranean sea bass)
+ several sprigs of fresh flat-leaf parsley and thyme
+ 1 lemon, sliced thinly
+ 2 cloves of garlic, thinly sliced
+ sea salt and freshly ground black pepper, to taste
+ extra virgin olive oil
+
+- Preheat the oven to 450 degrees F.
+
+- Use a sharp knife to cut several diagonal slits on both sides of
+  each fish. Rub the outside of each fish with salt and pepper and
+  generously season its cavity. Brush the fish, inside and out, with
+  olive oil.
+
+- Stuff the cavities with a few sprigs of herbs, the lemon slices and
+  garlic.
+
+- Place the fish on a well-oiled baking sheet and roast for about 20
+  minutes (until the fish flakes easily).
+#+end_verse
+
+ source:  http://www.turntablekitchen.com/2011/06/whole-roasted-branzino-same-song-over-and-over/
+
+** indian                                                            :indian:
+*** bengan bharta
+
+: 
+:  2 lg eggplants                         1/2 tsp turmeric
+:  2 garlic cloves, halved                1/2 tsp ground coriander
+:  1 lg fresh green chile, seeded         1/2 tsp chili powder
+:  1 2" pc ginger, chopped                  2 Tbsp chopped cilantro
+:  4 Tbsp veg oil                           1 Tbsp lime juice
+:  4 cardamom pods                          1 tsp garam masala
+:  2 cloves                                1+ lg can chopped tomatoes
+:  1 c finely chopped onion
+: 
+
+ 1.  Broil eggplants 6" from heat, turning often, 25 min until tender &
+     well charred.  Let stand in paper bag 10 minutes.  Peel & mash.  Drain
+     liquid.
+
+ 2.  Blend garlic, chile, ginger.
+
+ 3.  Heat oil.  Cook cardamom & cloves 1 min on high.  Reduce heat &
+     cook onion until golden brown.  Stir in garlic mixture, turmeric,
+     coriander, chili powder, and cook 2 min.
+
+ 4.  Add eggplant & 1 Tbsp cilantro on low heat.  Cook 10 min.  Add
+     tomatoes.  Cook 5 min.  Stir in lime juice.  Sprinkle w/ garam
+     masala & remaining cilantro.
+
+*** chicken tikka masala
+
+#+begin_verse
+ chicken marinade:
+  1 lb boneless skinless, cubed
+  1/2 onion, chopped
+  3 tbs tomato paste
+  1 tsp cumin seeds
+  1 inch ginger, chopped
+  3 tbs lemon juice
+  2 cloves garlic, crushed
+  2 tsp chili powder, optional
+  salt & pepper
+
+ masala sauce:
+  2 tbs ghee or oil
+  1 onion, sliced
+  1 tbs onion seeds, optional
+  3 cloves garlic, crushed
+  1-2 fresh green chiles, chopped
+  14 oz can crushed tomatoes
+  1/2 cup yogurt
+  1/2 cup coconut milk
+  1 tbs fresh coriander, chopped
+  2 tbs lemon juice
+  3/2 tsp garam masala
+  pinch salt
+#+end_verse
+
+ do chicken marinade in food processor, then marinate chicken a few
+ hours. heat oil/ghee, fry onion, add onion seeds, garlic, chiles,
+ until fragrant. add tomatoes, yogurt, coconut milk, to boil, then
+ simmer 20 min. fry chicken in cooking oil until browned; or grill them
+ on skewers. add cooked chicken to sauce; simmer few minutes; add
+ coriander, lemon juice, garam masala. serve with basmati.
+
+ source: Raja's recipes web page
+
+*** chicken vindaloo
+
+#+begin_verse
+ 2 tsp whole cumin seeds
+ 2-3 hot, dried red chiles
+ 1 tsp black peppercorns
+ 1 tsp cardamom seeds (these come in pods usually at the store, you'll
+         have to break open the pods and take out the seeds)
+ 3 inch stick cinnamon
+ 1 1/2 tsp whole black mustard seeds
+ 1 tsp whole fenugreek seeds
+ 5 Tbsp white wine vinegar
+ 1 1/2 tsp salt
+ 1 tsp brown sugar
+ 10 Tbsp vegetable oil
+ 2 medium onions, sliced
+ 1 1/3 c water
+ 2 lb chicken breasts, cut into cubes
+ 1 inch cube fresh ginger, peeled and chopped
+ 1 small BULB garlic, with the cloves separated and peeled
+ 1 Tbsp ground coriander
+ 1/2 tsp turmeric
+#+end_verse
+
+ 1. Grind cumin seeds, red chiles, peppercorns, cardamom seeds,
+    cinnamon, black mustard seeds and fenugreek seeds in
+    coffee-grinder or other spice grinder.  (NOTE: You can probably
+    find some of these spices already ground, especially cumin,
+    cinnamon, peppercorns=ground black pepper, red chiles=cayenne
+    pepper, and save yourself some time.)  Put in bowl and add
+    vinegar, salt, sugar.  Set aside.
+
+ 2. Heat oil in wide, heavy pot over medium heat.  Add onions and fry
+    until brown and crisp.  Drain and put them in blender with 2-3
+    Tbsp of water.  Puree to a paste.  Mix with spice-vinegar mixture.
+    This is the vindaloo paste.
+
+ 3. Put ginger and garlic in blender with 2-3 Tbsp of water and blend
+    into a paste.
+
+ 4. Heat the oil remaining in the pot.  Add chicken and brown lightly
+    on all sides.  Remove chicken to a bowl.
+
+ 5.  Put ginger-garlic paste in same pot over medium heat.  Cook for a
+     few seconds, then add coriander and turmeric.  Stir for another
+     few seconds.
+
+ 6. Add chicken and its juices, vindaloo paste, and 1 c water.  Bring
+    to boil.  Turn down heat, cover and simmer for an hour, stirring
+    occasionally.
+
+*** chickpea curry with basmati rice
+
+#+begin_verse
+ 1     (3.5-ounce) bag boil-in-bag basmati or brown rice
+ 1     tablespoon canola oil
+ 1     large onion, diced
+ 1 1/2 teaspoons garam masala
+ 2     (15-ounce) cans chickpeas, rinsed and drained
+ 1     (15-ounce) can unsalted crushed tomatoes
+ 1     (6-ounce) package fresh baby spinach
+ 1/2   cup plain 2% Greek yogurt
+ 1/2   teaspoon salt
+ 1/4   cup chopped fresh cilantro
+#+end_verse
+
+ Cook rice according to package directions; drain.
+
+ While rice cooks, heat a Dutch oven over medium-high heat. Add oil to
+ pan; swirl to coat. Add onion; sauté 5 minutes or until tender,
+ stirring frequently. Stir in garam masala; cook 30 seconds, stirring
+ constantly. Add chickpeas, tomatoes, and spinach; cook 2 minutes or
+ until spinach wilts, stirring occasionally. Remove from heat; stir in
+ yogurt and salt. Sprinkle with cilantro. Serve over rice.
+
+ source: http://www.myrecipes.com/recipe/chickpea-curry-basmati-rice-50400000125662/
+
+*** easy chicken curry NYT                                              :nyt:
+
+ https://cooking.nytimes.com/recipes/6393-easy-chicken-curry
+
+*** instant india curry
+
+#+begin_verse
+ 2-3 chicken breasts, cut in bite-size pieces
+ (and/or a can of garbanzo beans)
+ 2 Tbsp. Instant India curry paste
+ 1 can chopped tomatoes
+ 5-6 Tbsp. lemon juice or yogurt (I prefer lemon juice)
+ Vegetable oil
+ Other possible additions: chopped spinach, raisins, boiled potatoes,
+ onions (saute first), carrots
+#+end_verse
+
+ Heat oil in pan.  Saute chicken pieces until done.  Turn down heat and 
+ add curry paste, tomatoes, and half of lemon juice/yogurt.  Bring to a 
+ boil then lower heat and simmer 10 minutes, covered.  Remove lid and 
+ simmer 5 more minutes.  Stir in remaining lemon juice/yogurt.  Serve over 
+ rice.
+
+*** masoor dal
+
+#+begin_verse
+ 1/2 lb lentils
+ 1 medium onion, thinly sliced
+ 2 cloves garlic, thinly sliced
+ 1/4 cup ghee or oil
+ 2 tsp ground coriander
+ 2 tsp ground cumin
+ 2 tsp ground turmeric
+ 1 tsp ground chili
+ 4 cardamom pods
+ 4 cloves
+ 2 inch cinnamon stick
+ 1 1/2 tsp salt
+ 4 oz coconut milk
+#+end_verse
+
+ Wash lentils in water.  Simmer in saucepan with enough water to cover,
+ until soft.
+
+ Fry onion and garlic in oil until soft.  Add ground spices, mix, cook
+ 2 minutes.  Add whole spices, stir well.  Add water if needed.
+
+ Add salt and coconut milk.  Cook 5 minutes.
+
+ source: Bites of Asia web site
+
+*** palak paneer
+
+: 
+:  1 (15 oz) pkg ricotta (see variation)  1 clove garlic, chopped
+:  1 pkg chopped spinach, thawed          1 tsp ground cumin
+:  1/4 c chopped onion                    1/2 tsp coriander
+:  1/4 c yogurt (or sour cream)           1/2 tsp turmeric
+:  1" ginger, grated                      2 chiles, chopped
+: 
+
+ - Bake ricotta for 40 min at 350.  Cut into cubes.
+
+ - Varation: Use tofu instead of ricotta.  Dry then bake at 200 for 30
+   min.
+
+ - Heat oil & fry onion, garlic, ginger, chiles until onion is
+   golden.  Add spices, then yogurt (or sour cream), then spinach.  Add
+   cheese (or tofu) & 1/2 cup water.  Simmer for 15 minutes.
+
+ (A favorite Indian restaurant gets this much smoother and creamier
+ than I have ever managed.  They say they achieve this by letting it
+ cook slowly for hours.)
+
+*** peas with whole cumin and mustard seeds
+
+ note: I used to double the sauce, but it now seems to me that the
+ recipe as stated is just right for one one-pound bag of frozen peas.
+
+ also: don't use a jalopeno, as it is too hot!  and whatever pepper
+ you use, be sure to discard the seeds!
+
+#+begin_verse
+  1/4  tsp sugar
+  1/2  tsp ground cumin
+  1/2  tsp ground garam masala
+  3/4  tsp salt
+  1/2  tsp cayenne pepper
+   1   tbsp tomato paste
+  3/4  cup cream (we use 1/2 and 1/2)
+   1   tbsp lemon juice
+   1   fresh long hot green chili, finely chopped
+   4   cups peas (we usually use frozen peas), cooked if fresh
+   3   tbsp vegetable oil
+  1/2  tsp cumin seeds
+  1/2  tsp brown mustard seeds
+#+end_verse
+
+ Combine sugar, ground cumin, garam masala, salt, cayenne, and tomato
+ paste.  Slowly add 2 tbsp water, mixing.  Add cream slowly, mix.  Add
+ lemon juice and chili, mix, set aside.
+
+ Heat oil in large frying pan over med-high heat.  When hot, add cumin
+ and mustard seeds.  As soon as mustard seeds begin to pop (few
+ seconds), add peas.  Saute, stir 30 seconds.  Add cream sauce.  Cook
+ and stir, about 1 1/2 minutes, until sauce thickens.
+
+ source: Madhur Jaffrey's Spice Kitchen
+
+*** raita
+
+#+begin_verse
+ 2 c plain yogurt
+ 1/2 tsp salt
+ black pepper
+ 1/8 tsp cayenne pepper
+ 1/2 tsp cumin seeds
+ 1 tomato, diced
+ 4 inches cucumber, diced (optional)
+#+end_verse
+
+ Roast cumin seeds in a pan.  Grind with mortar & pestil, if available.
+
+ Whisk yogurt until smooth.  Add other ingredients.  Mix well.
+
+** french                                                            :french:
+
+*** cheese fondue
+
+ (multiply below by number of people)
+
+#+begin_verse
+ 2.5 oz dry white wine
+  1  clove garlic
+ 5.5 oz emmental & gruyere cheese
+  1  tsp corn starch
+ 0.5 oz kirsch (cherry brandy)
+     pepper
+     nutmeg
+ 1/2 lb white bread, cubed
+#+end_verse
+
+ Peel garlic, cut in half.  Rub inside of saucepan (and fondue pot)
+ with garlic.  Bring wine to a boil.  Add grated cheese, slowly,
+ stirring into boiling wine; stir until cheese dissolves fully before
+ adding more.  Stir kirsch into cornstarch; stir into the wine/cheese.
+ Add dash of pepper and nutmeg, to taste.  Serve in fondue pot; keep it
+ slowly bubbling.  Cut bread into 1-inch cubes.
+
+ source: mastercook web site
+
+*** quiche, crustless, with spinach
+
+#+begin_verse
+ Cooking spray 
+ 3/4 cup (4 ounces) cubed smoked turkey ham (such as Jennie-0) 
+ 1/2 cup chopped onion 
+ 1/8 teaspoon freshly ground black pepper
+ 3/4 cup (3 ounces) shredded Swiss cheese, divided 
+ 1 cup fresh baby spinach leaves 
+ 1 cup fat-free cottage cheese 
+ 1/2 cup evaporated fat-free milk
+ 1/4 cup (1 ounce) shredded reduced-fat cheddar cheese 
+ 2 large eggs 
+ 2 large egg whites 
+ 1/2 cup all-purpose flour (about 2 1/4 ounces) 
+ 1 teaspoon baking powder
+#+end_verse
+
+     1. Preheat oven to 350°.
+
+     2. Heat a large nonstick skillet over medium-high heat. Coat pan
+        with cooking spray. Add ham, onion, and pepper to pan; sauté 4
+        minutes or until ham is lightly browned.
+
+     3. Sprinkle 1/4 cup shredded Swiss cheese in a 9-inch pie plate
+        coated with cooking spray. Top with ham mixture.
+
+     4. Combine remaining 1/2 cup Swiss cheese, spinach, and next 5
+        ingredients (through egg whites) in a large bowl; stir with a
+        whisk.
+
+     5. Lightly spoon flour into a dry measuring cup; level with a
+        knife. Combine flour and baking powder in a small bowl, stirring
+        with a whisk. Add flour mixture to egg mixture, stirring with a
+        whisk until blended. Pour egg mixture over ham mixture. Bake at
+        350F for 45 minutes or until a knife inserted in center of quiche
+        comes out clean.
+
+ source: Wendy McMillan, Longmont, Colorado, Cooking Light, JUNE 2008
+
+ http://www.myrecipes.com/recipe/crustless-smoked-turkey-spinach-quiche-10000001809150/
+
+** italian                                                          :italian:
+*** bruschetta NYT                                                      :nyt:
+
+ https://cooking.nytimes.com/recipes/1013232-greek-bruschetta
+
+*** chicken marsala
+
+ CHICKEN MARSALA
+
+ Wine, lemons, and mushrooms flavor this chicken recipe the lower salt
+ and lower fat way.
+
+#+begin_verse
+ 1/8 tsp       black pepper
+ 1/4 tsp       salt
+ 1/4 C         flour
+   4           chicken breasts, boned, skinless (5 ounces)
+ 1 Tbsp        olive oil
+ 1/2 C         Marsala wine
+ 1/2 C         chicken stock, skim fat from top
+ 1/2 lemon     fresh lemon juice
+ 1/2 C         sliced mushrooms
+ 1 Tbsp        fresh parsley, chopped
+#+end_verse
+ 
+
+ Mix together pepper, salt, and flour. Coat chicken with seasoned flour.
+
+ In a heavy-bottomed skillet, heat oil. Place chicken breasts in
+ skillet and brown on both sides. Then remove chicken from skillet and
+ set aside.
+
+ To the skillet, add wine and stir until the wine is heated. Add juice,
+ stock, and mushrooms. Stir to toss, reduce heat, and cook for about 10
+ minutes until the sauce is partially reduced.
+
+ Return browned chicken breasts to skillet. Spoon sauce over the
+ chicken.
+
+ Cover and cook for about 5-10 minutes or until chicken is done.
+
+ Serve sauce over chicken. Garnish with chopped parsley.
+
+ Yield: 4 servings--Serving Size: 1 chicken breast with 1/3 cup sauce
+
+ Each serving provides:
+
+ Calories: 277
+ Total fat: 8 g
+ Saturated fat: 2 g
+ Cholesterol: 77 mg
+ Sodium: 304 mg 
+
+ source: http://www.nhlbi.nih.gov/health/public/heart/other/syah/chickmar.htm
+
+*** chicken parmigiana
+
+#+begin_verse
+ 4 boneless, skinless chicken breasts
+ 1 egg, beaten
+ 3/4 c. Italian seasoned dry bread crumbs
+ pasta sauce
+ 1 c. shredded mozzarella (approx. 4 oz.)
+ grated Parmesan cheese, as desired
+#+end_verse
+
+ Instructions:
+
+ Preheat oven to 400 degrees F.
+
+ Dip each piece of chicken in egg, and then in bread crumbs.
+ Arrange chicken pieces in Large casserole or baking dish.
+ Bake uncovered for 20 minutes.
+
+ Pour sauce over chicken; top with cheese(s).
+ Bake 10 minutes more, or until chicken is cooked through.
+
+ source: familyeducation.com
+
+*** clam pasta sauce Alex
+
+ put in olive oil to cover botom of pan.  heat medium.
+ add a *really* heaping teaspoon of garlic, sautee until
+ golden.  add lots of crushed red pepper.  simmer a little
+ more.  add a can of baby clams w/juice.  simmer until
+ liquid is evaporated & mixture is very thick, almost dry.
+
+ add white wine generously & saute a bit more, till 
+ bubbling, while quartering a carton of cherry tomatoes.
+
+ add tomoatoes & salt.  start boiling water for 3/4 lb
+ thick spaghetti.
+
+ when pasta is ready & sauce is thick, mix together with a
+ heaping handful of cut-up parsley and 4 cloves of minced
+ fresh garlic.
+
+ source: Alex Cerri (embellishment added)
+
+*** egg pasta
+ 
+#+begin_verse
+     2   eggs
+   1 1/2 cups flour
+#+end_verse
+
+  is about the right amount for 3-4 people
+
+*** eggplant pasta sauce
+
+ When I make this, I NEVER measure anything precisely, but here's the
+ recipe as it originally appeared.  I also leave out the bell pepper,
+ of course, and leave out the mushrooms if I don't have any on hand.
+
+#+begin_verse
+ 2 Tbsp canola oil (or veg oil)
+ 1 lg. onion, finely chopped
+ 1 med. red bell pepper, seeded and finely chopped
+ 3 lg. garlic cloves, minced
+ 3 Tbsp. olive oil
+ 1/2 lb. eggplant, cut into 1/2-inch cubes
+ 2 c. sliced mushrooms
+ 1 tsp oregano
+ 1 tsp basil
+ 1/2 tsp thyme
+ Salt
+ 1 can (28 oz) chopped tomatoes
+ 3 Tbsp tomato paste
+ 3-4 Tbsp red wine
+#+end_verse
+
+ 1. Heat canola oil in pot.  Add onion, bell pepper and garlic and
+    saute until onion is softened.
+ 2. Add olive oil and eggplant. Saute for 5 minutes.
+ 3. Add mushrooms, oregano, basil, thyme and salt to taste; saute until
+    the eggplant is soft (between 5-10 minutes).  Add water if mixture
+    sticks to pan (I've never had a problem with this).
+ 4. Add tomatoes.
+ 5. Stir in tomato paste and wine.  Cover and simmer for 15-20 minutes.
+
+ Per serving: 380 calories, 10 g protein, 59 g carbohydrates, 13 g fat,
+ 0 mg cholesterol, 226 mg sodium, 4 g fiber
+
+*** farfalle with tomatoes, onions, and spinach
+
+#+begin_verse
+ 1 tablespoon plus 1/4 teaspoon salt
+ 8 ounces uncooked farfalle pasta
+ 2 tablespoons extra-virgin olive oil, divided
+ 1 cup vertically sliced yellow onion
+ 1 teaspoon dried oregano
+ 5 garlic cloves, sliced
+ 2 cups grape tomatoes, halved
+ 1 tablespoon white wine vinegar
+ 3 cups baby spinach
+ 3 tablespoons shaved fresh Parmigiano-Reggiano cheese
+ 1/4 teaspoon freshly ground black pepper
+ 3/4 cup (3 ounces) crumbled feta cheese
+#+end_verse
+
+ Preparation
+
+ 1. Bring a large pot of water to a boil with 1 tablespoon salt. Add
+    pasta, and cook according to package directions; drain.
+
+ 2. Heat 1 tablespoon oil in a large nonstick skillet over medium-high
+    heat. Add onion and oregano; sautee 12 minutes or until lightly
+    browned. Add garlic; sautee 2 minutes. Add tomatoes and vinegar; sautee
+    3 minutes or until tomatoes begin to soften. Add pasta and spinach;
+    cook 1 minute. Remove from heat, and stir in Parmigiano-Reggiano,
+    remaining 1 tablespoon oil, remaining 1/4 teaspoon salt, and
+    pepper. Sprinkle with feta.
+
+*** fresh tomato sauce with zucchini
+
+#+begin_verse
+ 1 Tbsp olive oil
+ 1 c chopped onion
+ 2 Tbsp chopped garlic
+ 3 c. zucchini, cut into half-moon slices (2-3 zucchini)
+ 2 small cans chopped tomatoes
+ 1/4 c balsamic or red wine vinegar
+ Black pepper
+ 1/8 to 1/4 c chopped basil (fresh or dried)
+ 1/4 c grated Parmesan cheese
+#+end_verse
+
+ Heat olive oil.  Add onions and cook until soft and slightly browned.  
+ Add garlic and cook for about 5 minutes.  Add zucchini and cook for a few 
+ minutes, stirring frequently.  Add tomatoes.  Raise heat and add vinegar, 
+ mixing well.  Bring to boil, then reduce heat and simmer until some of 
+ tomato liquid boils away (10 minutes).  Add salt, pepper, basil and 
+ stir.  Serve over pasta and sprinkle with cheese.
+
+*** garlic bread                                            :bread:
+
+#+begin_verse
+  4  Tbsp  Margarine or butter
+ 1-2 tsp  Oregano
+ 1-2 tsp  Minced garlic (the jarred, dried kind works fine)
+ 1-2 Tbsp Grated parmesan cheese
+#+end_verse
+
+ Mix all the ingredients together, spread on sliced Italian, French, or
+ sourdough bread, and broil it in the toaster oven until the top just
+ starts to turn brown.  Keep an eye on it so it doesn't burn!
+
+*** giant shells filled with spinach and ricotta                        :nyt:
+
+ https://cooking.nytimes.com/recipes/1013942-giant-shells-filled-with-spinach-and-ricotta
+
+*** gnocchi
+
+ Gnocchi
+
+#+begin_verse
+ 3 large baking (Idaho) potatoes (about 1 3/4 pounds), scrubbed
+ 1 large egg
+ 1 teaspoon salt
+ 1/4 teaspoon freshly ground white pepper
+ Pinch of freshly grated nutmeg
+ 1/4 freshly grated Parmigiano-Reggiano cheese
+ 2 cups unbleached all-purpose flour, or as needed
+#+end_verse
+
+ Place the potatoes in a large pot with enough cold water to
+ cover. Bring the water to a boil and cook, partially covered, until
+ the potatoes are easily pierced with a skewer but the skins are not
+ split, about 35 minutes. (Alternatively, the potatoes can be baked in
+ a preheated 400°F oven until tender, about 40 minutes.)
+
+ Drain the potatoes and let them stand just until cool enough to
+ handle. (The hotter the potatoes are when they are peeled and riced,
+ the lighter the gnocchi will be.) Working quickly and protecting the
+ hand that holds the potatoes with a folded kitchen towel or oven mitt,
+ scrape the skin from the potato with a paring knife. Press the peeled
+ potatoes through a potato ricer. Alternatively, the potatoes can be
+ passed through a food mill fitted with the fine disc, but a ricer
+ makes fluffier potatoes and therefore lighter gnocchi. Spread the
+ riced potatoes into a thin, even layer on the work surface, without
+ pressing them or compacting them. Let them cool completely.
+
+ In a small bowl, beat the egg, salt, pepper, and nutmeg
+ together. Gather the cold potatoes into a mound and form a well in the
+ center. Pour the egg mixture into the well. Knead the potato and egg
+ mixtures together with both hands, gradually adding the grated cheese
+ and enough of the flour, about 1 1/2 cups, to form a smooth but
+ slightly sticky dough. It should take no longer than 3 minutes to work
+ the flour into the potato mixture; remember, the longer the dough is
+ kneaded, the more flour it will require and the heavier it will
+ become. As you knead the dough, it will stick to your hands and to the
+ work surface: Repeatedly rub this rough dough from your hands and
+ scrape it with a knife or dough scraper from the work surface back
+ into the dough as you knead.
+
+ Wash and dry your hands. Dust the dough, your hands, and the work
+ surface lightly with some of the remaining flour. Cut the dough into
+ six equal pieces and set off to one side of the work surface. Place
+ one piece of dough in front of you and pat it into a rough
+ oblong. Using both hands, in a smooth back-and-forth motion and
+ exerting light downward pressure, roll the dough into a rope 1/2 inch
+ thick, flouring the dough if necessary as you roll to keep it from
+ sticking. (When you first begin making gnocchi, until your hands get
+ the feel of the dough, you may find it easier to cut each piece of
+ dough in half to roll it.)
+
+ Slice the ropes into 1/2-inch-thick rounds. Sprinkle the rounds
+ lightly with flour and roll each piece quickly between your palms into
+ a rough ball, flouring the dough and your hands as needed to prevent
+ sticking. Hold the tines of a fork at a 45-degree angle to the table
+ with the concave part facing up. Dip the tip of your thumb in
+ flour. Take one ball of dough and with the tip of your thumb, press
+ the dough lightly against the tines of the fork as you roll it
+ downward toward the tips of the tines. As the dough wraps around the
+ tip of your thumb, it will form into a dumpling with a deep
+ indentation on one side and a ridged surface on the other. Set on a
+ baking sheet lined with a floured kitchen towel and continue forming
+ gnocchi from the remaining dough balls. Repeat the whole process with
+ the remaining pieces of dough. At this point the gnocchi must be
+ cooked immediately or frozen.
+
+ To cook gnocchi: Bring six quarts of salted water to a vigorous boil
+ in a large pot over high heat. Drop about half the gnocchi into the
+ boiling water a few at a time, stirring gently and continuously with a
+ wooden spoon. Cook the gnocchi, stirring gently, until tender, about 1
+ minute after they rise to the surface. (You can cook the gnocchi all
+ at once in two separate pots of boiling water. If you make a double
+ batch of gnocchi, I strongly recommend cooking them in batches in two
+ pots of water.)
+
+ Remove the gnocchi from the water with a slotted spoon of skimmer,
+ draining them well, and transfer to a wide saucepan with some of the
+ sauce to be used. Cook the remaining gnocchi, if necessary. When all
+ the gnocchi are cooked, proceed according to the directions for
+ saucing and serving in each recipe.
+
+ source: http://www.epicurious.com/recipes/food/views/Gnocchi-101335
+
+*** lasagna
+
+#+begin_verse
+ 1 box lasagna noodles (barilla makes no-boil ones)
+ 1.5 lbs ground beef
+ 16 oz ricotta
+ 8 oz mozzarella, grated
+ 1/4 c parmesan, grated
+ marinara sauce (see recipe list)
+ 1 onion, diced
+ 4 cloves garlic, finely chopped
+ 4 sliced mushrooms
+ 2 eggs
+ 1 tbsp parsley
+ dash pepper
+ dash basil
+#+end_verse
+
+ brown meat, onion, mushrooms, and garic.  add marinara.  set aside
+
+ mix cheese and eggs in a bowl.  add parsley and spices.  save some of
+ the mozzarella for the top.
+
+ boil noodles, if necessary.
+
+ layer the goods in a 9x13 pan: meat, then cheese, then noodles, then
+ repeat.  top with the rest of the mozzarella.
+
+ cover with foil, bake 375 for 1 hour, with foil removed for last 15
+ minutes.
+
+ original source: web pages of The Real Man's Cookbook
+
+*** pasta with zucchini, pine nuts, lemon, and herbs
+
+ egg pasta (preferably home made)
+
+#+begin_verse
+ 1 or 2 small green zucchini
+ 1/2 cup mixed fresh herbs: Italian parsley, marjoram, basil, lemon thyme, ...
+ 1 lemon
+ 6 tbsp virgin olive oil
+ 5 tbsp pine nuts
+ 4 shallots, thinly sliced, then roughly chopped
+ 4 tsp tiny capers, rinsed in water
+ 2 sun-dried tomatoes, cut into narrow strips
+ salt
+ pepper
+#+end_verse
+
+ Slice zucchini diagonally into strips, then into matchsticks, each one
+ tipped with peel.  Chop herbs, not too finely.  Remove a thin strip of
+ lemon peel and cut into slivers.
+
+ Heat 2 tbsp oil; cook pine nuts until they begin to color; add
+ shallots.  Medium-low heat until shallots soft, pine nuts browned.
+ Transfer to a wide bowl; add oil, capers, lemon peel, sun-dried
+ tomatoes, and herbs.  Salt, pepper, 1/2 tsp lemon juice to taste.
+
+ Cook zucchini 1 minute in boiling water, then scoop out, shake off,
+ and add to bowl with other ingredients.  Toss cooked pasta in bowl to
+ coat with oil and herbs.
+
+
+ see Greens cookbook for original recipe
+
+*** pesto
+
+#+begin_verse
+ 2 cups fresh basil 
+ 1/4 cup pine nuts
+ 3 cloves of garlic
+ 1 tsp salt
+ 1/3 cup olive oil
+ 1/2 cup parmesan cheese
+ optional:
+ lemon juice
+ parsley
+ pepper
+#+end_verse
+
+ in blender, combine all but cheese, until smooth.  stir in cheese.
+
+*** puttanesca sauce
+
+ (For pizza or pasta)
+
+ Sautee minced garlic, maybe some chopped onion too.  When soft, add a
+ small can of chopped tomatoes.  Add pitted, chopped kalamata olives,
+ 1-2 tbsp capers.  Simmer 15 min.
+
+*** ravioli filled with ricotta cheese and spinach
+
+ http://www.annamariavolpi.com/ravioli.html#.VoKmtew8LCR
+*** risotto with mushrooms and peas NYT                                 :nyt:
+
+This was good.  We cooked it on vacation May 2018.
+
+https://cooking.nytimes.com/recipes/1017022-mushroom-risotto-with-peas
+
+*** risotto with shrimp, etc.
+
+#+begin_verse
+ 1/2 lb medium shrimp (cooked)
+ 1/2 onion chopped
+ 2.5 cups broth
+ 1 Tbsp olive oil
+ 1 clove garlic
+ 1/2 Tbsp butter
+ 1/2 cup arborio rice
+ 1/2 small tomato, chopped
+ 1/4 cup dry white wine
+ 1/8 cup grated parmesan
+#+end_verse
+
+ Combine oil & butter in pot.  Cook onion & garlic (not brown).  Add
+ rice & stir.  Add 1/2 cup broth.  Cook, medium heat, stirring, until
+ liquid absorbed.  Add tomato & wine.  Continue to stir & add broth
+ until al dente (about 18 minutes).  Add shrimp; 5 minutes.  Stir in
+ cheese.  Serve.
+
+ original source: Kansas City Star
+
+*** risotto with tomato and basil                                       :nyt:
+
+#+begin_verse
+ 7 cups well seasoned vegetable stock, garlic stock or chicken stock
+ 2 tablespoons extra virgin olive oil
+ 1/2 cup minced onion
+ Salt to taste
+ 2 garlic cloves, minced
+ 1 pound tomatoes, grated
+ Pinch of sugar
+ 1 teaspoon fresh thyme leaves
+ 1 1/2 cups Arborio rice
+ Salt and freshly ground pepper to taste
+ 1/2 cup dry white or rosé wine, such as Pinot Grigio or Sauvignon Blanc
+ 1/2 pound additional sweet ripe tomatoes, finely diced (about ¾ cup)
+ 1/4 cup slivered fresh basil
+ 1/4 to 1/2 cup freshly grated Parmesan cheese (1 to 2 ounces) 
+#+end_verse
+
+
+1. Put your stock or broth into a saucepan and bring it to a simmer
+   over low heat, with a ladle nearby or in the pot. Make sure that it
+   is well seasoned.
+
+2. Heat the olive oil over medium heat in a wide, heavy skillet or a
+   wide, heavy saucepan. Add the onion and a generous pinch of salt, and
+   cook gently until tender, about 5 minutes. Add the rice and garlic and
+   cook, stirring, until the grains of rice are separate and beginning to
+   crackle. Stir in the grated tomatoes, sugar, thyme, and salt to taste
+   and cook, stirring often, until the tomatoes have cooked down slightly
+   and coat the rice, 5 to 10 minutes.
+
+3. Add the wine and stir until it has evaporated and been absorbed by
+   the rice. Begin adding the simmering stock, a couple of ladlefuls
+   (about 1/2 cup) at a time. The stock should just cover the rice, and
+   should be bubbling, not too slowly but not too quickly. Cook, stirring
+   often, until it is just about absorbed. Add another ladleful or two of
+   the stock and continue to cook in this fashion, adding more stock and
+   stirring when the rice is almost dry. You do not have to stir
+   constantly, but stir often and when you do, stir vigorously. When the
+   rice is just tender all the way through but still chewy (al dente), in
+   20 to 25 minutes, it is done. Taste now and adjust seasoning.
+
+4. Add another ladleful of stock to the rice. Stir in the additional
+   finely diced tomatoes, basil and Parmesan and remove from the
+   heat. The mixture should be creamy (add more stock if it isn’t). Serve
+   right away in wide soup bowls or on plates, spreading the risotto in a
+   thin layer rather than a mound.
+
+ source: NYTimes  http://nyti.ms/12Z2TUk
+
+*** seafood pasta sauce
+
+#+begin_verse
+ olive oil
+ garlic
+ flat parsley (or basil)
+ maybe a tiny bit of tomato
+ crushed red pepper
+ white wine
+ conch or clam
+#+end_verse
+
+ source: Stefano Belforte
+
+*** spaghetti sauce
+
+#+begin_verse
+ 2-3 Tbsp. olive oil
+ 1 1/2 cups chopped onions
+ 5 cloves garlic, minced
+ Canned tomatoes (e.g. 3 x 28oz crushed plus 1 x 14oz cut)
+ 3/4 cup tomato paste
+ 1/2 cup red wine
+ Chopped parsley (optional)
+ 1 Tbsp. oregano
+ 1 1/2 tsp. black pepper
+ Salt
+ Pinch of sugar
+#+end_verse
+
+ (All of these seasoning measurements are approximate.)
+
+ 1. Heat oil and saute onions and garlic until soft.
+ 2. Add all other ingredients.
+ 3. Bring just to a boil, then lower heat to simmer and cover pot. 
+    Simmer for 2 1/2 to 3 hours.  Make sure you stir it once in a 
+    while and taste it occasionally to make sure you don't want to 
+    add more of any seasonings.
+
+*** spinach lasagna
+
+#+begin_verse
+     2 tablespoons olive oil
+     6 large onions (2 white, 2 red, 2 yellow), halved and thinly sliced
+     6 cloves garlic, chopped
+     1 1/2 cups lowfat chicken or vegetable stock, divided
+     6 scallions, thinly sliced
+     1 tablespoon dried oregano
+     2 teaspoons salt (preferably sea salt), plus more to season
+     1 teaspoon freshly ground black pepper, plus more to season
+     9 whole-wheat lasagna noodles
+     2 packages (9 ounces each) frozen spinach
+     1 tablespoon salted butter
+     1 tablespoon all-purpose flour
+     1 egg
+     2 cups part-skim ricotta
+     Grated zest of 1/2 lemon
+     Olive oil cooking spray
+     1 cup grated Parmesan, divided
+#+end_verse
+
+ modification:  eliminate the butter/flour/stock "roux" and replace it
+ with marinara sauce.  also reduce the quantity of cheese a bit.
+
+
+ Heat oven to 375°F. In a large sauté pan over medium heat, heat
+ oil. Add onions and garlic; toss to coat. Add 1 cup stock; cover and
+ reduce heat; simmer until onions are soft, 20 minutes. Reserve 1/2 cup
+ liquid. Add scallions, oregano, salt and pepper to onion mixture;
+ increase heat to medium and cook, stirring, until liquid evaporates,
+ 20 minutes. Cook noodles as directed on package; drain and blot
+ dry. Cook spinach as directed on package; drain, squeeze dry, and
+ season with salt and pepper. In a small saucepan over medium heat,
+ melt butter. Add flour; stir until roux is brown, 2 to 3 minutes. Add
+ remaining 1/2 cup stock to reserved liquid; whisk into roux until
+ thick, 5 minutes. In a bowl, beat egg; stir in ricotta and zest. Coat
+ a 9" x 13" pan with cooking spray; spread half of stock-roux mixture
+ on bottom. Line pan with 3 noodles; layer on half of onion and ricotta
+ mixtures, half of spinach and 1/3 cup Parmesan. Repeat layer with 3
+ noodles, remaining onion and ricotta mixtures and spinach, and 1/3 cup
+ Parmesan. Top with remaining 3 noodles, half of stock-roux mixture and
+ 1/3 cup grated Parmesan. Cover with foil; bake until light brown, 50
+ minutes. Reduce heat to 325°F; remove foil and bake 15 minutes
+ more. Let lasagna sit 15 minutes; serve.
+
+ source: http://www.epicurious.com/recipes/food/views/Spinach-Lasagna-394790
+
+*** spinach ravioli
+
+ Dough:
+
+#+begin_verse
+     3 1/2 cups all purpose flour
+     4 eggs 
+#+end_verse
+
+ Filling:
+
+#+begin_verse
+     1 pound fresh spinach
+     1 tablespoon salt
+     1 pound ricotta
+     1 egg
+     2 tablespoons heavy cream
+     4 tablespoons grated Parmigiano Reggiano, plus 4 tablespoons grated Parmigiano Reggiano, for garnish
+     1/4 teaspoon nutmeg
+     Pinch black pepper 
+#+end_verse
+
+ Directions
+
+ To make the ravioli dough, make a crater with the flour on your
+ tabletop. Add the eggs to the center of the flour crater. Partially
+ incorporate the flour into the eggs with a fork. Then knead the flour
+ and eggs together to form dough. Knead until the dough is thoroughly
+ worked together, approximately 4 to 5 minutes. Reserve until the
+ raviolis are ready to be assembled.
+
+ In a pot of boiling water, cook the spinach with half of the salt
+ until tender. Remove the spinach from the boiling water and let cool
+ for 2 to 3 minutes. Squeeze out the water from the spinach and chop
+ it up roughly. In a mixing bowl, combine chopped spinach, ricotta,
+ egg, heavy cream, and 4 tablespoons Parmigiano Reggiano. Season with
+ the nutmeg, remaining salt, and black pepper.
+
+ To make the sauce, melt the butter in a saucepot. Simmer the nutmeg
+ and sage in the butter for 1 minute. Reserve until the raviolis are
+ cooked.
+
+ To assemble the raviolis, cut the dough into 4 pieces. Roll out each
+ piece to form a thin layer (about 1/8 inch) of dough. Place 1
+ spoonful of filling onto 1 sheet of dough 1/2 inch from the
+ edge. Continue to place spoonfuls of filling along the dough 1-inch
+ from each other.
+
+ Place 1 of the other pieces of rolled out dough on top of the piece
+ with the filling on it. Pinch the dough around the filling to form
+ the ravioli. Use a cookie cutter or a knife to cut out the
+ raviolis. Pinch the edges of each ravioli with the tines of a
+ fork. Set aside each ravioli on a plate lightly dusted with flour. Do
+ not stack the raviolis, because they will stick together.
+
+ When you are ready to cook the raviolis, add them to boiling
+ water. When the raviolis float, about 2 to 3 minutes, they are
+ finished cooking. Serve each portion with the sage butter and
+ sprinkle 1 tablespoon of grated Parmigiano-Reggiano over each
+ serving.
+
+ source: [[http://www.foodnetwork.com/recipes/keith-famies-adventures/spinach-and-ricotta-ravioli-recipe/index.html][food network]]
+
+*** vegetable garden lasagne
+
+#+begin_verse
+   1    eggplant
+   1    tsp coarse salt (e.g. sea salt)
+   8    tbsp olive oil
+   1    green bell pepper, cored, seeded, julienne
+   1    red bell pepper, ditto
+   1    large onion, slivered
+  12    oz fresh mushrooms, sliced
+  1/4   cup unbleached flour
+   8    oz lasagne noodles (2 eggs worth of fresh noodles is plenty)
+   3    cups spaghetti sauce
+  1 1/2 cups bechamel sauce
+  1/4   cup freshly grated Parmesan
+   5    oz chevre
+  1/2   cup slivered fresh basil leaves
+   8    oz mozzarella, grated
+#+end_verse
+
+ Slice eggplant into 1/4-inch-thick rounds.  Sprinkle with sea-salt,
+ drain 1 hour in colander.  Wipe off salt, pat dry.
+
+ Heat 2 tbsp olive oil in large skillet.  Saute bell peppers and onion
+ until cooked, not browned.  Remove peppers and onion with slotted
+ spoon.  Saute mushrooms, remove.
+
+ Dredge eggplant with flour, shake excess, saute in oil, both sides,
+ medium heat, until lightly browned, adding oil as needed.  Transfer to
+ paper towels.
+
+ Preheat oven to 350 F.  Cook lasagna in water until just tender.
+ Rinse under cold water.
+
+ Spread thin layer of tomato sauce on 13"x9" baking dish.  Arrange half
+ of noodles over sauce.  Cover with peppers, onion, mushrooms,
+ eggplant, in layers.  Mix bechamel and Parmesan together; spoon half
+ on top of vegetables.  Crumble chevre over bechamel; sprinkle with
+ half of basil.  Top with more tomato sauce, then another layer of
+ noodles.  Spread remaining bechamel, basil, tomato sauce, mozzarella.
+
+ Cover dish with aluminum foil, bake 30 minutes.  Uncover and bake
+ another 15 minutes, until brown and bubbly.
+
+ source: New Basics
+
+*** bechamel sauce                                                   :french:
+
+#+begin_verse
+    4   tbsp unsalted butter
+    3   tbsp unbleached flour
+  1 1/2 cups milk
+        pinch paprika
+        pinch ground nutmeg
+        salt and ground white pepper, to taste
+#+end_verse
+
+ melt butter in heavy sauce pan; add flour; stir 3 minutes over low
+ heat; raise heat to medium; add milk; stir constantly
+
+ whisk 5 minutes until sauce thickens; add paprika, nutmeg, salt,
+ pepper; stir
+
+ source: New Basics (needed for their lasagna)
+
+** meat                                                                :meat:
+*** beef roast with melted tomatoes and onions                          :nyt:
+
+ https://cooking.nytimes.com/recipes/1015826-beef-roast-with-melted-tomatoes-and-onions
+
+*** brisket Ana                                                         :ana:
+
+ 5 lb first cut brisket
+
+ (cook one day, eat next day!)
+
+#+begin_verse
+ mix in bowl:
+   large container of ketchup
+   2 pkgs lipton onion soup mix
+   3/4 cup coca cola
+   2 dash worcestershire sauce
+   mix well
+
+ in dutch oven, with lid:
+   brisket
+   pour sauce over
+   cover tightly
+   both aluminum foil and cover -- tight
+
+ cook 4 hours total:
+   325F for 2 hours
+   take out, turn over
+   another 2 hours
+   let cool, slice, put back in dutch oven
+   eat next day!
+#+end_verse
+
+ ===
+
+ Brisket
+
+ purchase 5 lb brisket (we used 2.5lb)
+
+ preheat over to 335 degrees
+
+ season brisket with kosher salt and pepeer
+
+ in a bowl, mix bottle of ketchup, 2 envelopes lipton onion soup mix, 2
+ dashes wesheshire saurce, 3/4 cup Coke.
+
+ put brisket in dutch oven
+
+ pour all of ketchup mixture over brisket
+
+ cover dutch over with foil AND lid
+
+ cook 1.5 to 2 hours (depending on how much meat) then turn over and
+ cook another 1.5 to 2 hours. 3 to 4 hours total cooking time.
+
+ remove brisket from oven and let rest uncovered c. 15 min
+
+ slice and return to sauce for serving
+
+*** brisket NYT                                                         :nyt:
+
+ https://cooking.nytimes.com/recipes/1017312-brisket-with-horseradish-gremolata
+
+*** carbonnade a la flamande (belgian beef, beer, and onion stew)
+
+ Top blade steaks (a.k.a. blade steaks, flatiron steaks) are first
+ choice, but any boneless chuck roast will work.  If using a chuck
+ roast, look for boneless chuck eye roast, which is easily trimmed and
+ cut into 1-inch pieces.  Buttered egg noodles or mashed potatoes are
+ good accompaniments to carbonnade.  Traditional copper-colored Belgian
+ ale works best, but you can substitute another dark or amber-colored
+ ale. 
+
+ Serves 6
+
+#+begin_verse
+ 3.5 lbs blade steaks, 1 inch thick, trimmed of gristle and fat, cut
+     into 1-inch pieces
+   3 Tbsp vegetable oil
+   2 lbs yellow onions (about 3 medium), halved & sliced 1/4" thick
+   1 Tbsp tomato paste
+   2 medium cloves garlic, minced (about 2 tsp)
+   3 Tbsp flour
+ 3/4 cup low-sodium chicken broth
+ 3/4 cup low-sodium beef broth
+ 1.5 cups beer
+   4 sprigs fresh thyme leaves, tied with kitchen twine
+   2 bay leaves
+   1 Tbsp cider vinegar
+#+end_verse
+
+ Adjust oven rack to lower-middle position.  Heat oven to 300F.  Dry
+ beef thoroughly with paper towels, then season with pepper (maybe a little
+ salt, but it's easy to add more later).  Heat 2 tsp oil in large
+ heavy-bottomed Dutch oven over medium-high heat until beginning to
+ smoke.  Add about 1/3 of beef to pot.  Cook without moving pieces
+ until well browned, 2-3 minutes.  Using tongs, turn each piece and
+ continue cooking until second side is well browned, about 5 minutes
+ longer.  Transfer browned beef to medium bowl.  Repeat with additional
+ 2 tsp of oil and half of remaining beef.  (If drippings in bottom of
+ pot are very dark, add about 1/2 cup of above-listed chicken or beef
+ broth and scrape pan bottom with wooden spoon to loosen browned bits;
+ pour liquid into bowl with browned beef, then proceed.)  Repeat once
+ more wiht 2 tsp oil and remaining beef.
+
+ Add repaining 1 Tbsp oil to now-empty Dutch oven.  Reduce heat to
+ medium-low.  Add onions, 1/2 tsp salt (maybe skip?), and tomato paste.
+ Cook, scraping bottom of pot with wooden spoon to loosen browned bits,
+ until onions have released some moisture, about 5 minutes.  Increase
+ heat to medium and continue to cook, stirring occasionally until
+ onions are lightly browned, 12-14 minutes.  Stir in garlic and cook
+ until fragrant, about 30 seconds.  Add flour and stir until onions are
+ evenly coated and flour is lightly browned, about 2 minutes.  Stir in
+ broths, scraping pan bottom to loosen browned bits.  Stir in beer,
+ thyme, bay, vinegar, browned beef with any accumulated juices, and
+ salt and pepper to taste.  Increase heat to medium high and bring to
+ full simmer, stirring occasionally.  Cover partially, then place pot
+ in oven.  Cook until fork inserted into beef meets little resistance,
+ about 2 hours.
+
+ Discard thyme and bay.  Adjust seasons with salt and pepper to taste
+ and serve.  (Can be cooled and refrigerated in airtight container for
+ up to 4 days.  Reheat over medium-low heat.)
+
+ source: Jeanie Fisk
+
+*** filet mignon Ana                                                    :ana:
+
+#+begin_verse
+ Filet mignon 5 lb
+ spread olive oil on meat
+ heat 4 Tbsp butter in cast-iron skillet
+ sear 3 minutes each side
+ bake 450F for 30 minutes uncovered
+ take out & cover
+#+end_verse
+
+*** meatloaf
+
+#+begin_verse
+ ground turkey or beef
+ 1/2 can tomato soup (or less) per pound of meat
+ 1 egg
+ chopped onion
+ bread crumbs (italian flavored)
+ salt & pepper
+#+end_verse
+
+ source: Bill's mom
+
+*** outback steak seasoning
+
+#+begin_verse
+ 2 tsp salt
+ 1 tsp paprika
+ 1/2 tsp ground black pepper
+ 1/4 tsp onion powder
+ 1/4 tsp garlic powder
+ 1/4 tsp cayenne pepper
+ dash coriander
+ dash turmeric
+#+end_verse
+
+*** rack of lamb
+
+ 1 rack serves 2, if you make sides
+
+#+begin_verse
+ 1 rack (frenched)
+ olive oil
+ fresh rosemary, thyme, sage, parsley
+ fresh ground black pepper, salt
+
+ olive oil (1 tspsp for sauce)
+ 1/2 c red wine
+ 1/2 c chicken stock
+ 1 tbsp red wine vinegar
+ 12 garlic coves, peeled
+ salt & pepper
+
+ rack:
+ preheat oven 475
+ rub salt pepper herbs over lamb
+ in a heavy skillet, head olive oil
+ brown lamb on both sides for 3 min each
+ save pen juices for sauce
+ transfer lamb to roasting pan & rost (fat side up)
+ uncovered until interal T is 130-135
+#+end_verse
+
+ sauce:
+ use original browning skillet - add all sauce
+ ingredients, bring to a boil scraping browned
+ pieces from bottom of pan.  cover & cook for 10 min
+ at a simmer.  (if there are left over herbs, can
+ use them here too.)
+
+ remove lid & reduce sauce at a boil until it
+ becomes syrupy.  during this process, add more wine or 
+ more of any of the ingredients, to taste.  i used some
+ flour this time - work3d well.
+
+*** roast beef
+
+#+begin_verse
+ start with bottom round or rump roast
+ cut off fat
+ golden mushroom soup (1 or 2 cans)
+ 1 pkg lipton onion soup
+ cook at 225-275 four 3-4 hours
+#+end_verse
+
+ source: Bill's mom
+
+*** roast beef Feb 2012
+
+#+begin_verse
+     3 pounds beef eye of round roast
+     1/2 teaspoon kosher salt
+     1/2 teaspoon garlic powder
+     1/4 teaspoon freshly ground black pepper
+#+end_verse
+
+     Preheat oven to 375 degrees F (190 degrees C). If roast is untied,
+     tie at 3 inch intervals with cotton twine. Place roast in pan, and
+     season with salt, garlic powder, and pepper. Add more or less
+     seasonings to taste.
+
+     Roast in oven for 60 minutes (20 minutes per pound). Remove from
+     oven, cover loosely with foil, and let rest for 15 to 20 minutes.
+
+ http://allrecipes.com/recipe/all-american-roast-beef/
+
+*** roast pork tenderloin with ginger and soy
+
+ ingredients:
+
+#+begin_verse
+ pork tenderloin, ~2 lbs.
+ 1 cup soy sauce
+ 1 bulb garlic
+ 3 '' ginger root
+ 3.5 Tbsp sugar
+ 1/2 cup sake
+ 1/2 cup rice wine vinegar
+ bunch of green onions, sliced
+ string to tie pork
+#+end_verse
+
+ Mince half of garlic and ginger. Stuff inside of pork and tie in 1''
+ i intervals. Put in bag and add soy sauce, sake, vinegar, sugar,
+ green onions, and remaining garlic and ginger (ground). Marinate in
+ fridge for 1 day.  Preheat oven to 350. Pour meat and juice into
+ baking pan. Cover with Al foil. Bake for ~ 1 hr per pound, until meat
+ temperature is ~165. (It was 180 this time, and that was good) Remove
+ from pan. Cool on plate. Save marinade for gravy.
+
+*** shepherd's pie
+
+ source: the real man's cookbook
+
+ Serving Size : 8 Preparation Time :0:30
+
+#+begin_verse
+ Ingredients:
+ 1 pound hamburger
+ 1 onion
+ 1 carrot
+ 1 cup peas
+ 1 dash garlic powder
+ 1 dash pepper
+ 2/3 cup milk
+ 4 tablespoons margarine
+ 2 2/3 cups mashed potato flakes
+ 1 can mushroom soup
+ 2 slices cheddar cheese
+ 3 dashes paprika
+#+end_verse
+
+ Fry hamburger, onion, carrot and peas in skillet, add garlic and
+ pepper. Don't forget to drain the grease unless you have a
+ cardiologist handy - full time.
+
+ Add mushroom soup to mixture and dump into bottom of some sort of
+ baking pan.
+
+ Boil 2 2/3 cup water, milk and margarine in pan. When it comes to a
+ boil - which doesn't take as long as you think - and if you let it
+ boil over it can make a heck of a mess - anyway, when it comes to a
+ boil, remove from heat and add the potato flakes stirring vigorously
+ until it becomes a paste-like gloppy substance...or at least it looks
+ like your idea of mashed potatoes.
+
+ Spread this substance evenly over the hamburger mixture. Place slices
+ of cheese on top and criss-cross the paprika. Cover the entire dish
+ and put in the oven at 375 for 1/2 hour to 1 hour. Serve to shepherds
+ or shepherdesses as the case may be.
+
+ Serving Ideas : This is one of those stand alone dishes.
+
+*** tenderloin Ana                                                      :ana:
+
+ Tenderloin
+
+ 5lb beef tenderloin
+
+ preheat over to 450
+
+ season with salt and pepper
+
+ in cast iron skillet, heat 4 tablespoons butter and 4 tbs olive oil
+
+ sear meat 3 to 4 min on each side
+
+ put skileet in oven and cook for 30 min, uncovered (medium rare)
+
+ remove from oven, put on cutting board, cover with foil and let rest
+ 15 min before serving
+
+** mediterranean                                              :mediterranean:
+*** couscous with chicken and olives
+
+#+begin_verse
+ 8 chicken wings (or some equivalent quantity of chicken)
+ scant 1/2 tsp salt
+ 2 tbsp olive oil
+ 2 large onions, diced
+ 4 large garlic cloves, minced
+ 2 3/4 cups chicken broth
+ 1/4 cup canned diced tomatoes in juice, pureed
+ 2 bay leaves
+ 2 strips (each 2 inches long) lemon zest
+ 1 whole small dried red chile pepper
+ 1 inch cinnamon stick
+ large pinch saffron threads
+ 20 pitted green olives
+ 1 cup cooked chickpeaks
+ 3 cups cooked Israeli couscous
+ 1/2 cup raisins
+ lemon wedges
+#+end_verse
+
+ Sprinkle chicken with a little of the salt.  Heat 1 tbsp of the oil in
+ a large Dutch oven.  Add the chicken and saute, turning once, until
+ browned, about 8 minutes.  Transfer to a plate, reserve.
+
+ Add remaining 1 tbsp oil to the pan; reduce heat to medium.  Add
+ onions and garlic; saute, stirring often, until onions are golden,
+ 8-10 min.
+
+ Increase heat to high.  Add broth, tomatoes, bay leaves, lemon strips,
+ chile, cinnamon, and saffron threads; simmer 3 minutes.
+
+ Add alives and simmer 30 seconds.  Add chicken, stirring to coat with
+ sauce.  Cover, reduce heat to medium-low, simmer gently 15 minutes.
+
+ Stir in chickpeas, cover, simmer until chicken is tender, about 10
+ minutes.  Season with a little salt if necessary.
+
+ Remove from heat and let stand, covered, 5 minutes.
+
+ Meanwhile, add couscous to a pan of boiling water and heat the grains
+ until they are hot all the way through, 1-2 minutes.
+
+ Drain couscous well.  Toss with raisins and make a ring of it on a
+ warm platter.  Remove lemon zest, bay leaves, and chile from the
+ chicken.  Mound the chicken and all the sauce in the middle of the
+ couscous.  Garnish with lemon wedges.
+
+*** dolmas                                                      :side:
+
+
+ Ingredients
+
+     * 1 tablespoon olive oil
+     * 2 onions, minced
+     * 1 1/2 cups uncooked white rice
+     * 2 tablespoons tomato paste
+     * 2 tablespoons dried currants
+     * 2 tablespoons pine nuts
+     * 1 tablespoon ground cinnamon
+     * 1 tablespoon dried mint
+     * 1 tablespoon dried dill weed
+     * 1 teaspoon ground allspice
+     * 1 teaspoon ground cumin
+     * 1 (8 ounce) jar grape leaves, drained and rinsed
+
+
+ Directions
+
+    1. Heat oil in a medium saucepan over medium heat. Saute onions
+       until tender. Stir in rice and hot water to cover. Cover and simmer
+       until rice is half cooked, about 10 minutes.
+
+    2. Remove from heat and stir in tomato paste, currants, pine nuts,
+       cinnamon, mint leaves, dill weed, allspice and cumin. Let mixture
+       cool.
+
+    3. Prepare a large pot by placing an inverted plate on the bottom;
+       this protects the dolmas from direct heat when steaming.
+
+    4. Rinse grape leaves in warm water; drain and cut off any
+       stems. Place about 1 teaspoon of the cooled rice mixture in the
+       center of a leaf. Fold in the sides and then roll into a cigar
+       shape. Place in prepared pot. Repeat with remaining ingredients.
+
+    5. Pour in just enough warm water to reach the bottom of the first
+       layer of dolmas. Cover and simmer over low heat for 30 to 45
+       minutes, or until rice is totally cooked. Check the water level
+       often and add more as necessary.
+
+ source:  allrecipes.com
+
+*** hummus
+
+#+begin_verse
+ 4 c. (approx. 2 1/2 cans) chick peas
+ 1/2 c. tahini
+ 1/3 c. warm water
+ 1/3 c. olive oil
+ Juice of 1 lime (1-2 Tbsp.)
+ Juice of 2-3 lemons (6-8 Tbsp.)
+ 4-5 garlic cloves
+ 1 1/2 tsp. salt
+ Black pepper to taste
+#+end_verse
+
+ Combine chick peas, tahini, water, oil, and lime juice in food 
+ processor.  Scrape down sides.  Add garlic, salt, pepper, and lemon juice 
+ and blend well.  Add water as needed to make a creamier consistency.  
+
+ Makes 1 quart.
+
+*** hummus with Greek yogurt, no tahini
+
+#+begin_verse
+ 1 clove garlic
+ 1-16oz. can low-sodium chick peas, drained
+ 1/2 cup Greek yogurt
+ 1 Tbsp. water
+ 1/2 tsp. salt
+ 1 tsp. lemon juice
+#+end_verse
+
+ Blend all ingredients together in food processor.
+
+ source: http://cookthestory.com/2014/01/29/best-hummus-recipe-greek-yogurt-extra-creaminess/print/
+
+*** hummus, super healthy, no tahini
+
+#+begin_verse
+     3 garlic cloves, minced, more if you like
+     1/4 cup plain low-fat yogurt
+     1 tablespoon lemon juice
+     1 teaspoon olive oil
+     1/4 teaspoon salt
+     1/4 teaspoon paprika
+     1/8 teaspoon pepper
+     1 (19 ounce) can chickpeas, drained and rinsed
+     1 tablespoon fresh parsley, chopped
+#+end_verse
+
+ 1.  Combine everything in blender or food processor and process until smooth.
+
+ 2.  The blender gives the best result.
+
+ 3.  If you need more liquid to make a nice consistency, add a bit more yogurt.
+
+ 4.  Chill.
+
+ source:  http://www.food.com/recipe/super-healthy-hummus-90086
+
+*** hummus with yogurt
+
+ This easy hummus recipe replaces most of the traditional tahini with yogurt.
+
+ Ingredients:
+
+     * 1 15 oz can of chickpeas or garbanzo beans, drained (save liquid)
+     * 1-2 cloves garlic, crushed
+     * 1 tablespoon lemon juice
+     * 1 tablespoon tahini, or low fat peanut butter if you prefer 
+         (optional, but if you do not use, increase yogurt by 1 TBLS
+     * 1/2 cup plain yogurt
+     * 1 teaspoon salt 
+     * dash of cumin
+
+
+ Preparation:
+
+ In a food processor combine beans, tahini (if desired), yogurt,
+ garlic, and lemon juice. Blend well. Add salt and cumin and blend to a
+ smooth and creamy dip.
+
+ If the hummus is too thick, add a little bit of the liquid from the
+ chickpeas - about a teaspoon at time. Other ways to thin out hummus are
+ by using warm water or olive oil.
+
+ source: about.com
+
+** mexican                                                          :mexican:
+*** chicken enchiladas with salsa verde NYT                             :nyt:
+
+ https://cooking.nytimes.com/recipes/1018153-chicken-enchiladas-with-salsa-verde
+
+*** chicken mole
+
+#+begin_verse
+ 6 boneless skinless chicken breast halves
+ 1/2 tsp salt, divided
+ cooking spray
+ 1/4 cup chopped onion
+ 1 tbs minced jalopeno pepper
+ 2 garlic cloves, minced
+ 1 tsp ground cinnamon
+ 3/4 tsp chili powder
+ 1/4 tsp ground cumin
+ 1/8 tsp ground allspice
+ 1/8 tsp ground cloves
+ 3 tbsp blanched almonds, toasted
+ 1 day-old corn tortilla, broken into pieces
+ 1 8.5oz can whole tomatoes, not drained
+ dash BBQ smoked seasoning (e.g. liquid smoke)
+ 3/4 oz sweet baking chocolate
+ 1/4 cup water
+ 1 tbsp sesame seeds, toasted
+ cilantro sprigs (optional)
+#+end_verse
+
+ sprinkle chicken with 1/4 tsp salt.  coat skillet with cooking spray,
+ heat medium-high.  cook chicken, remove from pan.  (*variation: cook
+ chicken on grill instead.*)
+
+ cook onion, jalapeno, garlic until tender.  add seasonings (cinnamon
+ through cloves). cook 1 minute, set aside.
+
+ grind almonds, tortilla pieces in food processor.  process onion
+ mixture, remaining 1/4 tsp salt, tomatoes, and liquid smoke, until
+ smooth.  return mixture to skillet.  add chocolate, cook over low heat
+ until melts.  add water, cook/stir until heated.
+
+ spoon sauce over chicken.  sprinkle with sesame seeds.  garnish with
+ cilantro sprigs, if desired.
+
+ source: cooking light, october 1996, page 62
+
+*** crispy black bean tacos with feta and cabbage slaw
+
+#+begin_verse
+      1 15-ounce can black beans, drained
+      1/2 teaspoon ground cumin
+      5 teaspoons olive oil, divided
+      1 tablespoon fresh lime juice
+      2 cups coleslaw mix
+      2 green onions, chopped
+      1/3 cup chopped fresh cilantro
+      4 white or yellow corn tortillas
+      1/3 cup crumbled feta cheese
+      Bottled chipotle hot sauce or other hot sauce
+#+end_verse
+
+      (note:  add yellow rice)
+
+
+ Place beans and cumin in small bowl; partially mash. Mix 2 teaspoons
+ olive oil and lime juice in medium bowl; add coleslaw, green onions,
+ and cilantro and toss to coat. Season slaw to taste with salt and
+ pepper.
+
+ Heat 3 teaspoons olive oil in large nonstick skillet over medium-high
+ heat. Add tortillas in single layer. Spoon 1/4 of bean mixture onto
+ half of each tortilla; cook 1 minute. Fold tacos in half. Cook until
+ golden brown, about 1 minute per side. Fill tacos with feta and
+ slaw. Pass hot sauce alongside.
+
+** poultry                                                          :poultry:
+*** sticky chicken wings
+
+#+begin_verse
+ 1/2 c. soy sauce
+ 1/2 c. sugar
+ 1/2 tsp. ground ginger
+ Dash of garlic powder
+ 2 Tbsp. ketchup
+ 1 pkg. mini-drumsticks or wings
+#+end_verse
+
+ Mix top five ingredients and pour over chicken wings.  Marinate overnight.
+ Remove chicken wings from marinade and place in foil-lined baking pan. Bake at
+ 350 degrees for 1 hour, turning chicken and basting it about every 15 minutes.
+
+*** 40 clove chicken
+
+#+begin_verse
+     1 whole chicken (broiler/fryer) cut into 8 pieces
+     1/2 cup plus 2 tablespoons olive oil (use less than this!)
+     10 sprigs fresh thyme
+     40 peeled cloves garlic
+     Salt and pepper
+#+end_verse
+
+ Preheat oven to 350 degrees F.Season chicken with salt and
+ pepper. Toss with a 2 tablespoons olive oil and brown on both sides in
+ a wide fry pan or skillet over high heat. Remove from heat, add oil,
+ thyme, and garlic cloves. Cover and bake for 1 1/2 hours.  Remove
+ chicken from the oven, let rest for 5 to 10 minutes, carve, and serve.
+
+ source:  http://m.foodnetwork.com/recipes/16200
+
+*** buffalo chicken (baked)
+
+#+begin_verse
+ 4 (4 ounce) chicken breast halves
+ 1/4 cup hot sauce
+ 1 tablespoon vinegar
+ 1 tablespoon stick margarine, melted
+ 1 teaspoon celery seed
+ 1/8 teaspoon pepper
+ 1/2 cup fat free blue cheese dressing 
+#+end_verse
+
+ (we left out the celery seed, added paprika, and used olive oil for
+ margarine)
+
+ Preheat oven to 400 degrees.
+
+ Spray skillet with cooking spray. Add chicken and cook 4 minutes each
+ side until browned.
+
+ Place chicken in an 11 x 7 baking dish coated with cooking spray.
+
+ Combine hot sauce and next 4 ingredients. Pour over chicken and bake
+ uncovered for 25 minutes. Serve with dressing.
+
+ source: http://www.food.com/recipe/baked-buffalo-chicken-135585
+
+*** chicken Ana                                                         :ana:
+
+#+begin_verse
+ mixing bowl
+ cumin
+ oregano
+ olive oil
+ herb de provence
+ parsley
+ place that paste on top of chicken
+
+ frying pan
+ hot olive oil
+ cook onion on #7
+
+ large pot
+ add potatoes
+ add ...
+ covered for 1 hour
+#+end_verse
+
+ source:  Alison's aunt Ana
+
+*** chicken picante
+
+ I found this on the web.  It is similar, but not identical, to my old
+ recipe, which I must have buried in my email somewhere
+
+#+begin_verse
+ 3 skinless, boneless chicken breasts
+ 1 onion, chopped
+ 1 tbsp garlic powder
+ 1 tbsp vegetable oil
+ 2 zucchini, cut into round slices
+ 1 can (14.5 oz) diced tomatoes
+ 1 jar (24 oz) picante sauce
+ 12 oz shredded cheddar cheese
+#+end_verse
+
+ cube chicken breasts.  heat oil in medium skillet.  saute chicken,
+ onion, and garlic powder, until chicken is cooked through.
+
+ add zucchini, let it soften a bit.
+
+ add tomatoes and picante sauce.  simmer 30 minutes, until thickened.
+
+ sprinkle cheese on top.
+
+*** chicken pot pie
+
+ Crust: (see pie crust recipe)
+
+#+begin_verse
+ Filling:
+ 2 tablespoons unsalted butter
+ 1 cup chopped carrot
+ 1/2 cup chopped onion
+ 1 teaspoon chopped fresh thyme
+ 3 cups fat-free, lower sodium chicken broth
+ 2 1/3 cups cubed red potato (about)
+ 1.5 ounces (about 1/3 cup) all-purpose flour
+ 1/3 cup water
+ 2 cups diced cooked rotisserie chicken
+ 1 cup frozen petite peas
+ 1/2 teaspoon salt
+ 1/4 teaspoon freshly ground black pepper
+ Cooking spray
+ 2 teaspoons 1% low-fat milk
+#+end_verse
+
+ 1.  Make crust and chill until ready to use.
+
+ 2.  Preheat oven to 400F.
+
+ 3.  To prepare filling, melt 2 teaspoons butter in a Dutch oven over
+     meduim-high heat. Add carrot, onion, and thyme; cook 8 minutes or
+     until vegetables are soft. Add broth and potato; bring to a
+     boil. Cover and simmer 10 minutes. Combine flour and 1/3 cup water in
+     a small bowl; stir with a whisk until smooth. Return potato mixture to
+     a boil. Slowly drizzle flour mixture into potato mixture, stirring
+     constantly. Cook 1 minute or until mixture thickens. Stir in chicken,
+     peas, 1/2 teaspoon salt, and pepper. Spoon chicken mixture into an 11
+     x 7-inch glass or ceramic baking dish coated with cooking spray. Place
+     dough on top of chicken mixture, pressing to edge of dish. Cut 4 slits
+     in top of crust to allow steam to escape. Gently brush crust with
+     milk. Bake at 400° for 50 minutes or until golden and bubbly. Let
+     stand 10 minutes.
+
+
+ http://www.myrecipes.com/recipe/old-fashioned-chicken-potpie-0
+
+*** chicken, mushroom, artichoke casserole
+
+#+begin_verse
+ Mushrooms
+ Artichoke hearts
+ 2 chicken breasts
+ 1/4 c. white wine
+ 1 can creamy chicken mushroom soup
+ Dry Stove Top stuffing
+#+end_verse
+
+ Put mushrooms and artichokes at bottom of oblong baking pan. Combine soup and
+ wine and pour over mushrooms and artichokes. Place chicken in sauce, pushing
+ it down into soup to cover it.  Sprinkle Stove Top on top.  Bake at 350 degrees
+ for 45 minutes.
+
+*** coq au vin                                                       :french:
+
+#+begin_verse
+ margarine or butter (replaces 2 slices bacon)
+ mushrooms
+ pearl onions
+ carrots (bite-sized pieces)
+ 2 cloves minced garlic
+ 1/2 tsp dried oregano
+ 1/2 tsp dried thyme
+ chicken
+ 1 cup chicken broth
+ 1 cup dry red wine
+ 2 Tbsp tomato paste (or ketchup)
+ 1/2 tsp salt
+ black pepper
+ 2 Tbsp flour (maybe a bit less)
+#+end_verse
+
+ Cook mushrooms, onions, garlic, herbs in the margarine, in a large
+ pot.  Add carrots and chicken.  Stir stock, wine, and tomato paste
+ together, then pour over chicken.  Cover and cook until chicken is
+ tender.
+
+ Remove the chicken and vegetables with a slotted spoon.
+
+ Add salt & pepper to sauce.  Put flour in a small bowl; add some
+ sauce; whisk until smooth.  Whisk mixture into sauce and cook,
+ uncovered.
+
+ Return chicken & vegetables to pot.  Cover and cook a bit longer.
+
+ (original recipe is microwave, but chicken is more tender if
+ cooked slowly on the stove)
+
+ source: The New Basics Cookbook (adapted somewhat)
+
+*** Cornish hen
+
+#+begin_verse
+ ingredients:
+
+ 2 cornish hens
+ 2 strips turkey bacon
+ extra virgin olive oil
+ fresh sage, rosemary
+ 6 cloves garlic
+ salt, pepper
+ 1 lemon
+ white wine
+
+ gravy:
+
+ ~ 1/2 cup skim milk
+ 1 Tbsp flour
+ juice from cornish hen
+ white whine
+ lemon juice
+ pepper, salt
+
+ potatoes:
+
+ potato:
+ salt, pepper
+ poultry seasonings
+ olive oil
+#+end_verse
+
+ Preheat oven to 450.
+
+ Stuff into the cavity of each bird: 2 cloves garlic, sage leaves,
+ rosemary, 1/4 lemon and 1 strip of bacon. Also add salt and
+ pepper. Stuff underneath the skin of the birds: rosemary, sage. minced
+ garlic. Cover the birds with olive oil. Rub salt, rosemary into skin.
+ Sprinklewith salt and pepper. Squeeze remaining 1/2 lemon over
+ birds. Bake in oven uncovered until brown. Continue to baste. After ~
+ 15 min, pour white wine over birds.
+
+ Potatoes: Cut into ~1'' cubes. Coat in olive oil. Add sage, rosemary,
+ salt and pepper. Bake with birds. Tuning oven to 'broil' helps
+ browning.
+
+ Gravy: Do this when birds are almost done. Shake ~1/2 cup skim milk
+ with 1 heaping Tbsp flour.  Pour into small pot. Add salt and pepper
+ and bring to a boil. With baster, remove juices from hens' roasting
+ pan. Add to gravy mixture. Add sage, rosemary, white wine, and lemon
+ juice. Bring to a boil again while stirring.
+
+*** Cornish hens German style
+
+#+begin_verse
+ cornish hen
+ lemon juice
+ 3 tbsp cracker or bread crumbs
+ 2 tbsp grated parmesan cheese
+ 1/4 tsp ground ginger
+ salt & pepper
+#+end_verse
+
+ sprinkle poultry with juice of half lemon.  combine crumbs, cheese, ginger,
+ salt, and pepper in paper bag.  add poultry, shake until coated.  arrange
+ poultry skin-side up on shallow roasting pan.  place in preheated 350F oven.
+ bake without turning, until golden and tender, 45-50 minutes.  maybe
+ garnish with lemon slices.
+
+ original source: BIGG superstore
+
+*** lemon-garlic chicken
+
+#+begin_verse
+ 1 lemon
+ 1 tsp garlic
+ 1 Tbsp molasses
+ 1 tsp worcestershire
+ 1 lb chicken
+#+end_verse
+
+ bake 375 degrees, 40 minutes
+
+ source: Alison
+
+*** turkey NYT                                                          :nyt:
+
+ http://cooking.nytimes.com/guides/how-to-cook-a-turkey
+
+*** whole chicken NYT                                                   :nyt:
+
+#+begin_verse
+ whole chicken (3.5 lbs or so worked for us)
+ pre-heat iron skillet in oven, at 500 F (!)
+ rub chicken with olive oil; sprinkle with salt & pepper
+ CAREFULLY remove hot skillet from oven
+ put chicken on skillet breast-side up in pan
+ cook 15 minutes at 500 F
+ reduce to 350 F until done (another 30 min or so)
+ use oven thermometer to check if done (thigh about 160 F)
+ let chicken sit for at least 5 minutes before carving
+#+end_verse
+
+ source: Mark Bittman blog @ NY Times
+
+ http://dinersjournal.blogs.nytimes.com/2011/09/08/the-minimalist-simplest-roast-chicken/
+
+*** turkey burgers NYT                                                  :nyt:
+
+ add a couple of tablespoons of breadcrumbs to this recipe:
+
+ http://cooking.nytimes.com/recipes/1016139-turkey-burgers
+
+** salad                                                              :salad:
+*** Caesar salad Ana                                                    :ana:
+
+#+begin_verse
+ (serves 4)
+
+ 1 large romaine lettuce
+ 1 can Cento anchovy filets
+ 2 tbsp worcestershire sauce
+ 1 heaping tbsp dijon mustard
+ 1/4 cup wesson vegetable oil
+ 1 raw egg yolk
+
+ wooden salad bowl
+ garlic press
+ press 2-3 cloves of garlic and place throughout wooden bowl
+
+ squeeze fresh lemon on wooden bowl that already has romaine and
+ seasoned croutons
+
+ in a mixing bowl, first
+ anchovy filets
+ dash of fresh ground pepper, then
+ remainder of ingredients
+
+ stir thoroughly, then 
+ add raw egg
+
+ fresh parmesan cheese to taste
+#+end_verse
+
+ source:  Alison's aunt Ana
+
+*** egg-free Caesar salad
+
+ Dressing:
+
+#+begin_verse
+ 1/4 c lemon juice
+ 1/2 c *freshly grated* Parmesan or Romano cheese (about 1.5 oz by weight)
+ 1 Tbsp. anchovy paste (available in tubes in tuna section of grocery store)
+ 2 tsp. Worcestershire sauce
+ 1 tsp. red wine vinegar
+ 1 Tbsp.+ 1 tsp. Dijon mustard
+ 2 Tbsp. pureed *fresh* garlic (press or chop fine)
+ Salt, pepper
+ 3/4 c. olive oil
+#+end_verse
+
+ In blender, combine everything EXCEPT the olive oil.  Blend on medium 
+ speed.  Scrape down sides of blender.  Then, blend in olive oil bit by 
+ bit (I usually do about 1/8 c. at a time; if you do it all at once, it 
+ won't blend well).  Blend until you have a smooth dressing.  If it is too 
+ thick, blend in a little water to thin.
+
+ Croutons:
+
+#+begin_verse
+ Bread sliced into cubes (usu. about 4 slices)
+ 3-4 Tbsp. melted butter
+ 2 tsp. garlic powder
+#+end_verse
+
+ Toss bread cubes in butter and garlic powder to coat.  Spread on baking 
+ sheet.  Bake at 400-450 degrees until croutons are golden brown.
+
+ Salad:
+
+#+begin_verse
+ Romaine lettuce
+ 2 Tbsp. grated Romano or Parmesan cheese
+ Dressing
+ Croutons
+#+end_verse
+
+ Toss lettuce, cheese and croutons.  Then add dressing and toss again.  
+ This recipe supposedly feeds 6, so you may not use all the dressing.  It 
+ keeps in the frig for a week or so, though, so you can use it again on 
+ other salads.
+
+ source:  Cafe Figaro Egg-Free Caesar Salad, from LA Times, 1994
+
+ http://articles.latimes.com/1994-10-13/food/fo-49544_1_mahi-mahi
+
+** side                                                                :side:
+*** baby red potato salad
+
+#+begin_verse
+     4 cups baby red potatoes, cut in small pieces
+     1/2 cup green bell pepper, finely diced
+     1/4 cup red onion, finely diced
+     3 scallions, diced
+     1 tsp dijon mustard
+     1 tbsp extra virgin olive oil
+     1 tbsp red wine vinegar
+     1 tbsp reduced fat mayonnaise
+     salt and fresh pepper
+#+end_verse
+
+
+ Boil potatoes in salted water until soft, approx 10 minutes. Drain and
+ let cool.
+
+ While the potatoes are boiling, combine red onion, green pepper,
+ mustard, olive oil, vinegar and mayonnaise and season with salt and
+ pepper. Mix well and let the flavors marinade while the potatoes
+ cook. Once the potatoes are done and cool, mix into the bowl and add
+ scallions and additional salt and pepper to taste. Serve room
+ temperature or refrigerate until ready to serve.
+
+ source: http://www.skinnytaste.com/2009/06/baby-red-potato-salad.html
+
+ - vacation May 2018: added some paprika
+
+*** green bean casserole
+
+ green beans
+ cream of mushroom soup (campbell's)
+ french onion topping (crunchy, crumbs, like french fries)
+
+ source: pop-pop Magda (xmas)
+
+*** macaroni and cheese
+
+#+begin_verse
+ 1 c large elbow macaroni
+ 1.5 c (about 1/2 lb) American cheese, diced
+ 1 egg
+ several pats butter
+ 1 c milk
+#+end_verse
+
+ Cook and drain macaroni.  Put a layer of macaroni in baking dish, then
+ a layer of cheese.  Put one pat of butter in each corner of dish and
+ the center.  Repeat layers: macaroni, cheese, then butter.  Beat egg
+ and add milk.  Pour over macaroni and cheese.  (Maybe add a tiny bit
+ more milk here, but not too much or it will be really runny.)  Bake
+ uncovered at 350 for 30 minutes.
+
+ from great-great-grandmother Parkinson, so I am told
+
+*** pierogies
+
+#+begin_verse
+ 1 c flour
+ 1 egg
+ 1/2 cup mashed potatoes
+ mix this, make dough
+
+ filling:
+ mashed potatoes
+ butter
+ velveeta
+ other cheese
+
+ to make ~80 pierogies, use
+ 5 lb potatoes
+ 3/4 lb butter
+ 2 lb cheese
+ 3 x dough recipe
+#+end_verse
+
+ filling should be cool when you make the pierogies.  put 10 in
+ boiling water, drain on a board, freeze on a board, then put in ziploc
+ bags
+
+ source: Poppop Magda
+
+*** sauteed carrots
+
+#+begin_verse
+ carrots
+ onions
+ a bit of brown sugar
+#+end_verse
+
+ sautee 
+
+*** scalloped potatoes
+
+#+begin_verse
+ peel 4 or 5 potatoes
+ slice medium thin
+ put in casserole dish with cover
+ sprinkle with salt & pepper
+
+ peel & slice a whole onion
+ put round slices on top of potatoes
+
+ add a can of cheddar cheese soup
+ add 1/2 can milk and 1/2 can water (maybe a little less)
+
+ bake 375 for 1 hour
+#+end_verse
+
+ source: Bill's mom
+
+*** sun-dried tomato and pesto torta
+
+#+begin_verse
+    4   garlic cloves
+  1 1/2 cups (packed) fresh basil leaves
+   1/4  cup pine nuts
+    2   tbsp extra-virgin olive oil
+    1   tsp fresh lemon juice
+  2 2/3 cups cream cheese, room temp (about 21 oz)
+   1/4  cup freshly grated Parmesan cheese
+  1 1/3 cups drained oil-packed sun-dried tomatoes
+   1/3  cup tomato paste
+   3/4  cup butter, room temp
+        nonstick vegetable oil spray
+        fresh basil sprigs
+        toasted pine nuts
+        baguette slices, toasted
+#+end_verse
+
+ Freshly chop garlic in processor.  Add basil, 1/4 cup pine nuts, oil,
+ and lemon juice.  Process until well blended.  Add 1/3 cup cream
+ cheese and 1/4 cup Parmesan cheese.  Process until just blended.
+ Transfer pesto to medium bowl.
+
+ Coarsely chop tomatoes in processor.  Add tomato paste and process
+ until almost smooth.  Add 1/3 cup cream cheese and blend well.
+
+ Using mixer, beat 2 cups cream cheese and butter in large bowl until
+ fluffy.  Season with salt & pepper.
+
+ Spray 6-cup souffle dish with non-stick spray.  Line with plastic
+ wrap, extending plastic over sides.  Spread 3/4 cup cc/b mix evenly
+ over bottom of prepared dish.  Top with half of tomato mix, then 1/2
+ cup cc/b mix, then half of pesto mix.  Repeat layering with 1/2 cup
+ cc/b mix, remaining tomato mix, 1/2 cup cc/b mix, and remaining pesto.
+ Top with remaining cc/b mix.  Cover and chill overnight.
+
+ Invert torta onto platter.  Peel off plastic.  Garnish with basil
+ sprigs and toasted pine nuts.  Serve with baguette slices.
+
+ source: Bon Appetit, 12/99
+
+** soup                                                                :soup:
+*** asparagus soup
+
+ source: Simone Donati
+
+#+begin_verse
+ vegetable broth
+ salt
+ red pepper
+ asparagus (boil a bit to soften up)
+ crab meat
+ corn starch
+ egg (beaten, add drop by drop)
+#+end_verse
+
+*** black bean soup
+
+#+begin_verse
+ Quick Black Bean Soup
+ 2 tablespoons olive oil
+ 1 1/4 cups chopped onion
+ 4 large garlic cloves, chopped
+ 1 tablespoon chopped fresh thyme or 1 1/2 teaspoons dried
+ 3 15-ounce cans black beans, drained, 1 cup liquid reserved
+ 2 14 1/2-ounce cans low-salt chicken broth
+ 1 28-ounce can diced tomatoes in juice
+ 2 teaspoons ground cumin
+ 1 1/2 teaspoons hot pepper sauce
+#+end_verse
+
+ Heat oil in large pot over medium heat. Add onion, garlic and thyme;
+ sautee until onion is golden, about 8 minutes. Add beans, reserved 1
+ cup bean liquid, broth, tomatoes with juices, cumin and hot pepper
+ sauce. Bring soup to boil. Reduce heat to medium-low and simmer until
+ flavors blend and soup thickens slightly, stirring occasionally, about
+ 20 minutes.
+
+ Working in 2 batches, puree 2 1/2 cups soup in blender until
+ smooth. Mix puree back into soup in pot. Season with salt and
+ pepper. Ladle soup into bowls.
+
+ source: Bon Appetit June 1999, via Epicurious
+
+*** butternut squash soup
+
+#+begin_verse
+ 1 tablespoon butter
+ 3 1/2 cups cubed peeled butternut squash (about 1 1/2 pounds)
+ 3/4 cup chopped carrot
+ 1/2 cup chopped sweet onion
+ 2 1/2 cups fat-free, less-sodium chicken broth 
+ 1/4 cup half-and-half
+ 1/8 teaspoon salt 
+#+end_verse
+
+ To prepare soup, melt butter in a large saucepan over medium-high
+ heat. Add squash, carrot, and onion; sauté for 12 minutes. Add chicken
+ broth, and bring to a boil. Cover, reduce heat, and simmer for 30
+ minutes. Remove from heat; stir in half-and-half and salt.
+
+ Place squash mixture in a blender. Remove center piece of blender lid
+ (to allow steam to escape), and secure blender lid on blender. Place a
+ clean towel over opening in blender lid (to avoid splatters). Blend
+ until smooth.
+
+ source: http://www.myrecipes.com/recipe/butternut-squash-soup-10000001918519/
+
+*** chickpea and sausage minestrone
+
+#+begin_verse
+   3/4 cup uncooked small shell pasta
+   1 tbsp olive oil
+   1 link (4 ounce) hot turkey Italian sausage, casing removed
+   1 cup diced onion
+   1 cup diced carrot
+   1/2 cup diced celery
+   2 tbsp chopped fresh flat-leaf parsley
+   2 tsp chopped fresh thyme
+   1/4 tsp crushed red pepper
+   5 garlic cloves, chopped
+   1 can (15 oz) unsalted chickpeas, rinsed & drained
+   1 can (15 oz) fire-roasted diced tomatoes, NOT drained
+   4 cups unsalted chicken stock (e.g. Swanson)
+   1/2 tsp kosher salt
+   1/4 tsp freshly ground black pepper
+#+end_verse
+
+ Cook pasta according to package directions, omitting salt and fat; drain.
+
+ While pasta cooks, heat a large saucepan over medium-high heat.  Add
+ oil to pan; swirl to coat.  Add sausage; cook 3 minutes or until
+ lightly browned, stirring to crumble.  
+
+ Add onion and next 6 ingredients (through garlic); cook 10 minutes.
+
+ Add chickpeaks, tomatoes, and stock; bring to a boil.  Reduce heat,
+ and simmer 5 minutes.
+
+ Stir in pasta, salt, and black pepper; cook 1 minute.
+
+ source: http://www.myrecipes.com/recipe/chickpea-sausage-minestrone/
+
+ original source: Cooking Light, 12/2013
+
+*** creamy carrot & sweet potato soup
+
+#+begin_verse
+ 3 tablespoons butter, divided 
+ 1 cup chopped onion 
+ 1/4 teaspoon ground cinnamon 
+ 1/4 teaspoon ground nutmeg 
+ 4 3/4 cups cubed peeled sweet potatoes (about 1 1/2 pounds) 
+ 3 1/2 cups water
+ 3 cups fat-free, less-sodium chicken broth 
+ 3 cups chopped carrot (about 1 pound) 
+ 1/4 cup half-and-half 
+ 1/2 teaspoon salt 
+ 1/4 teaspoon freshly ground black pepper 
+ 1/3 cup reduced-fat sour cream 
+ 2 tablespoons chopped fresh flat-leaf parsley
+#+end_verse
+
+ 1. Melt 1 tablespoon butter in a large Dutch oven over medium
+    heat. Add onion to pan; cook 4 minutes or until tender, stirring
+    occasionally. Stir in cinnamon and nutmeg; cook 1 minute, stirring
+    constantly. Move onion mixture to side of pan; add remaining 2
+    tablespoons butter to open space in pan. Increase heat to medium-high;
+    cook 1 minute or until butter begins to brown. Add sweet potatoes, 3
+    1/2 cups water, broth, and carrot; bring to a boil. Cover, reduce
+    heat, and simmer 35 minutes or until vegetables are tender.
+
+ 2. Place half of soup mixture in a blender. Remove center piece of
+    blender lid (to allow steam to escape); secure blender lid on
+    blender. Place a clean towel over opening in blender lid (to avoid
+    splatters). Blend until smooth. Pour into a large bowl. Repeat
+    procedure with remaining soup mixture. Stir in half-and-half, salt,
+    and pepper. Ladle about 1 cup soup into each of 8 bowls; top each
+    serving with about 2 teaspoons sour cream and 3/4 teaspoon parsley.
+
+ source: cooking light
+
+ http://www.myrecipes.com/recipe/creamy-carrot-sweet-potato-soup-10000001932660/
+
+*** fish stew, easy, with Mediterranean flavors NYT                :nyt:fish:
+
+ https://cooking.nytimes.com/recipes/1012535-easy-fish-stew-with-mediterranean-flavors
+
+*** kale soup with potatoes and sausage NYT                             :nyt:
+
+ note: use a little less chorizo, a bit more kale
+
+ https://cooking.nytimes.com/recipes/7416-kale-soup-with-potatoes-and-sausage
+
+*** minestrone soup
+
+#+begin_verse
+     2 tablespoons extra-virgin olive oil
+     4 cloves garlic, finely chopped
+     1 medium yellow onion, chopped
+     6 cups low-sodium vegetable broth
+     1 cup thinly sliced Savoy cabbage
+     1/4 cup tomato paste
+     1/4 cup chopped fresh parsley
+     1 tablespoon chopped fresh basil
+     2 large stalks of celery, sliced
+     2 medium carrots, peeled and chopped
+     1 dried bay leaf
+     1 (28-ounce) can chopped tomatoes, with their liquid
+     1 cup cooked chickpeas, drained
+     1 cup dried fusilli pasta
+     1 (15-ounce) can cannellini or white beans, drained
+     Salt and pepper, to taste
+     3/4 cup grated parmesan cheese
+#+end_verse
+
+ In a large stockpot, heat oil over medium high heat. Add garlic and
+ onion and cook until translucent. Add broth, cabbage, tomato paste,
+ parsley, basil, celery, carrots, bay leaf, and tomatoes with their
+ juice and cook for 30 to 40 minutes, until vegetables are tender. Add
+ chickpeas, pasta and beans and simmer for another 20 minutes. Season
+ with salt and pepper.
+
+ source: http://www.wholefoodsmarket.com/recipe/hearty-minestrone-soup
+
+*** red lentil soup NYT                                                 :nyt:
+
+#+begin_verse
+ 3 Tbsp olive oil
+ 1 large onion, chopped
+ 4 garlic cloves, minced (*)
+ 1 Tbsp tomato paste
+ 1 tsp ground cumin
+ 1/4 tsp kosher salt, more to taste
+ 1/4 tsp ground black pepper
+ pinch ground chile powder, more to taste
+ 1 quart of good-quality chicken stock
+ (we're leaving out the added water)
+ 1 cup red lentils
+ 1 large carrot, peeled & diced
+ juice of 1 lemon (*)
+ 3 Tbsp chopped fresh cilantro (not too much)
+#+end_verse
+
+ In a large pot, heat 3 Tbsp oil over high heat until shimmering.  Add
+ onion and garlic.  Saute until golden, about 4 min.
+
+ Stir in tomato paste, cumin, salt, black pepper, and chile powder.
+ Saute another 2 min.
+
+ Add stock, lentils, and carrot.  Bring to simmer, then cover and turn
+ heat to medium-low.  Simmer until lentils are soft, about 30 min.
+ Taste and add salt if needed.
+
+ Puree soup with immersion blender.  Don't over-blend: soup should be
+ somewhat chunky.
+
+ Stir in lemon juice and cilantro.
+
+ source: http://cooking.nytimes.com/recipes/1016062-red-lentil-soup-with-lemon
+
+ (*) these are our doubled values, not originals
+
+ doubled the garlic & lemon; used stock, not broth; left out the water
+
+*** roasted eggplant soup
+
+#+begin_verse
+   3  medium tomatoes
+   1  large eggplant
+   1  small onion
+   6  large garlic cloves, peeled
+   2  tbsp vegetable oil
+   1  tsp dried thyme
+   4  cups chicken broth
+   1  cup whipping cream (we use 1/2 and 1/2)
+  3/4 cup goat cheese
+#+end_verse
+
+ Preheat oven to 400 F.  Halve tomatoes, eggplant, onion, and place
+ with garlic on baking sheet.  Brush with oil and roast until tender and
+ browned, about 45 minutes.
+
+ Scoop eggplant from skin (discard skin).  Place all vegetables and
+ thyme in saucepan.  Add chicken broth and bring to boil.  Simmer until
+ onion is very tender, about 45 min.  Cool slightly.
+
+ Working in batches, puree soup in blender until smooth.  Return to
+ saucepan and stir in cream.  Bring to simmer, thinning with broth if
+ desired.
+
+ Season with salt and pepper.  Ladle into bowls.  Sprinkle with goat
+ cheese and serve.
+
+ source:  Matt Horn (Hyde Park neighbor)
+
+*** split pea and green pea soup with fresh dill
+
+ This one didn't work out too well first time we tried it;
+ planning to try again some time.
+
+#+begin_verse
+ Split Pea and Green Pea Soup with Fresh Dill
+ 3 tablespoons extra-virgin olive oil
+ 1 large leek (white and pale green parts only), chopped (about 1 1/2 cups)
+ 1 bay leaf
+ 1 cup green split peas, rinsed
+ 5 3/4 cups vegetable broth, divided
+
+ 1 cup frozen petite green peas, thawed
+ 5 tablespoons chopped fresh dill, divided
+#+end_verse
+
+ Heat oil in heavy large pot over medium-high heat. Add leek and bay
+ leaf. Sautee until leek wilts, about 3 minutes. Add split peas and stir
+ to coat. Add 5 1/4 cups broth; bring to boil. Reduce heat to
+ medium-low. Cover and simmer until split peas are just tender, about
+ 35 minutes. Remove from heat. Transfer 1 cup soup solids, bay leaf,
+ and remaining 1/2 cup broth to blender. Add petite peas and 4
+ tablespoons dill. Puree until smooth. Return puree to soup. Season to
+ taste with salt and pepper. Ladle into bowls. Sprinkle with remaining
+ 1 tablespoon dill.
+
+ Bon Appétit
+ December 2006
+ 2006-11-28 10:59:09.0 
+
+*** split pea soup
+
+ So far this is the best of several split-pea soup recipes we've
+ tried.  We might have used too much liquid and too much celery
+ though.
+
+#+begin_verse
+ 5 1/2 cups water
+ 4 cups organic vegetable broth (such as Swanson Certified Organic)
+ 2 cups green split peas 
+ 3/4 cup finely chopped yellow onion 
+ 6 ounces diced Canadian bacon (about 1 cup) 
+ 1 cup finely chopped carrot 
+ 1 cup thinly sliced celery 
+ 1/2 teaspoon freshly ground black pepper
+ 1/8 teaspoon salt 
+ 1 tablespoon fresh lemon juice 
+#+end_verse
+
+ Combine first 5 ingredients in a large Dutch oven over medium-high 
+ heat; bring to a simmer. Cover, reduce heat, and simmer 1 hour, 
+ stirring occasionally.
+
+ Stir in carrot, celery, pepper, and salt. Simmer, uncovered, 45 
+ minutes or until peas are tender and soup thickens, stirring 
+ occasionally. Remove from heat; stir in juice. Serve immediately.
+
+ source: http://www.myrecipes.com/recipe/split-pea-soup-10000001662878/
+
+*** turkey chili
+
+ special notes: use slightly less liquid.
+
+ Yield
+
+#+begin_verse
+ Makes 6 to 8 servings
+ Ingredients
+
+      1  medium onion, chopped
+      1  tablespoon  vegetable oil
+      2  garlic cloves, chopped
+      1  pound  ground turkey
+      2  tablespoons  chili powder
+      2  teaspoons  ground cumin
+      3  tablespoons  tomato paste
+      1  (28-oz.) can diced tomatoes
+      1  (16-oz.) can red kidney beans, rinsed and drained
+      1  cup  chicken broth
+      1  cup  beer*
+      1  teaspoon  salt
+      1/2  teaspoon  pepper
+      1/4  cup  chopped fresh cilantro
+      Garnish: sour cream
+#+end_verse
+
+ Preparation
+
+ 1. Sauté chopped onion in hot oil in a large Dutch oven over
+    medium-high heat 5 minutes or until tender; add garlic, and sauté 1
+    minute.
+
+ 2. Add turkey, chili powder, and cumin, and cook, stirring often, 8
+    minutes or until meat crumbles and is no longer pink. Stir in tomato
+    paste, and cook 2 minutes. Add tomatoes and next 5 ingredients. Bring
+    mixture to a boil; cover, reduce heat to low, and simmer, stirring
+    occasionally, 30 minutes. Stir in cilantro. Garnish, if desired.
+
+ (*) Chicken broth may be substituted.
+
+ source: Southern Living, OCTOBER 2008
+
+*** ultimate baked potato soup
+
+
+#+begin_verse
+ I think this can be adapted to lower fat:
+ 1) skip the cheddar and sour cream garnish
+ 2) use turkey bacon
+ 3) fat free half and half and skim milk
+
+ 4 large idaho potaotoes, baked
+ 6 strips bacon
+ 1 large onion, diced
+ 1/3 c butter
+ 1/3 c flour
+ 1 c half-and-half (fat free OK)
+ 3 c milk
+ 1/2 c grated Asiago cheese
+ salt and freshly ground black pepper
+ 1 c shredded cheddar cheese
+ 1 c sour cream
+
+ Peel and cube potatoes. Set aside.
+ Saute baco until crisp. Remove and drain on paper towels.
+ Add onion to baconB  rendering and saute till transparent.
+ Pour onion and drippings over potatoes.
+
+ In the same skillet, melt butter over medium heat.
+ Sprinkle flour on top and stir.
+ Gradually add half-and-half and whisk constantly till thick and smooth.
+ Gradually whisk in milk.
+ Add potatoe and onion mixture, bring to boil at med-high.
+ Reduce to bare simmer, stir in Asiago and cook 10 min.
+
+ Put the rest of the stuff on top as a garnish.
+#+end_verse
+
+ source: grandma Magda
+
+*** yellow pepper soup
+
+ 4 servings
+
+#+begin_verse
+ 2 1/2 cups water
+ 4 asparagus
+ 3 yellow peppers
+ 1 large potato
+ 1 large onion
+ 3 garlic gloves
+ 1 1/2 teaspoons sugar
+ 1 teaspoon salt
+ 1/4 teaspoon pepper
+ 2 tablespoons unsalted butter
+ 2 tablespoons olive oil
+#+end_verse
+
+ 1. Cut the asparagus into 2in pieces. Cook them with a bit of the above
+    water (1/2-1 cup). About 1 min. boiling.
+    Strain the asparagus and use the water for the spoup.
+ 2. Cut vegetables in 1in squares so they cook easily. Combine everything
+    but the oil, butter and asparagus, with all the water. Boil, cover and
+    simmer for 30 minutes. At the end add the oil and butter and then use a
+    blender to blend everything. Reheat if necessary. Serve garnished with
+    the 2in asparagus.
+
+ source: Joao
+
+** spanish                                                          :spanish:
+*** chorizos in red wine NYT                                            :nyt:
+
+ http://cooking.nytimes.com/recipes/9487-chorizos-in-red-wine
+
+*** gazpacho
+
+ new recipe 8/2010   (much better than the earlier one!)
+
+ Ingredients
+
+     * 3 slices day old French bread, crusts removed
+     * 2 pounds vine-ripe medium tomatoes, seeded and coarsely chopped
+     * 2 small kirby cucumbers, coarsely chopped
+     * 1 red or yellow bell pepper, cored, seeded, and coarsely chopped
+     * 1 medium onion, coarsely chopped
+     * 2 garlic cloves, chopped
+     * 2 cups tomato juice or water
+     * 1 tablespoon sugar
+     * 1 tablespoon Spanish paprika
+     * Kosher salt and freshly ground black pepper
+     * 1/4 cup sherry wine vinegar
+     * 1/4 cup extra-virgin olive oil
+     * 1 handful fresh flat-leaf parsley, coarsely chopped
+     * cilantro
+     * 1/2 lemon, juiced 
+
+ Directions
+
+ Soak the bread in 1 cup of water for 5 minutes, and then squeeze out
+ the excess water. Place the bread in a blender or food processor; add
+ the tomatoes, cucumbers, bell pepper, onion, and garlic. Puree the
+ ingredients until almost smooth, leaving a little texture. Pour the
+ vegetable mixture into a large bowl; stir in the tomato juice, sugar,
+ paprika, salt, pepper, vinegar, oil, parsley, cilantro, and lemon juice until
+ well combined. Refrigerate the soup for at least 2 hours until very
+ well chilled; the flavors will develop as it sits. Season the gazpacho
+ again with salt and pepper before serving. Serve in chilled bowls or
+ tureen and top with desired garnishes.
+
+ source: the food network
+
+*** patatas bravas
+
+ Patatas bravas
+
+#+begin_verse
+ potatoes cut into cubes
+ small onion, chopped
+ 1/2 tsp dried chili flakes
+ 1/4 cup dry white wine
+ dash tabasco
+ 1/4 cup olive oil
+ clove garlic, crushed
+ 2 ripe tomatoes, finely chopped
+ 1 tbsp chopped flat leaf parsley
+
+ sauce:
+ 1 tbsp olive oil
+ 1/2 tsp ground cumin
+ 1 tsp paprika
+ 1 tbsp tomato paste
+#+end_verse
+
+ preheat oven 425.  potatos on baking dish, coat oil, sprinkle salt, 40 min.
+
+ sauce: heat oil, add onion; add garlic, cumin, chili, paprika, tomatoes, paste.
+ cook 10 min.
+
+ process sauce in blender, reheat, add tabasco, parsley, salt.
+
+ pour sauce over potatoes.
+
+ source: www
+
+*** Picadillo
+
+#+begin_verse
+ 1 lb ground beef
+ 1 chopped onion
+ 1/2 tsp garlic powder
+ 1/2 tsp onion powder
+ 1/8 tsp cumin
+ 1 small can bud beer
+ little jar of olives with pimentos
+ 2 little packages of raisins
+ olive oil
+ tomato juice (1 to 1.5 12-oz cans)
+ juice of one lemon
+ 2 stalks celery
+
+ brown meat in one pan with olive oil
+ brown celery and onions with olive oil
+ add spices
+ put into bigger pan
+ add tomato juice, beer, lemon juice
+ check seasonings, adjust to taste
+ add olives and raisins
+ cook on low one hour
+ serve on yellow rice
+#+end_verse
+
+ source:  Alison's mom via Alison
+*** picadillo v2
+
+#+begin_verse
+ Cuban Picadillo
+ Total: 40 min Prep: 20 min Cook: 20 min
+ Yield: about 6 cups
+ Level: Easy
+
+ Ingredients
+ 2 tablespoons olive oil
+ 1 large yellow onion, finely chopped (about 2 cups)
+ 4 cloves garlic, minced
+ 2 bay leaves
+ 1 pound ground beef or combination of beef chorizo, and pork
+ 1/3 cup dry white wine or dry sherry
+ 10 cherry tomatoes, chopped or 1 (8-ounce) can diced tomatoes with juice
+ 1/3 cup tomato paste
+ 1/3 cup chopped pimento stuffed Spanish olives with 1 tablespoon brine from jar
+ 1/3 cup raisins
+ 2 teaspoons dried oregano
+ 2 teaspoons ground cumin
+ 1/4 teaspoon cayenne pepper, optional
+ Salt and freshly ground black pepper
+#+end_verse
+
+ CUBAN PICADILLO
+
+ Directions
+
+ Heat oil in a large skillet over medium-high heat. Add onion, garlic,
+ and bay leaves and saute until onion is soft, stirring frequently,
+ about 4 minutes.
+
+ Add ground beef to skillet and cook until browned. Once the meat is
+ browned, carefully away from the flame, tilt pan and remove excess fat
+ with a large spoon.
+
+ Add the white wine and stir for another minute. Then add the chopped
+ cherry tomatoes, tomato paste, pimento stuffed Spanish olives,
+ raisins, dried oregano, cumin and cayenne pepper. Simmer over low heat
+ for another 8 minutes, stirring occasionally. Season with salt and
+ pepper.
+
+ Serve warm:
+ As a filling for empanadas or tacos
+ Over white rice with fried plantains or black beans
+ With a side salad and black beans
+
+ To make Picadillo soupier for serving over rice, add additional wine,
+ chicken or beef stock.
+
+ source: food network - forwarded by Miriam
+
+*** gambas al ajillo NYT                                                :nyt:
+
+ http://cooking.nytimes.com/recipes/1012534-spanish-style-shrimp-with-garlic
+

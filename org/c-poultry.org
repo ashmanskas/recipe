@@ -1,0 +1,22 @@
+#+pagetitle: recipe-category-poultry
+
+** category: poultry
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+  - [[file:r-40-clove-chicken.org][40 clove chicken]] [[[file:c-poultry.org][poultry]]]
+  - [[file:r-buffalo-chicken-baked-.org][buffalo chicken (baked)]] [[[file:c-poultry.org][poultry]]]
+  - [[file:r-chicken-ana.org][chicken Ana]] [[[file:c-ana.org][ana]]] [[[file:c-poultry.org][poultry]]]
+  - [[file:r-chicken-mushroom-artichoke-casserole.org][chicken, mushroom, artichoke casserole]] [[[file:c-poultry.org][poultry]]]
+  - [[file:r-chicken-picante.org][chicken picante]] [[[file:c-poultry.org][poultry]]]
+  - [[file:r-chicken-pot-pie.org][chicken pot pie]] [[[file:c-poultry.org][poultry]]]
+  - [[file:r-coq-au-vin.org][coq au vin]] [[[file:c-french.org][french]]] [[[file:c-poultry.org][poultry]]]
+  - [[file:r-cornish-hen.org][Cornish hen]] [[[file:c-poultry.org][poultry]]]
+  - [[file:r-cornish-hens-german-style.org][Cornish hens German style]] [[[file:c-poultry.org][poultry]]]
+  - [[file:r-lemon-garlic-chicken.org][lemon-garlic chicken]] [[[file:c-poultry.org][poultry]]]
+  - [[file:r-sticky-chicken-wings.org][sticky chicken wings]] [[[file:c-poultry.org][poultry]]]
+  - [[file:r-turkey-burgers-nyt.org][turkey burgers NYT]] [[[file:c-nyt.org][nyt]]] [[[file:c-poultry.org][poultry]]]
+  - [[file:r-turkey-nyt.org][turkey NYT]] [[[file:c-nyt.org][nyt]]] [[[file:c-poultry.org][poultry]]]
+  - [[file:r-whole-chicken-nyt.org][whole chicken NYT]] [[[file:c-nyt.org][nyt]]] [[[file:c-poultry.org][poultry]]]
+
+

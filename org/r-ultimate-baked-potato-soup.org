@@ -1,0 +1,42 @@
+#+pagetitle: ultimate baked potato soup
+
+** ultimate baked potato soup
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-soup.org][soup]]]
+
+#+begin_verse
+ I think this can be adapted to lower fat:
+ 1) skip the cheddar and sour cream garnish
+ 2) use turkey bacon
+ 3) fat free half and half and skim milk
+
+ 4 large idaho potaotoes, baked
+ 6 strips bacon
+ 1 large onion, diced
+ 1/3 c butter
+ 1/3 c flour
+ 1 c half-and-half (fat free OK)
+ 3 c milk
+ 1/2 c grated Asiago cheese
+ salt and freshly ground black pepper
+ 1 c shredded cheddar cheese
+ 1 c sour cream
+
+ Peel and cube potatoes. Set aside.
+ Saute baco until crisp. Remove and drain on paper towels.
+ Add onion to baconB  rendering and saute till transparent.
+ Pour onion and drippings over potatoes.
+
+ In the same skillet, melt butter over medium heat.
+ Sprinkle flour on top and stir.
+ Gradually add half-and-half and whisk constantly till thick and smooth.
+ Gradually whisk in milk.
+ Add potatoe and onion mixture, bring to boil at med-high.
+ Reduce to bare simmer, stir in Asiago and cook 10 min.
+
+ Put the rest of the stuff on top as a garnish.
+#+end_verse
+
+ source: grandma Magda

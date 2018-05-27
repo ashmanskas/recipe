@@ -1,0 +1,19 @@
+#+pagetitle: recipe-category-indian
+
+** category: indian
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+  - [[file:r-bengan-bharta.org][bengan bharta]] [[[file:c-indian.org][indian]]]
+  - [[file:r-chicken-tikka-masala.org][chicken tikka masala]] [[[file:c-indian.org][indian]]]
+  - [[file:r-chicken-vindaloo.org][chicken vindaloo]] [[[file:c-indian.org][indian]]]
+  - [[file:r-chickpea-curry-with-basmati-rice.org][chickpea curry with basmati rice]] [[[file:c-indian.org][indian]]]
+  - [[file:r-chinese-curried-chicken.org][Chinese curried chicken]] [[[file:c-asian.org][asian]]] [[[file:c-indian.org][indian]]]
+  - [[file:r-easy-chicken-curry-nyt.org][easy chicken curry NYT]] [[[file:c-indian.org][indian]]] [[[file:c-nyt.org][nyt]]]
+  - [[file:r-instant-india-curry.org][instant india curry]] [[[file:c-indian.org][indian]]]
+  - [[file:r-masoor-dal.org][masoor dal]] [[[file:c-indian.org][indian]]]
+  - [[file:r-palak-paneer.org][palak paneer]] [[[file:c-indian.org][indian]]]
+  - [[file:r-peas-with-whole-cumin-and-mustard-seeds.org][peas with whole cumin and mustard seeds]] [[[file:c-indian.org][indian]]]
+  - [[file:r-raita.org][raita]] [[[file:c-indian.org][indian]]]
+
+

@@ -1,0 +1,23 @@
+#+pagetitle: steamed dumplings
+
+** steamed dumplings
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-asian.org][asian]]]
+
+- dough ( [[http://www.chow.com/recipes/28052-basic-dumpling-dough][source]] )
+
+  - 10 ounces (2 cups) unbleached all-purpose flour
+  - About 3/4 cup just-boiled water (see Note)
+
+- cooking ( [[http://www.foodnetwork.com/recipes/alton-brown/vegetarian-steamed-dumplings-recipe/index.html][source]] )
+
+  Using a steaming apparatus of your choice, bring 1/4 to 1/2-inch of
+  water to a simmer over medium heat. Spray the steamer's surface
+  lightly with the non-stick vegetable spray to prevent
+  sticking. Place as many dumplings as will fit into a steamer,
+  without touching each other. Cover and steam for 10 to 12 minutes
+  over medium heat. Remove the dumplings from the steamer to a
+  heatproof platter and place in oven to keep warm. Repeat until all
+  dumplings are cooked.

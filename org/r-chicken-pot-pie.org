@@ -1,0 +1,48 @@
+#+pagetitle: chicken pot pie
+
+** chicken pot pie
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-poultry.org][poultry]]]
+
+ Crust: (see pie crust recipe)
+
+#+begin_verse
+ Filling:
+ 2 tablespoons unsalted butter
+ 1 cup chopped carrot
+ 1/2 cup chopped onion
+ 1 teaspoon chopped fresh thyme
+ 3 cups fat-free, lower sodium chicken broth
+ 2 1/3 cups cubed red potato (about)
+ 1.5 ounces (about 1/3 cup) all-purpose flour
+ 1/3 cup water
+ 2 cups diced cooked rotisserie chicken
+ 1 cup frozen petite peas
+ 1/2 teaspoon salt
+ 1/4 teaspoon freshly ground black pepper
+ Cooking spray
+ 2 teaspoons 1% low-fat milk
+#+end_verse
+
+ 1.  Make crust and chill until ready to use.
+
+ 2.  Preheat oven to 400F.
+
+ 3.  To prepare filling, melt 2 teaspoons butter in a Dutch oven over
+     meduim-high heat. Add carrot, onion, and thyme; cook 8 minutes or
+     until vegetables are soft. Add broth and potato; bring to a
+     boil. Cover and simmer 10 minutes. Combine flour and 1/3 cup water in
+     a small bowl; stir with a whisk until smooth. Return potato mixture to
+     a boil. Slowly drizzle flour mixture into potato mixture, stirring
+     constantly. Cook 1 minute or until mixture thickens. Stir in chicken,
+     peas, 1/2 teaspoon salt, and pepper. Spoon chicken mixture into an 11
+     x 7-inch glass or ceramic baking dish coated with cooking spray. Place
+     dough on top of chicken mixture, pressing to edge of dish. Cut 4 slits
+     in top of crust to allow steam to escape. Gently brush crust with
+     milk. Bake at 400° for 50 minutes or until golden and bubbly. Let
+     stand 10 minutes.
+
+
+ http://www.myrecipes.com/recipe/old-fashioned-chicken-potpie-0

@@ -1,0 +1,16 @@
+#+pagetitle: recipe-category-side
+
+** category: side
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+  - [[file:r-baby-red-potato-salad.org][baby red potato salad]] [[[file:c-side.org][side]]]
+  - [[file:r-dolmas.org][dolmas]] [[[file:c-mediterranean.org][mediterranean]]] [[[file:c-side.org][side]]]
+  - [[file:r-green-bean-casserole.org][green bean casserole]] [[[file:c-side.org][side]]]
+  - [[file:r-macaroni-and-cheese.org][macaroni and cheese]] [[[file:c-side.org][side]]]
+  - [[file:r-pierogies.org][pierogies]] [[[file:c-side.org][side]]]
+  - [[file:r-sauteed-carrots.org][sauteed carrots]] [[[file:c-side.org][side]]]
+  - [[file:r-scalloped-potatoes.org][scalloped potatoes]] [[[file:c-side.org][side]]]
+  - [[file:r-sun-dried-tomato-and-pesto-torta.org][sun-dried tomato and pesto torta]] [[[file:c-side.org][side]]]
+
+

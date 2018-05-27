@@ -1,0 +1,36 @@
+#+pagetitle: roasted eggplant soup
+
+** roasted eggplant soup
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-soup.org][soup]]]
+
+#+begin_verse
+   3  medium tomatoes
+   1  large eggplant
+   1  small onion
+   6  large garlic cloves, peeled
+   2  tbsp vegetable oil
+   1  tsp dried thyme
+   4  cups chicken broth
+   1  cup whipping cream (we use 1/2 and 1/2)
+  3/4 cup goat cheese
+#+end_verse
+
+ Preheat oven to 400 F.  Halve tomatoes, eggplant, onion, and place
+ with garlic on baking sheet.  Brush with oil and roast until tender and
+ browned, about 45 minutes.
+
+ Scoop eggplant from skin (discard skin).  Place all vegetables and
+ thyme in saucepan.  Add chicken broth and bring to boil.  Simmer until
+ onion is very tender, about 45 min.  Cool slightly.
+
+ Working in batches, puree soup in blender until smooth.  Return to
+ saucepan and stir in cream.  Bring to simmer, thinning with broth if
+ desired.
+
+ Season with salt and pepper.  Ladle into bowls.  Sprinkle with goat
+ cheese and serve.
+
+ source:  Matt Horn (Hyde Park neighbor)

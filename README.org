@@ -2,3 +2,13 @@
 * recipe
 
   simple recipe-list web page organized using emacs org-mode
+
+  - main "input" recipe list is [[file:recipes.org][recipes.org]]
+  - emacs lisp code to process recipes.org is [[file:recipes.el][recipes.el]]
+  - shell script to rebuild everything is [[file:recipes.sh][recipes.sh]]
+  - output in [[https://orgmode.org][org-mode]] format is everything in org/ folder:
+    - [[file:org/0-recipe-index.org][0-recipe-index.org]] is main index file
+    - an example category file is [[file:org/c-dessert.org][c-dessert.org]]
+    - an example recipe file is [[file:org/r-apple-pie.org][r-apple-pie.org]]
+  - actual web page exported from these files is
+    http://www.hep.upenn.edu/~ashmansk/recipe

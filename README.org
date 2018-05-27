@@ -3,7 +3,8 @@
 
   simple recipe-list web page organized using emacs org-mode
 
-  - main "input" recipe list is [[file:recipes.org][recipes.org]]
+  - main "input" recipe list is [[file:recipes.org][recipes.org]] (this one seems to view
+    better in "raw" mode)
   - emacs lisp code to process recipes.org is [[file:recipes.el][recipes.el]]
   - shell script to rebuild everything is [[file:recipes.sh][recipes.sh]]
   - output in [[https://orgmode.org][org-mode]] format is everything in org/ folder:

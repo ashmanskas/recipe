@@ -1,0 +1,9 @@
+#+pagetitle: bowl (rice bowl) with oven-baked tofu
+
+** bowl (rice bowl) with oven-baked tofu
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-asian.org][asian]]] [[[file:c-nyt.org][nyt]]]
+
+https://cooking.nytimes.com/recipes/1015283-rice-bowl-with-oven-baked-miso-tofu

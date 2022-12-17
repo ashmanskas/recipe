@@ -1,0 +1,11 @@
+#+pagetitle: turkey (Ina Garten)
+
+** turkey (Ina Garten)
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-poultry.org][poultry]]]
+
+https://www.foodnetwork.com/recipes/ina-garten/perfect-roast-turkey-recipe4-1943576.amp
+
+successful [2022-11-24]

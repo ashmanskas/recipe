@@ -6,4 +6,9 @@
 
 categories: [[[file:c-meat.org][meat]]] [[[file:c-nyt.org][nyt]]]
 
+*note:* For best results, start the day before, eg marinate
+overnight. For even best-er results, consider cooking partway (2h+) ,
+slicing, refrigerating (or vice versa?), then cooking another hour the
+next day, as suggested in NYT most-helpful comments.
+
  https://cooking.nytimes.com/recipes/1017312-brisket-with-horseradish-gremolata

@@ -4,7 +4,7 @@
 
   [[[file:0-recipe-index.org][main recipe page]]]
 
-category: [[[file:c-soup.org][soup]]]
+categories: [[[file:c-beans.org][beans]]] [[[file:c-soup.org][soup]]]
 
 #+begin_verse
  Quick Black Bean Soup

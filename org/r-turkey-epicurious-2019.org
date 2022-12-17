@@ -1,0 +1,9 @@
+#+pagetitle: turkey epicurious 2019
+
+** turkey epicurious 2019
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-poultry.org][poultry]]]
+
+https://www.epicurious.com/holidays-events/the-easiest-way-to-cook-turkey-article

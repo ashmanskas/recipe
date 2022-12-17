@@ -1,0 +1,11 @@
+#+pagetitle: Asian lettuce wraps
+
+** Asian lettuce wraps
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-asian.org][asian]]]
+
+2019-12-31
+
+source: https://www.foodnetwork.com/recipes/sunny-anderson/asian-lettuce-wraps-recipe-1948673

@@ -9,7 +9,7 @@ function foobar {
             --include-in-header=../include/header.html \
             --include-before-body=../include/before-body.html \
             --include-after-body=../include/after-body.html \
-            --from=org+smart --to=html5 -o $o \
+            --from=org --to=html5 -o $o \
             <(cat $i | sed 's/\.org/.html/g')
     done
 }

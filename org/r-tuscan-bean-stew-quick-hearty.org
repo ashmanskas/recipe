@@ -1,0 +1,46 @@
+#+pagetitle: tuscan bean stew - quick & hearty
+
+** tuscan bean stew - quick & hearty
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-soup.org][soup]]]
+
+The authors recommend soaking beans overnight in brine --- hmmm.
+
+#+begin_verse
+
+Ingredients
+
+  1 Tbsp extra virgin olive oil
+  6 oz pancetta (or bacon), cut into quarter-inch pieces
+  2 medium celery ribs, cut into half-inch pieces
+  2 medium carrots, peeled and cut into half-inch pieces
+  8 medium garlic cloves, minced (about 3 Tbsp)
+  3 cups low-sodium chicken broth
+  2 cups water
+  4 (15-oz) cans cannellini beans, drained and rinsed
+  2 medium bay leaves
+  1 (15-oz) can diced tomatoes, drained and rinsed
+  1 medium bunch kale or collard greens, thick stems trimmed, chopped
+  1 sprig fresh rosemary
+
+#+end_verse
+
+-
+
+1. Heat oil and pancetta in large Dutch oven over medium heat.  Cool,
+   stirring occasionally, until pancetta is lightly browned, 5-10 min.
+   Add onion, celery, and carrots.  Cook, stirring occasionally, until
+   vegetables are softened and lightly browned, 10-15 min.  Stir in
+   garlic and cook until fragrant, about 1 min.  Stir in broth, water,
+   beans, bay leaves, tomatoes, and greens.  Bring to simmer.  Then
+   reduce heat and simmer until vegetables and greens are tender,
+   20-25 min.
+
+2. Remove pot from stove and submerge rosemary sprig in stew.  Cover
+   and let stand 15 min.  Discard bay leaves and rosemary sprig.
+   Season with salt and pepper to taste.  Serve lightly drizzled with
+   olive oil.
+
+source: America's Test Kitchen, via Adrian Nikolica

@@ -4,7 +4,8 @@
 
   [[[file:0-recipe-index.org][main recipe page]]]
 
+  - [[file:r-balsamic-vinaigrette.org][balsamic vinaigrette]] [[[file:c-salad.org][salad]]]
   - [[file:r-caesar-salad-ana.org][Caesar salad Ana]] [[[file:c-ana.org][ana]]] [[[file:c-salad.org][salad]]]
-  - [[file:r-egg-free-caesar-salad.org][egg-free Caesar salad]] [[[file:c-salad.org][salad]]]
+  - [[file:r-caesar-salad-egg-free.org][Caesar salad - egg-free]] [[[file:c-salad.org][salad]]]
 
 

@@ -1,0 +1,51 @@
+#+pagetitle: banana bread
+
+** banana bread
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-bread.org][bread]]]
+
+#+begin_verse
+cooking spray
+8 Tbsp unsalted butter (1 stick)
+1 cup sugar
+2 eggs
+1/4 cup milk
+1 tsp vanilla extract
+3 bananas, very ripe
+2 cups flour
+1 tsp baking soda
+1/4 tsp salt
+1/2 cup chopped nuts or chocolate chips (optional)
+#+end_verse
+
+-----
+
+1. Heat oven to 350F.  Use rack in bottom third of oven.  Line 8x5
+  inch loaf pan with parchment paper, letting excess hang over long
+  sides.  Spray inside with cooking spray.  If using nuts, toast them
+  in oven for 10 minutes as oven pre-heats.
+2. Melt butter.  (Or for a more cake-like result, just soften the
+   butter, see next step.)
+3. Whisk sugar and melted butter in large bowl until combined.  (Or
+   use mixer to cream softened butter and sugar until fluffy, for
+   cake-like result.)
+4. Crack eggs into bowl, whisk with butter-sugar mix until smooth.
+5. Whisk milk and vanilla into batter.
+6. Peel bananas and mash them into the batter.
+7. Add flour, baking soda, and salt.  Stir until ingredients are just
+   barely combined and no more dry flour is visible.
+8. Fold in nuts or chocolate (optional).
+9. Pour batter into prepared loaf pan.
+10. Bake 50-65 minutes, until top of cake is caramelized dark brown
+    and an inserted toothpick comes out clean.  Check every 5 minutes
+    starting at 50 minutes.
+11. Cool in pan for 10 minutes, over a wire cooling rack.  This helps
+    loaf solidify and facilitates removing it from pan.
+12. Remove from pan (using the parchment paper edges) and place on
+    cooling rack for another 10 minutes before slicing.
+
+Note: same recipe can make muffins!
+
+source: kitchn

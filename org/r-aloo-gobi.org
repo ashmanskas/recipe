@@ -1,0 +1,61 @@
+#+pagetitle: aloo gobi
+
+** aloo gobi
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-indian.org][indian]]]
+
+#+begin_verse
+2 Tbsp oil
+1/2 tsp cumin seeds
+1 Tbsp ginger+garlic, minced
+1 medium onion, finely chopped
+1-2 medium potatoes, 3/4-inch pieces
+1 green chili, minced
+2 cups cauliflower florets, 1.5-inch pieces
+1 tsp red chili powder
+1/4 tsp turmeric
+3/4 tsp cumin powder
+1.5 tsp garam masala
+3/4 tsp coriander powder
+2-3 Tbsp water
+1-2 Tbsp tomato paste
+lemon juice
+#+end_verse
+
+\\
+
+Chop cauliflower.  Put florets in slightly hot water for 3-4 minutes.
+Drain water, rinse well, drain completely.
+
+Cube potatoes.  Keep immersed in water until used.  (Soaking up
+moisture helps potatoes to cook faster.)
+
+Mince ginger & garlic.
+
+Heat oil in large heavy-bottomed pan, with lid available.  Add cumin
+seeds.  When they sizzle, add ginger & garlic and saute 30 seconds.
+
+Add onions and stir fry until transparent.
+
+Add potatoes & green chili.  Stir fry 2-3 minutes.  Cover and cook on
+low-medium until half done.  Keep stirring and cook covered.  Potatoes
+are slightly tender but still undercooked.
+
+Add cauliflower and stir fry 3 minutes.
+
+Add red chili powder, turmeric, cumin powder, garam masala, &
+coriander powder.  Mix well.  Sprinkle 2-3 Tbsp water, to keep the
+aloo gobi moist.  Cook covered, low heat, stirring every few minutes,
+until potatoes are soft and fully cooked.  Be careful not to overcook
+cauliflower.
+
+Add tomato paste.  Fry 2-4 minutes on medium-high until raw tomato
+smell is gone.
+
+Sprinkle lemon juice.
+
+source: This (very long) [[https://www.indianhealthyrecipes.com/aloo-gobi-recipe/#wprm-recipe-container-37708][page]] contains 2 recipes.  I tried the first
+(drier) one on [2021-12-19] with pretty good results.  A bigger pot or
+a smaller quantity of veggies might have helped.

@@ -6,6 +6,17 @@
 
 * recipes
 ** asian                                                              :asian:
+*** Asian lettuce wraps
+
+2019-12-31
+
+source: https://www.foodnetwork.com/recipes/sunny-anderson/asian-lettuce-wraps-recipe-1948673
+
+*** bowl (rice bowl) with oven-baked tofu                             :nyt:
+
+https://cooking.nytimes.com/recipes/1015283-rice-bowl-with-oven-baked-miso-tofu
+
+
 *** cashew chicken
 
 #+begin_verse
@@ -73,6 +84,12 @@
  low.  Cover and cook for 20 minutes, stirring occasionally.
 #+end_verse
 
+*** cold sesame noodles
+
+2019-12-31
+
+source:  https://www.marthastewart.com/339286/cold-sesame-noodles
+
 *** cold sesame noodles with summer vegetables
 
 #+begin_verse
@@ -99,6 +116,58 @@
 #+end_verse
 
  source:  http://www.epicurious.com/recipes/food/views/51104410
+
+*** egg drop soup                                                      :soup:
+
+#+begin_verse
+ 1/4 tsp sugar
+ 5 c chicken broth
+ 1 Tsp cornstarch mixed with 1/4 c cold water
+ 2 eggs, beaten until slightly foamy
+ 2 green onions, cut into pea size pieces, including green part
+ 2 tsp sesame oil
+
+ 1.  Add sugar to broth.  Bring to a rapid boil.
+ 2.  Add cornstarch mixture.  Stir and cook until soup is no longer
+ cloudy.
+ 3.  Slowly swirl in beaten eggs (I drop it in in fairly large drops
+ because otherwise it becomes little stringy bits of eggs instead of
+ the nice bigger chunks).  Do not stir!  Turn off heat at once.
+ 4.  Drop in scallions and sesame oil.  Stir gently.  Serve.
+#+end_verse
+
+*** hot and sour soup                                                  :soup:
+
+: 
+:          4 cups chicken broth           2 tbs cornstarch
+:                                       1/4 cup water
+:          3 cloud ear mushrooms
+:          3 Chinese mushrooms            1 egg
+:          20 lily buds
+:                                         2 tsp sesame oil
+:          1 small pkg tofu               1 scallion (optional)
+: 
+:          3 tbs white vinegar            bamboo shoots, etc. (optional)
+:          1 tbs soy sauce
+:          1 tsp sugar
+:          1 tsp white pepper
+: 
+:  (1) Wash cloud ear mushrooms, Chinese mushrooms, and lily buds and
+:      soak in warm water for 30 minutes.  Remove hard stems and shred.
+:  (2) Cut tofu into 1/2" cubes.  
+:  (3) Mix vinegar, soy sauce, sugar, and pepper in a cup.
+:  (4) Mix cornstarch and water in another cup.
+:  (5) Beat egg.
+:  (6) Cut scallions into small pieces.
+: 
+:  (a) Mix chicken broth, mushrooms, and lily buds in a soup pan.  Boil
+:      for 8 minutes over medium heat.
+:  (b) Add tofu.  Add vinegar mixture.  Mix and cook 30 seconds.
+:  (c) Add bamboo shoots, etc.
+:  (d) Add cornstarch mixture.  Cook and stir for 1 minute.
+:  (e) Remove from heat and add egg, drop by drop.
+:  (f) Mix in sesame oil and scallions.
+: 
 
 *** Hunan chicken in ginger and tomato sauce
 
@@ -214,6 +283,10 @@
  source: Janine and Jim
 #+end_verse
 
+*** orange duck
+
+ http://www.epicurious.com/recipes/food/views/Duck-a-lOrange-233535
+
 *** pad Thai
 
 #+begin_verse
@@ -222,7 +295,7 @@
  1/2 pound dried rice noodles, 1/8 inch wide
  warm water
  cooked shrimp, peeled & deveined (optional)
- 1 pkg firm tofu
+ 1 pkg firm tofu (one-half pkg may be better?)
  1/4 cup fish sauce (soy sauce OK instead)
  1/4 cup + 2 Tbsp granulated sugar
  1/4 cup + 2 Tbsp white vinegar
@@ -253,6 +326,8 @@
  Let stand for 20-30 minutes to press excess water out of tofu.  After
  the tofu has been pressed, slice it into 1/4-inch cubes.
 
+ 3.5  Consider baking the tofu.
+
  4.  Heat a wok, add the oil, and swirl it over the surface of the pan.
  Add the garlic and stir-fry until light golden.  Add the noodles and
  toss lightly to coat them with oil and to distribute the garlic.
@@ -261,6 +336,8 @@
  gently folding the noodles without breaking them.  Reduce the heat to
  medium and boil the mixture, folding frequently, until the noodles
  have absorbed the liquid.
+
+ 5.5  Add tofu!
 
  6.  Using a spatula, lift the noodles gently from one side of the wok.
  Pour a little oil along the side of the wok, then pour in half of
@@ -528,62 +605,6 @@ source: Quick & Easy sushi cookbook
 
  http://www.drweil.com/drw/u/RCP00173/vegetable-tofu-stir-fry.html
 
-*** orange duck
-
- http://www.epicurious.com/recipes/food/views/Duck-a-lOrange-233535
-
-*** egg drop soup                                                      :soup:
-
-#+begin_verse
- 1/4 tsp sugar
- 5 c chicken broth
- 1 Tsp cornstarch mixed with 1/4 c cold water
- 2 eggs, beaten until slightly foamy
- 2 green onions, cut into pea size pieces, including green part
- 2 tsp sesame oil
-
- 1.  Add sugar to broth.  Bring to a rapid boil.
- 2.  Add cornstarch mixture.  Stir and cook until soup is no longer
- cloudy.
- 3.  Slowly swirl in beaten eggs (I drop it in in fairly large drops
- because otherwise it becomes little stringy bits of eggs instead of
- the nice bigger chunks).  Do not stir!  Turn off heat at once.
- 4.  Drop in scallions and sesame oil.  Stir gently.  Serve.
-#+end_verse
-
-*** hot and sour soup                                                  :soup:
-
-: 
-:          4 cups chicken broth           2 tbs cornstarch
-:                                       1/4 cup water
-:          3 cloud ear mushrooms
-:          3 Chinese mushrooms            1 egg
-:          20 lily buds
-:                                         2 tsp sesame oil
-:          1 small pkg tofu               1 scallion (optional)
-: 
-:          3 tbs white vinegar            bamboo shoots, etc. (optional)
-:          1 tbs soy sauce
-:          1 tsp sugar
-:          1 tsp white pepper
-: 
-:  (1) Wash cloud ear mushrooms, Chinese mushrooms, and lily buds and
-:      soak in warm water for 30 minutes.  Remove hard stems and shred.
-:  (2) Cut tofu into 1/2" cubes.  
-:  (3) Mix vinegar, soy sauce, sugar, and pepper in a cup.
-:  (4) Mix cornstarch and water in another cup.
-:  (5) Beat egg.
-:  (6) Cut scallions into small pieces.
-: 
-:  (a) Mix chicken broth, mushrooms, and lily buds in a soup pan.  Boil
-:      for 8 minutes over medium heat.
-:  (b) Add tofu.  Add vinegar mixture.  Mix and cook 30 seconds.
-:  (c) Add bamboo shoots, etc.
-:  (d) Add cornstarch mixture.  Cook and stir for 1 minute.
-:  (e) Remove from heat and add egg, drop by drop.
-:  (f) Mix in sesame oil and scallions.
-: 
-
 ** beans                                                              :beans:
 *** black bean burgers
 
@@ -630,7 +651,7 @@ source: Quick & Easy sushi cookbook
 *** red beans and rice
 
 #+begin_verse
- 1 can red kidney beans, rinsed and drained
+ 2 cans red kidney beans, rinsed and drained
  1 3/4 c chicken broth
  1 can chopped tomatoes, drained
  3/4 c water
@@ -652,6 +673,52 @@ source: Quick & Easy sushi cookbook
 #+end_verse
 
 ** bread                                                              :bread:
+*** banana bread
+
+#+begin_verse
+cooking spray
+8 Tbsp unsalted butter (1 stick)
+1 cup sugar
+2 eggs
+1/4 cup milk
+1 tsp vanilla extract
+3 bananas, very ripe
+2 cups flour
+1 tsp baking soda
+1/4 tsp salt
+1/2 cup chopped nuts or chocolate chips (optional)
+#+end_verse
+
+-----
+
+1. Heat oven to 350F.  Use rack in bottom third of oven.  Line 8x5
+  inch loaf pan with parchment paper, letting excess hang over long
+  sides.  Spray inside with cooking spray.  If using nuts, toast them
+  in oven for 10 minutes as oven pre-heats.
+2. Melt butter.  (Or for a more cake-like result, just soften the
+   butter, see next step.)
+3. Whisk sugar and melted butter in large bowl until combined.  (Or
+   use mixer to cream softened butter and sugar until fluffy, for
+   cake-like result.)
+4. Crack eggs into bowl, whisk with butter-sugar mix until smooth.
+5. Whisk milk and vanilla into batter.
+6. Peel bananas and mash them into the batter.
+7. Add flour, baking soda, and salt.  Stir until ingredients are just
+   barely combined and no more dry flour is visible.
+8. Fold in nuts or chocolate (optional).
+9. Pour batter into prepared loaf pan.
+10. Bake 50-65 minutes, until top of cake is caramelized dark brown
+    and an inserted toothpick comes out clean.  Check every 5 minutes
+    starting at 50 minutes.
+11. Cool in pan for 10 minutes, over a wire cooling rack.  This helps
+    loaf solidify and facilitates removing it from pan.
+12. Remove from pan (using the parchment paper edges) and place on
+    cooling rack for another 10 minutes before slicing.
+
+Note: same recipe can make muffins!
+
+source: kitchn
+
 *** beer-cheese bread
 
 #+begin_verse
@@ -785,6 +852,34 @@ source: Quick & Easy sushi cookbook
 #+end_verse
 
  source: Focaccia cookbook
+
+*** french baguettes, with bread machine dough cycle
+
+#+begin_verse
+1.5 cups water
+1.5 tsp salt
+1 tsp white sugar
+1 Tbsp olive oil
+3.25 cups bread flour
+1.5 tsp bread machine yeast
+#+end_verse
+
+- Place ingredients in bread pan as indicated by recipe. Select the
+  dough cycle, and start.
+- Dough will be sticky and wet once cycle is completed, resist the
+  temptation to add more flour.
+- Place dough on a lightly floured board, cover with a large bowl or a
+  towel, and let rest for 15 minutes.
+- Cut into 2 pieces, and form each into a 3×14-inch oval. Place loaves
+  on prepared baking sheet lined with parchment paper. Cover, and let
+  rise for approximately 40 minutes. Preheat oven to 425 degrees F.
+- Cut diagonal slashes in the dough, and then place loaves in the oven
+  on the middle rack. Bake for 25 to 30 minutes.  (More like 25 is
+  better.)
+- During baking, spritz loaves with water every 5 to 10 minutes for a
+  crispier crust if you like.
+
+source: https://www.breadmakermachines.com/recipes/french-baguettes-recipe/
 
 *** no-knead bread NYT                                                  :nyt:
 
@@ -923,6 +1018,55 @@ source: Quick & Easy sushi cookbook
  *REMEMBER:  CUT HOLES IN CRUST!  AND USE DRIP TRAY BENEATH PIE PAN.*
 
  source: Elizabeth Bleicher
+
+*** blueberry muffins Jordan Marsh
+
+#+begin_verse
+  0.5 cup butter
+  2   cups unsifted flour
+  1   cup sugar
+  2   large eggs
+  0.5 cup milk
+  2   teaspoons baking powder
+  0.5 teaspoon salt
+  2.5 cups large fresh blueberries
+  1.5 teaspoons vanilla extract
+  2   tablespoons sugar (for top of muffins)
+#+end_verse
+
+Preheat oven to 375°F.
+
+In a large mixing bowl, cream together butter and sugar until light
+and fluffy; add eggs, one at a time, beating after each addition.
+
+In a second bowl, combine all dry ingredients. (You can use an
+electric mixer to combine the dry ingredients thoroughly at this point
+so that you won't need to overmix once the wet and dry ingredients are
+combined.
+
+Gradually add the dry ingredients to the creamed butter and sugar
+mixture along with the milk and vanilla.
+
+Optionally, mash 1/2 cup of the blueberries, and stir in by hand (this
+will turn batter a light shade of blue and add a touch of blueberry
+flavor, but this step may be skipped, if you wish). Add the remaining
+whole berries and stir in gently by hand.
+
+Spray a 12 muffin baking pan with Baker's Joy (or other non-stick
+spray). Fill greased muffin cups.  (Yankee Magazine suggests using
+paper muffin liners.)
+
+Sprinkle sugar on top of unbaked muffins.
+
+Bake at 375°F for 25-30 minutes. Cool in pan. Run a knife around the
+edge of each muffin after several minutes to free it from the pan and
+cool on wire racks. Muffins may be brushed with melted butter and
+sprinkled with sugar, if desired.
+
+On [2022-11-23], I cooked 25-30 min but probably should have let them
+cook another 5 min or so.
+
+source: https://newengland.com/today/food/breakfast-brunch/muffins/jordan-marsh-blueberry-muffins/
 
 *** chocolate chip cookies
 
@@ -1064,6 +1208,24 @@ source: http://simplyrecipes.com/recipes/chocolate_fondue/
  place ice in blender, crush 15-20 sec.  add ingredients.  blend.
 
 ** fish                                                                :fish:
+*** sesame hoisin salmon
+
+Preheat oven to 400F.  Combine:
+
+- 2 Tbsp hoisin sauce
+- 1 Tbsp brown sugar
+- 1 Tbsp soy sauce
+- 1 Tbsp rice vinegar
+- 2 tsp sesame oil
+- 1 tsp grated ginger
+- 1/4 tsp crushed red pepper
+
+Place 4 (6oz) salmon fillets in baking dish coated with cooking spray;
+sprinkle with 1/4 tsp kosher salt.  Pour sauce over salmon.  Bake at
+400F for 15 minutes.  Sprinkle with 2 Tbsp sliced green onions.
+
+source:  Cooking Light, May 2017.
+
 *** fish pie Jamie Oliver
 
 Serves 4.  
@@ -1089,6 +1251,7 @@ Note: we replaced potatoes with sweet potatoes --- yum!
     - 2 handfuls of fresh breadcrumbs (panko works well)
     - 2 lemons, halved
 
+
  *directions*
 
 Preheat oven to 400F.  
@@ -1108,8 +1271,8 @@ pour over fish.
 Toss potato slices in a little olive oil, salt, and pepper, and layer
 these over the top.
 
-Place in oven for 20 minutes.  5 minutes before end, sprinkle with
-breadcrumbs and a bit more grated parmesan.
+Place (uncovered!) in oven for 20 minutes.  5 minutes before end,
+sprinkle with breadcrumbs and a bit more grated parmesan.
 
 Serve with lemon halves, a green salad, and cold beers!
 
@@ -1511,6 +1674,62 @@ source: https://cooking.nytimes.com/recipes/1018023-baked-fish-and-chips
  source:  http://www.turntablekitchen.com/2011/06/whole-roasted-branzino-same-song-over-and-over/
 
 ** indian                                                            :indian:
+*** aloo gobi
+
+#+begin_verse
+2 Tbsp oil
+1/2 tsp cumin seeds
+1 Tbsp ginger+garlic, minced
+1 medium onion, finely chopped
+1-2 medium potatoes, 3/4-inch pieces
+1 green chili, minced
+2 cups cauliflower florets, 1.5-inch pieces
+1 tsp red chili powder
+1/4 tsp turmeric
+3/4 tsp cumin powder
+1.5 tsp garam masala
+3/4 tsp coriander powder
+2-3 Tbsp water
+1-2 Tbsp tomato paste
+lemon juice
+#+end_verse
+
+\\
+
+Chop cauliflower.  Put florets in slightly hot water for 3-4 minutes.
+Drain water, rinse well, drain completely.
+
+Cube potatoes.  Keep immersed in water until used.  (Soaking up
+moisture helps potatoes to cook faster.)
+
+Mince ginger & garlic.
+
+Heat oil in large heavy-bottomed pan, with lid available.  Add cumin
+seeds.  When they sizzle, add ginger & garlic and saute 30 seconds.
+
+Add onions and stir fry until transparent.
+
+Add potatoes & green chili.  Stir fry 2-3 minutes.  Cover and cook on
+low-medium until half done.  Keep stirring and cook covered.  Potatoes
+are slightly tender but still undercooked.
+
+Add cauliflower and stir fry 3 minutes.
+
+Add red chili powder, turmeric, cumin powder, garam masala, &
+coriander powder.  Mix well.  Sprinkle 2-3 Tbsp water, to keep the
+aloo gobi moist.  Cook covered, low heat, stirring every few minutes,
+until potatoes are soft and fully cooked.  Be careful not to overcook
+cauliflower.
+
+Add tomato paste.  Fry 2-4 minutes on medium-high until raw tomato
+smell is gone.
+
+Sprinkle lemon juice.
+
+source: This (very long) [[https://www.indianhealthyrecipes.com/aloo-gobi-recipe/#wprm-recipe-container-37708][page]] contains 2 recipes.  I tried the first
+(drier) one on [2021-12-19] with pretty good results.  A bigger pot or
+a smaller quantity of veggies might have helped.
+
 *** bengan bharta
 
 : 
@@ -1561,11 +1780,13 @@ source: https://cooking.nytimes.com/recipes/1018023-baked-fish-and-chips
   14 oz can crushed tomatoes
   1/2 cup yogurt
   1/2 cup coconut milk
-  1 tbs fresh coriander, chopped
+  1 tbs fresh coriander, chopped (*HALF tbs* if dried!!)
   2 tbs lemon juice
   3/2 tsp garam masala
   pinch salt
 #+end_verse
+
+\\
 
  do chicken marinade in food processor, then marinate chicken a few
  hours. heat oil/ghee, fry onion, add onion seeds, garlic, chiles,
@@ -2177,6 +2398,30 @@ source: https://cooking.nytimes.com/recipes/1018023-baked-fish-and-chips
 
  original source: web pages of The Real Man's Cookbook
 
+*** linguine with mushrooms NYT :nyt:
+
+#+begin_verse
+6 Tbsp extra-virgin olive oil
+12 ounces fresh mushrooms, thinly sliced
+2 cloves garlic, minced
+1/3 cup finely chopped italian parsley
+salt & freshly ground black pepper
+1/2 pound linguine
+freshly grated parmesan cheese
+#+end_verse
+
+Boil 3 quarts of salted water over high heat in large covered pot
+
+Heat olive oil in large skillet over high heat.  Cook mushrooms,
+stirring, about 6 minutes, until they begin to brown.  Stir in garlic
+and parsley.  Remove from heat.
+
+Cook linguine in boiling water, uncovered, about 7 minutes, until al
+dente.  Drain thoroughly.
+
+Place mushroom mixture over medium heat, add linguine, and toss.
+Serve with parmesan cheese on the side.
+
 *** pasta with zucchini, pine nuts, lemon, and herbs
 
  egg pasta (preferably home made)
@@ -2240,9 +2485,55 @@ source: https://cooking.nytimes.com/recipes/1018023-baked-fish-and-chips
  http://www.annamariavolpi.com/ravioli.html#.VoKmtew8LCR
 *** risotto with mushrooms and peas NYT                                 :nyt:
 
-This was good.  We cooked it on vacation May 2018.
+*Ingredients*
 
-https://cooking.nytimes.com/recipes/1017022-mushroom-risotto-with-peas
+- 6--7 cups stock or broth
+- 2 Tbsp extra-virgin olive oil
+- 2 shallots, minced; or 1/2 cup finely chopped onion if shallots
+  aren't available
+- 1 pound (just under) wild mushrooms, cleaned and cut into bite-sized
+  pieces
+- 2 garlic cloves, minced
+- 2 tsp fresh thyme leaves or chopped sage
+- 1 1/2 cups (1.5 cups) arborio rice
+- 1/2 cup dry white wine, e.g. pinot grigio or sauvignon blanc
+- 1 cup frozen peas
+- 2 Tbsp chopped fresh parsley
+- 1/2 cup grated parmesan cheese
+
+
+*Directions*
+
+1. Simmer stock in a saucepan.  (Pan just needs to be big enough to
+   hold the stock.  Choose a shape that makes it easy to ladle out the
+   stock.)  Keep it simmering.
+2. Heat oil in wide, heavy saucepan over medium heat.  (This pan needs
+   to be deep enough to hold the entire risotto.)  Add shallots (or
+   onions) and cook gently until just tender, 3--5 minutes.
+3. Turn up heat and add mushrooms.  Cook, stirring, until they begin
+   to sweat, about 3 minutes, then add garlic and thyme (or sage).
+   Cook, stirring, until fragrant, about 30 seconds.  Season mushrooms
+   with (salt and) pepper and continue to cook over medium heat until
+   they are soft.  Taste and adjust seasoning.
+4. Add rice and stir until grains begin to crackle.  Add wine and
+   cook, stirring, until wine is no longer visible in pan.  Stir in
+   enough simmering stock to just cover the rice.  (Split infinitives
+   are OK these days!)  The stock should bubble slowly.  Cook, stiring
+   often and vigorously, until stock is just about absorbed.  Add
+   another ladle or two of stock and continue cooking, not too fast
+   and not too slowly, stirring often and adding more stock when rice
+   has absorbed liquid, for 15 minutes.  (Use a spoon or spatula whose
+   handle won't blister your fingers!)
+5. Add peas and continue adding stock and stirring for another 10
+   minutes.  Rice should be tender all the way through but still al
+   dente.  Adjust seasoning to taste.
+6. Add another ladle or two of stock.  Stir in parsley and parmesan,
+   and remove from heat.  Season with black pepper and serve right
+   away in wide soup bowls or in plates.
+
+source:  https://cooking.nytimes.com/recipes/1017022-mushroom-risotto-with-peas
+
+This was good.  We cooked it on vacation May 2018.
 
 *** risotto with shrimp, etc.
 
@@ -2594,6 +2885,11 @@ https://cooking.nytimes.com/recipes/1017022-mushroom-risotto-with-peas
 
 *** brisket NYT                                                         :nyt:
 
+*note:* For best results, start the day before, eg marinate
+overnight. For even best-er results, consider cooking partway (2h+) ,
+slicing, refrigerating (or vice versa?), then cooking another hour the
+next day, as suggested in NYT most-helpful comments.
+
  https://cooking.nytimes.com/recipes/1017312-brisket-with-horseradish-gremolata
 
 *** carbonnade a la flamande (belgian beef, beer, and onion stew)
@@ -2696,6 +2992,31 @@ https://cooking.nytimes.com/recipes/1017022-mushroom-risotto-with-peas
  dash turmeric
 #+end_verse
 
+*** pot roast in pressure cooker
+
+
+|    1 beef rump roast, about 3 lb.
+|    Salt and freshly ground pepper, to taste
+|    1/4 cup all-purpose flour
+|    1 Tbs. extra-virgin olive oil
+|    2 yellow onions, cut into slices 1/4 inch thick
+|    8 carrots, cut diagonally into slices 1/2 inch thick
+|    1 1/2 cups unsalted beef stock
+|    2 garlic cloves, crushed
+|    3 fresh thyme sprigs
+|    1 bay leaf
+
+Season the roast with salt and pepper. Put the flour in a large bowl,
+add the roast and toss to coat evenly.
+
+Over medium-high heat, warm the olive oil until nearly smoking. Add
+the roast and brown on all sides, 3 to 4 minutes total. Transfer the
+roast to a platter. Add the onions to the pressure cooker and cook
+until tender, 3 to 5 minutes. Return the roast to the pressure cooker
+along with the carrots, stock, garlic, thyme and bay leaf. Cover and
+cook per pressure-cooker instructions.  (Estimate 35 minutes.)
+
+source: [[https://www.williams-sonoma.com/m/recipe/pot-roast-in-a-stovetop-pressure-cooker.html][williams-sonoma]]
 *** rack of lamb
 
  1 rack serves 2, if you make sides
@@ -3034,11 +3355,40 @@ https://cooking.nytimes.com/recipes/1017022-mushroom-risotto-with-peas
  source: about.com
 
 ** mexican                                                          :mexican:
-*** chicken enchiladas with salsa verde NYT                             :nyt:
+*** chicken enchiladas with salsa verde                               :nyt:
 
- https://cooking.nytimes.com/recipes/1018153-chicken-enchiladas-with-salsa-verde
+We have recently been starting with freshly roasted chicken meat, so
+we'll skip the part about preparing the chicken.
 
-*** chicken mole
+ *misc*
+  - corn tortillas (better than flour) --- about a dozen of them
+    - total about 10 tortillas
+  - chicken
+  - shredded mexican cheese
+
+ *salsa verde*
+
+  - a pound or so of tomatillos (rinse and drain if canned)
+  - 1 small white onion, chopped (not too much, or it's bitter)
+  - a clove or so of garlic, chopped
+  - a serrano chile, seeds removed
+  - 4 or 5 stems of fresh cilantro
+  - throw all of this into food processor
+
+ *directions*
+  - cook chicken (recipe says about 2 pounds)
+  - preheat oven to 375F
+  - make salsa verde
+  - don't bother frying the tortillas; just warm them in a dry skillet
+  - assemble enchiladas: some salsa beneath; chicken & salsa inside;
+    some salsa on top
+  - sprinkle shredded cheese (we didn't like original recipe's cheese
+    suggestion)
+  - bake 375F about 15 min, until sauce bubbles and cheese is melted
+
+ original source: https://cooking.nytimes.com/recipes/1018153-chicken-enchiladas-with-salsa-verde
+
+*** chicken mole                                                  :poultry:
 
 #+begin_verse
  6 boneless skinless chicken breast halves
@@ -3397,6 +3747,15 @@ https://cooking.nytimes.com/recipes/1017022-mushroom-risotto-with-peas
 
  source: Alison
 
+*** turkey epicurious 2019
+
+https://www.epicurious.com/holidays-events/the-easiest-way-to-cook-turkey-article
+
+*** turkey (Ina Garten)
+
+https://www.foodnetwork.com/recipes/ina-garten/perfect-roast-turkey-recipe4-1943576.amp
+
+successful [2022-11-24]
 *** turkey NYT                                                          :nyt:
 
  http://cooking.nytimes.com/guides/how-to-cook-a-turkey
@@ -3426,6 +3785,19 @@ https://cooking.nytimes.com/recipes/1017022-mushroom-risotto-with-peas
  http://cooking.nytimes.com/recipes/1016139-turkey-burgers
 
 ** salad                                                              :salad:
+*** balsamic vinaigrette
+
+- 3 tablespoons balsamic vinegar
+- 1 tablespoon Dijon mustard
+- 1 garlic clove, minced
+- 1/2 cup olive oil
+- Salt and freshly ground pepper
+- freshly ground pepper
+
+Combine vinegar, mustard, garlic.  Add oil slowly, while whisking.
+Season to taste.
+
+source: https://www.epicurious.com/recipes/food/views/balsamic-vinaigrette-234241
 *** Caesar salad Ana                                                    :ana:
 
 #+begin_verse
@@ -3458,7 +3830,7 @@ https://cooking.nytimes.com/recipes/1017022-mushroom-risotto-with-peas
 
  source:  Alison's aunt Ana
 
-*** egg-free Caesar salad
+*** Caesar salad - egg-free
 
  Dressing:
 
@@ -3539,6 +3911,45 @@ https://cooking.nytimes.com/recipes/1017022-mushroom-risotto-with-peas
 
  - vacation May 2018: added some paprika
 
+*** brussels sprouts, cider glazed NYT                                :nyt:
+
+https://cooking.nytimes.com/recipes/1020576-cider-glazed-brussels-sprouts?action=click&module=Collection%20Page%20Recipe%20Card&region=Brussels%20Sprouts%20Recipes&pgType=collection&rank=20
+
+*** brussels sprouts w garlic Mark Bittman NYT                        :nyt:
+
+Yield: 4 servings
+
+#+begin_verse
+     1 pound brussels sprouts
+     4-6 Tbsp extra virgin olive oil, to coat bottom of pan
+     5 cloves garlic, peeled
+     salt and pepper to taste
+     1 Tbsp balsamic vinegar (maybe less, to taste)
+#+end_verse
+
+Heat oven to 400 degrees. Trim bottom of brussels sprouts, and slice
+each in half top to bottom. Heat oil in cast-iron pan over medium-high
+heat until it shimmers; put sprouts cut side down in one layer in
+pan. Put in garlic, and sprinkle with salt and pepper.
+
+Cook, undisturbed, until sprouts begin to brown on bottom, and
+transfer to oven. Roast, shaking pan every 5 minutes, until sprouts
+are quite brown and tender, about 10 to 20 minutes.
+
+Taste, and add more salt and pepper if necessary. Stir in (CAREFUL,
+NOT TOO MUCH) balsamic vinegar, and serve hot or warm.
+
+success [2022-11-24]
+
+Notes:
+- Use oven-safe cast-iron pan, as noted above.
+- Getting sprouts brown is important to avoid bitter taste.
+- Smaller quantity of large, hand-selected sprouts is better than big
+  bag of assorted sprouts.
+- Don't cook more than can fit in pan with cut side down.
+
+source: [[https://cooking.nytimes.com/recipes/1890-roasted-brussels-sprouts-with-garlic]]
+
 *** green bean casserole
 
  green beans
@@ -3547,6 +3958,36 @@ https://cooking.nytimes.com/recipes/1017022-mushroom-risotto-with-peas
 
  source: pop-pop Magda (xmas)
 
+*** latkes
+
+
+|   * | clean dish towels to wring water from potato/onion       |
+|   2 | large Russet potatoes (about 1 lb), quartered lengthwise |
+|     | (I peeled potatoes, contrary to recipe.)                 |
+|   1 | large onion (half pound), peeled and cut                 |
+|     | into quarters                                            |
+|   2 | large eggs                                               |
+| 1/2 | cup all-purpose flour                                    |
+|   2 | tsp kosher salt                                          |
+|   1 | tsp baking powder                                        |
+| 1/2 | tsp freshly ground black pepper                          |
+|   * | oil for frying                                           |
+
+
+1. Grate potatoes and onion coarsely with food processor.  Transfer
+   mix to clean dishtowl and squeeze out water.
+2. Put mix into large bowl.  Add eggs, flour, salt, baking powder,
+   pepper; mix until flour is absorbed.  (I mixed eggs..pepper with
+   food processor, but don't mix so long that it thickens.)
+3. Heat 1/4 inch oil In a medium heavy-bottomed pan over medium-high
+   heat.  Once oil is hot (drop of batter sizzles in pan), use a
+   *heaping* tablespoon to drop the batter into the hot pan, cooking
+   in batches.  Use a spatula (90-degree spatula is handy!) to
+   flatten.  Flip once edges are brown and crispy (about 5 min).  Cook
+   until second side is deeply browned (about 5 min).  Transfer latkes
+   to paper-towel-lined plate to drain.  Repeat.
+
+source: [[https://cooking.nytimes.com/recipes/1015533-classic-potato-latkes][NYT cooking]]
 *** macaroni and cheese
 
 #+begin_verse
@@ -3578,20 +4019,72 @@ https://cooking.nytimes.com/recipes/1017022-mushroom-risotto-with-peas
  mashed potatoes
  butter
  velveeta
- other cheese
+ other cheese (e.g. yellow cheddar)
 
- to make ~80 pierogies, use
+ 12/2019: to make a few dozen medium-sized pierogies: (updated 12/2022)
+ 3 lbs potatoes (way too much, try 2 lbs next time)
+ 3/8 lb butter (way way too much, egads!)
+ 1 lb cheese (half velveeta, half cheddar) (use 1/4 velveeta or less)
+ 2 x dough recipe (dough tends to run out before filling)
+ used electric mixer, hand-crank pasta maker, and dumpling press
+ (rolling pin seems quicker than pasta maker)
+ boiling works well; pressure-cooking was disastrous!
+
+ original: to make ~80 pierogies, use
  5 lb potatoes
  3/4 lb butter
  2 lb cheese
  3 x dough recipe
 #+end_verse
+ .
 
  filling should be cool when you make the pierogies.  put 10 in
  boiling water, drain on a board, freeze on a board, then put in ziploc
  bags
 
+ - *note:* beet horseradish sauce is refrigerated in dairy aisle, next
+   to eggs, at McCaffrey's.
+ - This pierogie sauerkraut filling [[http://www.hep.upenn.edu/~ashmansk/recipe/r-pierogi-sauerkraut-filling.html][recipe]] worked pretty well Dec 2021.
+ - Don't make too large a batch of potato filling all at once.  Set
+   aside some mashed potato to make additional dough, as the dough
+   tends to run out before the filling does.
+ - Using much less butter in potato-cheese filling worked well
+   Dec 2021.
+
+possible dipping sauce (haven't tried): sour cream, lemon juice,
+garlic powder, onion powder, dill
+ 
  source: Poppop Magda
+
+*** pierogi sauerkraut filling
+
+#+begin_verse
+2 Tbsp vegetable oil
+1 cup chopped onion (maybe less)
+1 lb sauerkraut, rinsed & minced
+1 cup chopped mushrooms (maybe less)
+1/4 tsp salt
+1/4 tsp ground black pepper
+2 Tbsp sour cream (maybe more)
+#+end_verse
+
+Heat oil, cook onions & mushrooms until tender but not brown. Stir in
+sauerkraut, salt, pepper. Cook 6-10 min. Remove from heat. Stir in 2
+sour cream.
+
+source: [[https://www.allrecipes.com/recipe/11984/sauerkraut-filling-for-pierogi/?print][allrecipes]]
+
+*** rice cooked in pressure cooker
+
+- 1 cup of long grain white rice, *rinsed*
+- 1 1/4 cups water
+- 1/2 tsp salt
+
+Put all ingredients into pot and stir.  Pressure cook 3 minutes on
+high pressure.  Let pressure release naturally for 10 minutes.  Then
+quickly release remaining pressure.
+
+source: https://www.pressurecookingtoday.com/pressure-cooker-white-rice/
 
 *** sauteed carrots
 
@@ -3679,7 +4172,7 @@ https://cooking.nytimes.com/recipes/1017022-mushroom-risotto-with-peas
  egg (beaten, add drop by drop)
 #+end_verse
 
-*** black bean soup
+*** black bean soup                                                 :beans:
 
 #+begin_verse
  Quick Black Bean Soup
@@ -3865,7 +4358,9 @@ https://cooking.nytimes.com/recipes/1017022-mushroom-risotto-with-peas
  1 large carrot, peeled & diced
  juice of 1 lemon (*)
  3 Tbsp chopped fresh cilantro (not too much)
+ 
 #+end_verse
+
 
  In a large pot, heat 3 Tbsp oil over high heat until shimmering.  Add
  onion and garlic.  Saute until golden, about 4 min.
@@ -3918,6 +4413,53 @@ https://cooking.nytimes.com/recipes/1017022-mushroom-risotto-with-peas
  cheese and serve.
 
  source:  Matt Horn (Hyde Park neighbor)
+
+*** roasted tomato and white bean stew NYT                            :nyt:
+
+#+begin_verse
+  1/2 cup roughly chopped italian parsley
+   2  tsp lemon zest
+   2  10-oz containers cherry or grape tomatoes
+  1/4 cup olive oil
+      kosher salt & black pepper
+   1  medium yellow onion, thinly sliced
+   3  large garlic cloves, thinly sliced
+  1/2 tsp red pepper flakes
+   2  15-oz cans white beans (butter or cannellini), rinsed
+  1.5 cups vegetable or chicken broth
+#+end_verse
+
+Heat oven to 425F.  In small bowl, toss parsley & lemon zest until
+well combined
+
+In large baking dish, toss tomatoes with 1/4 cup oil and thyme; season
+well with salt & pepper.  Roast tomatoes until they have collapsed and
+begin to turn golden around the edges, 20-25 min.
+
+When tomatoes are almost done roasting, heat 2 Tbsp oil in large
+(12inch), deep skillet or dutch oven over medium.  Add onion, garlic,
+red pepper flakes, and cook until onion is softened and garlic is
+fragrant, 4-5 min.  Stir in rinsed beans & broth and bring to simmer.
+Gently smash about 1/2 cup of the beans so they slightly thicken the
+broth.
+
+when tomatoes are finished roasting, add them directly to the stew,
+along with any juices that have been released.  Sinner 5-10 min more.
+Season to taste.
+
+Ladle into bowls.  Top with lemon-parsley.
+
+source: https://cooking.nytimes.com/recipes/1020926-roasted-tomato-and-white-bean-stew
+
+*** spicy black bean and sweet potato chili NYT                       :nyt:
+
+
+https://cooking.nytimes.com/recipes/1021555-spicy-black-bean-and-sweet-potato-chili
+
+Notes:
+- use pre chopped sweet potato 
+- olive oil just fine, also less than called for 
+- avocado optional 
 
 *** split pea and green pea soup with fresh dill
 
@@ -4022,6 +4564,47 @@ https://cooking.nytimes.com/recipes/1017022-mushroom-risotto-with-peas
 
  source: Southern Living, OCTOBER 2008
 
+*** tuscan bean stew - quick & hearty
+
+The authors recommend soaking beans overnight in brine --- hmmm.
+
+#+begin_verse
+
+Ingredients
+
+  1 Tbsp extra virgin olive oil
+  6 oz pancetta (or bacon), cut into quarter-inch pieces
+  2 medium celery ribs, cut into half-inch pieces
+  2 medium carrots, peeled and cut into half-inch pieces
+  8 medium garlic cloves, minced (about 3 Tbsp)
+  3 cups low-sodium chicken broth
+  2 cups water
+  4 (15-oz) cans cannellini beans, drained and rinsed
+  2 medium bay leaves
+  1 (15-oz) can diced tomatoes, drained and rinsed
+  1 medium bunch kale or collard greens, thick stems trimmed, chopped
+  1 sprig fresh rosemary
+
+#+end_verse
+
+-
+
+1. Heat oil and pancetta in large Dutch oven over medium heat.  Cool,
+   stirring occasionally, until pancetta is lightly browned, 5-10 min.
+   Add onion, celery, and carrots.  Cook, stirring occasionally, until
+   vegetables are softened and lightly browned, 10-15 min.  Stir in
+   garlic and cook until fragrant, about 1 min.  Stir in broth, water,
+   beans, bay leaves, tomatoes, and greens.  Bring to simmer.  Then
+   reduce heat and simmer until vegetables and greens are tender,
+   20-25 min.
+
+2. Remove pot from stove and submerge rosemary sprig in stew.  Cover
+   and let stand 15 min.  Discard bay leaves and rosemary sprig.
+   Season with salt and pepper to taste.  Serve lightly drizzled with
+   olive oil.
+
+source: America's Test Kitchen, via Adrian Nikolica
+
 *** ultimate baked potato soup
 
 
@@ -4059,6 +4642,12 @@ https://cooking.nytimes.com/recipes/1017022-mushroom-risotto-with-peas
 #+end_verse
 
  source: grandma Magda
+
+*** vegetarian chili with winter vegetables NYT                 :nyt:beans:
+
+https://cooking.nytimes.com/recipes/1016032-vegetarian-chili-with-winter-vegetables
+
+Bill tried this on 2019-03-14.  Not yet evaluated by full committee!
 
 *** yellow pepper soup
 

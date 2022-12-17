@@ -5,7 +5,7 @@
   [[[file:0-recipe-index.org][main recipe page]]]
 
   - [[file:r-asparagus-soup.org][asparagus soup]] [[[file:c-soup.org][soup]]]
-  - [[file:r-black-bean-soup.org][black bean soup]] [[[file:c-soup.org][soup]]]
+  - [[file:r-black-bean-soup.org][black bean soup]] [[[file:c-beans.org][beans]]] [[[file:c-soup.org][soup]]]
   - [[file:r-butternut-squash-soup.org][butternut squash soup]] [[[file:c-soup.org][soup]]]
   - [[file:r-chickpea-and-sausage-minestrone.org][chickpea and sausage minestrone]] [[[file:c-soup.org][soup]]]
   - [[file:r-creamy-carrot-sweet-potato-soup.org][creamy carrot & sweet potato soup]] [[[file:c-soup.org][soup]]]
@@ -16,10 +16,14 @@
   - [[file:r-minestrone-soup.org][minestrone soup]] [[[file:c-soup.org][soup]]]
   - [[file:r-red-lentil-soup-nyt.org][red lentil soup NYT]] [[[file:c-nyt.org][nyt]]] [[[file:c-soup.org][soup]]]
   - [[file:r-roasted-eggplant-soup.org][roasted eggplant soup]] [[[file:c-soup.org][soup]]]
+  - [[file:r-roasted-tomato-and-white-bean-stew-nyt.org][roasted tomato and white bean stew NYT]] [[[file:c-nyt.org][nyt]]] [[[file:c-soup.org][soup]]]
+  - [[file:r-spicy-black-bean-and-sweet-potato-chili-nyt.org][spicy black bean and sweet potato chili NYT]] [[[file:c-nyt.org][nyt]]] [[[file:c-soup.org][soup]]]
   - [[file:r-split-pea-and-green-pea-soup-with-fresh-dill.org][split pea and green pea soup with fresh dill]] [[[file:c-soup.org][soup]]]
   - [[file:r-split-pea-soup.org][split pea soup]] [[[file:c-soup.org][soup]]]
   - [[file:r-turkey-chili.org][turkey chili]] [[[file:c-soup.org][soup]]]
+  - [[file:r-tuscan-bean-stew-quick-hearty.org][tuscan bean stew - quick & hearty]] [[[file:c-soup.org][soup]]]
   - [[file:r-ultimate-baked-potato-soup.org][ultimate baked potato soup]] [[[file:c-soup.org][soup]]]
+  - [[file:r-vegetarian-chili-with-winter-vegetables-nyt.org][vegetarian chili with winter vegetables NYT]] [[[file:c-beans.org][beans]]] [[[file:c-nyt.org][nyt]]] [[[file:c-soup.org][soup]]]
   - [[file:r-yellow-pepper-soup.org][yellow pepper soup]] [[[file:c-soup.org][soup]]]
 
 

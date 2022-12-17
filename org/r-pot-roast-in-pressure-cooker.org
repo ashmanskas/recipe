@@ -1,0 +1,30 @@
+#+pagetitle: pot roast in pressure cooker
+
+** pot roast in pressure cooker
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-meat.org][meat]]]
+
+|    1 beef rump roast, about 3 lb.
+|    Salt and freshly ground pepper, to taste
+|    1/4 cup all-purpose flour
+|    1 Tbs. extra-virgin olive oil
+|    2 yellow onions, cut into slices 1/4 inch thick
+|    8 carrots, cut diagonally into slices 1/2 inch thick
+|    1 1/2 cups unsalted beef stock
+|    2 garlic cloves, crushed
+|    3 fresh thyme sprigs
+|    1 bay leaf
+
+Season the roast with salt and pepper. Put the flour in a large bowl,
+add the roast and toss to coat evenly.
+
+Over medium-high heat, warm the olive oil until nearly smoking. Add
+the roast and brown on all sides, 3 to 4 minutes total. Transfer the
+roast to a platter. Add the onions to the pressure cooker and cook
+until tender, 3 to 5 minutes. Return the roast to the pressure cooker
+along with the carrots, stock, garlic, thyme and bay leaf. Cover and
+cook per pressure-cooker instructions.  (Estimate 35 minutes.)
+
+source: [[https://www.williams-sonoma.com/m/recipe/pot-roast-in-a-stovetop-pressure-cooker.html][williams-sonoma]]

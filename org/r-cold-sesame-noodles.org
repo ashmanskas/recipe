@@ -1,0 +1,11 @@
+#+pagetitle: cold sesame noodles
+
+** cold sesame noodles
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-asian.org][asian]]]
+
+2019-12-31
+
+source:  https://www.marthastewart.com/339286/cold-sesame-noodles

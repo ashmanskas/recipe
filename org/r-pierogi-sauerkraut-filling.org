@@ -1,0 +1,23 @@
+#+pagetitle: pierogi sauerkraut filling
+
+** pierogi sauerkraut filling
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-side.org][side]]]
+
+#+begin_verse
+2 Tbsp vegetable oil
+1 cup chopped onion (maybe less)
+1 lb sauerkraut, rinsed & minced
+1 cup chopped mushrooms (maybe less)
+1/4 tsp salt
+1/4 tsp ground black pepper
+2 Tbsp sour cream (maybe more)
+#+end_verse
+
+Heat oil, cook onions & mushrooms until tender but not brown. Stir in
+sauerkraut, salt, pepper. Cook 6-10 min. Remove from heat. Stir in 2
+sour cream.
+
+source: [[https://www.allrecipes.com/recipe/11984/sauerkraut-filling-for-pierogi/?print][allrecipes]]

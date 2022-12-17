@@ -1,0 +1,33 @@
+#+pagetitle: french baguettes, with bread machine dough cycle
+
+** french baguettes, with bread machine dough cycle
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-bread.org][bread]]]
+
+#+begin_verse
+1.5 cups water
+1.5 tsp salt
+1 tsp white sugar
+1 Tbsp olive oil
+3.25 cups bread flour
+1.5 tsp bread machine yeast
+#+end_verse
+
+- Place ingredients in bread pan as indicated by recipe. Select the
+  dough cycle, and start.
+- Dough will be sticky and wet once cycle is completed, resist the
+  temptation to add more flour.
+- Place dough on a lightly floured board, cover with a large bowl or a
+  towel, and let rest for 15 minutes.
+- Cut into 2 pieces, and form each into a 3×14-inch oval. Place loaves
+  on prepared baking sheet lined with parchment paper. Cover, and let
+  rise for approximately 40 minutes. Preheat oven to 425 degrees F.
+- Cut diagonal slashes in the dough, and then place loaves in the oven
+  on the middle rack. Bake for 25 to 30 minutes.  (More like 25 is
+  better.)
+- During baking, spritz loaves with water every 5 to 10 minutes for a
+  crispier crust if you like.
+
+source: https://www.breadmakermachines.com/recipes/french-baguettes-recipe/

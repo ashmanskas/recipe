@@ -1,0 +1,11 @@
+#+pagetitle: vegetarian chili with winter vegetables NYT
+
+** vegetarian chili with winter vegetables NYT
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-beans.org][beans]]] [[[file:c-nyt.org][nyt]]] [[[file:c-soup.org][soup]]]
+
+https://cooking.nytimes.com/recipes/1016032-vegetarian-chili-with-winter-vegetables
+
+Bill tried this on 2019-03-14.  Not yet evaluated by full committee!

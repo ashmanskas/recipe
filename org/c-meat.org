@@ -12,6 +12,7 @@
   - [[file:r-magic-beef.org][magic beef]] [[[file:c-asian.org][asian]]] [[[file:c-meat.org][meat]]]
   - [[file:r-meatloaf.org][meatloaf]] [[[file:c-meat.org][meat]]]
   - [[file:r-outback-steak-seasoning.org][outback steak seasoning]] [[[file:c-meat.org][meat]]]
+  - [[file:r-pot-roast-in-pressure-cooker.org][pot roast in pressure cooker]] [[[file:c-meat.org][meat]]]
   - [[file:r-rack-of-lamb.org][rack of lamb]] [[[file:c-meat.org][meat]]]
   - [[file:r-roast-beef.org][roast beef]] [[[file:c-meat.org][meat]]]
   - [[file:r-roast-beef-feb-2012.org][roast beef Feb 2012]] [[[file:c-meat.org][meat]]]

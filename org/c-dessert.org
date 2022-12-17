@@ -6,6 +6,7 @@
 
   - [[file:r-apple-pie.org][apple pie]] [[[file:c-dessert.org][dessert]]]
   - [[file:r-banana-nut-bread.org][banana nut bread]] [[[file:c-bread.org][bread]]] [[[file:c-dessert.org][dessert]]]
+  - [[file:r-blueberry-muffins-jordan-marsh.org][blueberry muffins Jordan Marsh]] [[[file:c-dessert.org][dessert]]]
   - [[file:r-chocolate-chip-cookies.org][chocolate chip cookies]] [[[file:c-dessert.org][dessert]]]
   - [[file:r-chocolate-fondue.org][chocolate fondue]] [[[file:c-dessert.org][dessert]]] [[[file:c-french.org][french]]]
   - [[file:r-cream-cheese-pie.org][cream cheese pie]] [[[file:c-dessert.org][dessert]]]

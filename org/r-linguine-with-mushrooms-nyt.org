@@ -1,0 +1,29 @@
+#+pagetitle: linguine with mushrooms NYT
+
+** linguine with mushrooms NYT
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-italian.org][italian]]] [[[file:c-nyt.org][nyt]]]
+
+#+begin_verse
+6 Tbsp extra-virgin olive oil
+12 ounces fresh mushrooms, thinly sliced
+2 cloves garlic, minced
+1/3 cup finely chopped italian parsley
+salt & freshly ground black pepper
+1/2 pound linguine
+freshly grated parmesan cheese
+#+end_verse
+
+Boil 3 quarts of salted water over high heat in large covered pot
+
+Heat olive oil in large skillet over high heat.  Cook mushrooms,
+stirring, about 6 minutes, until they begin to brown.  Stir in garlic
+and parsley.  Remove from heat.
+
+Cook linguine in boiling water, uncovered, about 7 minutes, until al
+dente.  Drain thoroughly.
+
+Place mushroom mixture over medium heat, add linguine, and toss.
+Serve with parmesan cheese on the side.

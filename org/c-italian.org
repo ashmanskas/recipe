@@ -17,6 +17,7 @@
   - [[file:r-giant-shells-filled-with-spinach-and-ricotta.org][giant shells filled with spinach and ricotta]] [[[file:c-italian.org][italian]]] [[[file:c-nyt.org][nyt]]]
   - [[file:r-gnocchi.org][gnocchi]] [[[file:c-italian.org][italian]]]
   - [[file:r-lasagna.org][lasagna]] [[[file:c-italian.org][italian]]]
+  - [[file:r-linguine-with-mushrooms-nyt.org][linguine with mushrooms NYT]] [[[file:c-italian.org][italian]]] [[[file:c-nyt.org][nyt]]]
   - [[file:r-pasta-with-zucchini-pine-nuts-lemon-and-herbs.org][pasta with zucchini, pine nuts, lemon, and herbs]] [[[file:c-italian.org][italian]]]
   - [[file:r-pesto.org][pesto]] [[[file:c-italian.org][italian]]]
   - [[file:r-puttanesca-sauce.org][puttanesca sauce]] [[[file:c-italian.org][italian]]]

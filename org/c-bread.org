@@ -4,10 +4,12 @@
 
   [[[file:0-recipe-index.org][main recipe page]]]
 
+  - [[file:r-banana-bread.org][banana bread]] [[[file:c-bread.org][bread]]]
   - [[file:r-banana-nut-bread.org][banana nut bread]] [[[file:c-bread.org][bread]]] [[[file:c-dessert.org][dessert]]]
   - [[file:r-beer-cheese-bread.org][beer-cheese bread]] [[[file:c-bread.org][bread]]]
   - [[file:r-focaccia-bread.org][focaccia bread]] [[[file:c-bread.org][bread]]]
   - [[file:r-focaccia-from-genoa.org][focaccia from Genoa]] [[[file:c-bread.org][bread]]]
+  - [[file:r-french-baguettes-with-bread-machine-dough-cycle.org][french baguettes, with bread machine dough cycle]] [[[file:c-bread.org][bread]]]
   - [[file:r-garlic-bread.org][garlic bread]] [[[file:c-bread.org][bread]]] [[[file:c-italian.org][italian]]]
   - [[file:r-no-knead-bread-nyt.org][no-knead bread NYT]] [[[file:c-bread.org][bread]]] [[[file:c-nyt.org][nyt]]]
   - [[file:r-pizza-dough.org][pizza dough]] [[[file:c-bread.org][bread]]]

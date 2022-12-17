@@ -16,17 +16,39 @@ category: [[[file:c-side.org][side]]]
  mashed potatoes
  butter
  velveeta
- other cheese
+ other cheese (e.g. yellow cheddar)
 
- to make ~80 pierogies, use
+ 12/2019: to make a few dozen medium-sized pierogies: (updated 12/2022)
+ 3 lbs potatoes (way too much, try 2 lbs next time)
+ 3/8 lb butter (way way too much, egads!)
+ 1 lb cheese (half velveeta, half cheddar) (use 1/4 velveeta or less)
+ 2 x dough recipe (dough tends to run out before filling)
+ used electric mixer, hand-crank pasta maker, and dumpling press
+ (rolling pin seems quicker than pasta maker)
+ boiling works well; pressure-cooking was disastrous!
+
+ original: to make ~80 pierogies, use
  5 lb potatoes
  3/4 lb butter
  2 lb cheese
  3 x dough recipe
 #+end_verse
+ .
 
  filling should be cool when you make the pierogies.  put 10 in
  boiling water, drain on a board, freeze on a board, then put in ziploc
  bags
 
+ - *note:* beet horseradish sauce is refrigerated in dairy aisle, next
+   to eggs, at McCaffrey's.
+ - This pierogie sauerkraut filling [[http://www.hep.upenn.edu/~ashmansk/recipe/r-pierogi-sauerkraut-filling.html][recipe]] worked pretty well Dec 2021.
+ - Don't make too large a batch of potato filling all at once.  Set
+   aside some mashed potato to make additional dough, as the dough
+   tends to run out before the filling does.
+ - Using much less butter in potato-cheese filling worked well
+   Dec 2021.
+
+possible dipping sauce (haven't tried): sour cream, lemon juice,
+garlic powder, onion powder, dill
+ 
  source: Poppop Magda

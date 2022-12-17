@@ -4,8 +4,11 @@
 
   [[[file:0-recipe-index.org][main recipe page]]]
 
+  - [[file:r-asian-lettuce-wraps.org][Asian lettuce wraps]] [[[file:c-asian.org][asian]]]
+  - [[file:r-bowl-rice-bowl-with-oven-baked-tofu.org][bowl (rice bowl) with oven-baked tofu]] [[[file:c-asian.org][asian]]] [[[file:c-nyt.org][nyt]]]
   - [[file:r-cashew-chicken.org][cashew chicken]] [[[file:c-asian.org][asian]]]
   - [[file:r-chinese-curried-chicken.org][Chinese curried chicken]] [[[file:c-asian.org][asian]]] [[[file:c-indian.org][indian]]]
+  - [[file:r-cold-sesame-noodles.org][cold sesame noodles]] [[[file:c-asian.org][asian]]]
   - [[file:r-cold-sesame-noodles-with-summer-vegetables.org][cold sesame noodles with summer vegetables]] [[[file:c-asian.org][asian]]]
   - [[file:r-egg-drop-soup.org][egg drop soup]] [[[file:c-asian.org][asian]]] [[[file:c-soup.org][soup]]]
   - [[file:r-hot-and-sour-soup.org][hot and sour soup]] [[[file:c-asian.org][asian]]] [[[file:c-soup.org][soup]]]

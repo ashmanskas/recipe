@@ -7,7 +7,7 @@
 category: [[[file:c-beans.org][beans]]]
 
 #+begin_verse
- 1 can red kidney beans, rinsed and drained
+ 2 cans red kidney beans, rinsed and drained
  1 3/4 c chicken broth
  1 can chopped tomatoes, drained
  3/4 c water

@@ -1,0 +1,42 @@
+#+pagetitle: roasted tomato and white bean stew NYT
+
+** roasted tomato and white bean stew NYT
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-nyt.org][nyt]]] [[[file:c-soup.org][soup]]]
+
+#+begin_verse
+  1/2 cup roughly chopped italian parsley
+   2  tsp lemon zest
+   2  10-oz containers cherry or grape tomatoes
+  1/4 cup olive oil
+      kosher salt & black pepper
+   1  medium yellow onion, thinly sliced
+   3  large garlic cloves, thinly sliced
+  1/2 tsp red pepper flakes
+   2  15-oz cans white beans (butter or cannellini), rinsed
+  1.5 cups vegetable or chicken broth
+#+end_verse
+
+Heat oven to 425F.  In small bowl, toss parsley & lemon zest until
+well combined
+
+In large baking dish, toss tomatoes with 1/4 cup oil and thyme; season
+well with salt & pepper.  Roast tomatoes until they have collapsed and
+begin to turn golden around the edges, 20-25 min.
+
+When tomatoes are almost done roasting, heat 2 Tbsp oil in large
+(12inch), deep skillet or dutch oven over medium.  Add onion, garlic,
+red pepper flakes, and cook until onion is softened and garlic is
+fragrant, 4-5 min.  Stir in rinsed beans & broth and bring to simmer.
+Gently smash about 1/2 cup of the beans so they slightly thicken the
+broth.
+
+when tomatoes are finished roasting, add them directly to the stew,
+along with any juices that have been released.  Sinner 5-10 min more.
+Season to taste.
+
+Ladle into bowls.  Top with lemon-parsley.
+
+source: https://cooking.nytimes.com/recipes/1020926-roasted-tomato-and-white-bean-stew

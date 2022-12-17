@@ -1,0 +1,17 @@
+#+pagetitle: rice cooked in pressure cooker
+
+** rice cooked in pressure cooker
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-side.org][side]]]
+
+- 1 cup of long grain white rice, *rinsed*
+- 1 1/4 cups water
+- 1/2 tsp salt
+
+Put all ingredients into pot and stir.  Pressure cook 3 minutes on
+high pressure.  Let pressure release naturally for 10 minutes.  Then
+quickly release remaining pressure.
+
+source: https://www.pressurecookingtoday.com/pressure-cooker-white-rice/

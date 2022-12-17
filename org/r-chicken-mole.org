@@ -4,7 +4,7 @@
 
   [[[file:0-recipe-index.org][main recipe page]]]
 
-category: [[[file:c-mexican.org][mexican]]]
+categories: [[[file:c-mexican.org][mexican]]] [[[file:c-poultry.org][poultry]]]
 
 #+begin_verse
  6 boneless skinless chicken breast halves

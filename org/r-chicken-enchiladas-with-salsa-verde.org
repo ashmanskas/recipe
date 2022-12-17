@@ -1,0 +1,38 @@
+#+pagetitle: chicken enchiladas with salsa verde
+
+** chicken enchiladas with salsa verde
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-mexican.org][mexican]]] [[[file:c-nyt.org][nyt]]]
+
+We have recently been starting with freshly roasted chicken meat, so
+we'll skip the part about preparing the chicken.
+
+ *misc*
+  - corn tortillas (better than flour) --- about a dozen of them
+    - total about 10 tortillas
+  - chicken
+  - shredded mexican cheese
+
+ *salsa verde*
+
+  - a pound or so of tomatillos (rinse and drain if canned)
+  - 1 small white onion, chopped (not too much, or it's bitter)
+  - a clove or so of garlic, chopped
+  - a serrano chile, seeds removed
+  - 4 or 5 stems of fresh cilantro
+  - throw all of this into food processor
+
+ *directions*
+  - cook chicken (recipe says about 2 pounds)
+  - preheat oven to 375F
+  - make salsa verde
+  - don't bother frying the tortillas; just warm them in a dry skillet
+  - assemble enchiladas: some salsa beneath; chicken & salsa inside;
+    some salsa on top
+  - sprinkle shredded cheese (we didn't like original recipe's cheese
+    suggestion)
+  - bake 375F about 15 min, until sauce bubbles and cheese is melted
+
+ original source: https://cooking.nytimes.com/recipes/1018153-chicken-enchiladas-with-salsa-verde

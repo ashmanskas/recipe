@@ -5,6 +5,8 @@
   [[[file:0-recipe-index.org][main recipe page]]]
 
   - [[file:r-black-bean-burgers.org][black bean burgers]] [[[file:c-beans.org][beans]]]
+  - [[file:r-black-bean-soup.org][black bean soup]] [[[file:c-beans.org][beans]]] [[[file:c-soup.org][soup]]]
   - [[file:r-red-beans-and-rice.org][red beans and rice]] [[[file:c-beans.org][beans]]]
+  - [[file:r-vegetarian-chili-with-winter-vegetables-nyt.org][vegetarian chili with winter vegetables NYT]] [[[file:c-beans.org][beans]]] [[[file:c-nyt.org][nyt]]] [[[file:c-soup.org][soup]]]
 
 

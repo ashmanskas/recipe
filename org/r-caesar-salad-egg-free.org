@@ -1,6 +1,6 @@
-#+pagetitle: egg-free Caesar salad
+#+pagetitle: Caesar salad - egg-free
 
-** egg-free Caesar salad
+** Caesar salad - egg-free
 
   [[[file:0-recipe-index.org][main recipe page]]]
 

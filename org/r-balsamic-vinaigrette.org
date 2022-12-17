@@ -1,0 +1,19 @@
+#+pagetitle: balsamic vinaigrette
+
+** balsamic vinaigrette
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-salad.org][salad]]]
+
+- 3 tablespoons balsamic vinegar
+- 1 tablespoon Dijon mustard
+- 1 garlic clove, minced
+- 1/2 cup olive oil
+- Salt and freshly ground pepper
+- freshly ground pepper
+
+Combine vinegar, mustard, garlic.  Add oil slowly, while whisking.
+Season to taste.
+
+source: https://www.epicurious.com/recipes/food/views/balsamic-vinaigrette-234241

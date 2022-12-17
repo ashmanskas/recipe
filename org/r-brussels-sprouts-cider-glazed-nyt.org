@@ -1,0 +1,9 @@
+#+pagetitle: brussels sprouts, cider glazed NYT
+
+** brussels sprouts, cider glazed NYT
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-nyt.org][nyt]]] [[[file:c-side.org][side]]]
+
+https://cooking.nytimes.com/recipes/1020576-cider-glazed-brussels-sprouts?action=click&module=Collection%20Page%20Recipe%20Card&region=Brussels%20Sprouts%20Recipes&pgType=collection&rank=20

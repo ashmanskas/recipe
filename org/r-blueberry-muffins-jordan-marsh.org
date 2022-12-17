@@ -1,0 +1,54 @@
+#+pagetitle: blueberry muffins Jordan Marsh
+
+** blueberry muffins Jordan Marsh
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-dessert.org][dessert]]]
+
+#+begin_verse
+  0.5 cup butter
+  2   cups unsifted flour
+  1   cup sugar
+  2   large eggs
+  0.5 cup milk
+  2   teaspoons baking powder
+  0.5 teaspoon salt
+  2.5 cups large fresh blueberries
+  1.5 teaspoons vanilla extract
+  2   tablespoons sugar (for top of muffins)
+#+end_verse
+
+Preheat oven to 375°F.
+
+In a large mixing bowl, cream together butter and sugar until light
+and fluffy; add eggs, one at a time, beating after each addition.
+
+In a second bowl, combine all dry ingredients. (You can use an
+electric mixer to combine the dry ingredients thoroughly at this point
+so that you won't need to overmix once the wet and dry ingredients are
+combined.
+
+Gradually add the dry ingredients to the creamed butter and sugar
+mixture along with the milk and vanilla.
+
+Optionally, mash 1/2 cup of the blueberries, and stir in by hand (this
+will turn batter a light shade of blue and add a touch of blueberry
+flavor, but this step may be skipped, if you wish). Add the remaining
+whole berries and stir in gently by hand.
+
+Spray a 12 muffin baking pan with Baker's Joy (or other non-stick
+spray). Fill greased muffin cups.  (Yankee Magazine suggests using
+paper muffin liners.)
+
+Sprinkle sugar on top of unbaked muffins.
+
+Bake at 375°F for 25-30 minutes. Cool in pan. Run a knife around the
+edge of each muffin after several minutes to free it from the pan and
+cool on wire racks. Muffins may be brushed with melted butter and
+sprinkled with sugar, if desired.
+
+On [2022-11-23], I cooked 25-30 min but probably should have let them
+cook another 5 min or so.
+
+source: https://newengland.com/today/food/breakfast-brunch/muffins/jordan-marsh-blueberry-muffins/

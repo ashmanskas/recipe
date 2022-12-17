@@ -1,0 +1,14 @@
+#+pagetitle: spicy black bean and sweet potato chili NYT
+
+** spicy black bean and sweet potato chili NYT
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-nyt.org][nyt]]] [[[file:c-soup.org][soup]]]
+
+https://cooking.nytimes.com/recipes/1021555-spicy-black-bean-and-sweet-potato-chili
+
+Notes:
+- use pre chopped sweet potato 
+- olive oil just fine, also less than called for 
+- avocado optional 

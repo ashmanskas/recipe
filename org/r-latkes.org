@@ -1,0 +1,35 @@
+#+pagetitle: latkes
+
+** latkes
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+category: [[[file:c-side.org][side]]]
+
+|   * | clean dish towels to wring water from potato/onion       |
+|   2 | large Russet potatoes (about 1 lb), quartered lengthwise |
+|     | (I peeled potatoes, contrary to recipe.)                 |
+|   1 | large onion (half pound), peeled and cut                 |
+|     | into quarters                                            |
+|   2 | large eggs                                               |
+| 1/2 | cup all-purpose flour                                    |
+|   2 | tsp kosher salt                                          |
+|   1 | tsp baking powder                                        |
+| 1/2 | tsp freshly ground black pepper                          |
+|   * | oil for frying                                           |
+
+
+1. Grate potatoes and onion coarsely with food processor.  Transfer
+   mix to clean dishtowl and squeeze out water.
+2. Put mix into large bowl.  Add eggs, flour, salt, baking powder,
+   pepper; mix until flour is absorbed.  (I mixed eggs..pepper with
+   food processor, but don't mix so long that it thickens.)
+3. Heat 1/4 inch oil In a medium heavy-bottomed pan over medium-high
+   heat.  Once oil is hot (drop of batter sizzles in pan), use a
+   *heaping* tablespoon to drop the batter into the hot pan, cooking
+   in batches.  Use a spatula (90-degree spatula is handy!) to
+   flatten.  Flip once edges are brown and crispy (about 5 min).  Cook
+   until second side is deeply browned (about 5 min).  Transfer latkes
+   to paper-towel-lined plate to drain.  Repeat.
+
+source: [[https://cooking.nytimes.com/recipes/1015533-classic-potato-latkes][NYT cooking]]

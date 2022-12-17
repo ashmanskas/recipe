@@ -4,6 +4,7 @@
 
   [[[file:0-recipe-index.org][main recipe page]]]
 
+  - [[file:r-aloo-gobi.org][aloo gobi]] [[[file:c-indian.org][indian]]]
   - [[file:r-bengan-bharta.org][bengan bharta]] [[[file:c-indian.org][indian]]]
   - [[file:r-chicken-tikka-masala.org][chicken tikka masala]] [[[file:c-indian.org][indian]]]
   - [[file:r-chicken-vindaloo.org][chicken vindaloo]] [[[file:c-indian.org][indian]]]

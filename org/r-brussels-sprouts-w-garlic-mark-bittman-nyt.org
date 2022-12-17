@@ -1,0 +1,40 @@
+#+pagetitle: brussels sprouts w garlic Mark Bittman NYT
+
+** brussels sprouts w garlic Mark Bittman NYT
+
+  [[[file:0-recipe-index.org][main recipe page]]]
+
+categories: [[[file:c-nyt.org][nyt]]] [[[file:c-side.org][side]]]
+
+Yield: 4 servings
+
+#+begin_verse
+     1 pound brussels sprouts
+     4-6 Tbsp extra virgin olive oil, to coat bottom of pan
+     5 cloves garlic, peeled
+     salt and pepper to taste
+     1 Tbsp balsamic vinegar (maybe less, to taste)
+#+end_verse
+
+Heat oven to 400 degrees. Trim bottom of brussels sprouts, and slice
+each in half top to bottom. Heat oil in cast-iron pan over medium-high
+heat until it shimmers; put sprouts cut side down in one layer in
+pan. Put in garlic, and sprinkle with salt and pepper.
+
+Cook, undisturbed, until sprouts begin to brown on bottom, and
+transfer to oven. Roast, shaking pan every 5 minutes, until sprouts
+are quite brown and tender, about 10 to 20 minutes.
+
+Taste, and add more salt and pepper if necessary. Stir in (CAREFUL,
+NOT TOO MUCH) balsamic vinegar, and serve hot or warm.
+
+success [2022-11-24]
+
+Notes:
+- Use oven-safe cast-iron pan, as noted above.
+- Getting sprouts brown is important to avoid bitter taste.
+- Smaller quantity of large, hand-selected sprouts is better than big
+  bag of assorted sprouts.
+- Don't cook more than can fit in pan with cut side down.
+
+source: [[https://cooking.nytimes.com/recipes/1890-roasted-brussels-sprouts-with-garlic]]
